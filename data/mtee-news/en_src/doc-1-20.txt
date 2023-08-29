@@ -1,0 +1,9 @@
+Tesla: Hundreds locked out of cars after server outage
+Some 500 users of Tesla electric cars were unable to connect to their vehicles, with Elon Musk saying the company's mobile application "should be coming back online now".
+Around 500 Tesla car owners were unable to connect to their vehicles due to an app server outage.
+Elon Musk, CEO of Tesla, said on Friday that the company's mobile application was coming back online after the outage.
+He tweeted in response to a Tesla owner who said he was experiencing a "500 server error" in connecting his Model 3 through the iOS app in Seoul, South Korea.
+"Should be coming back online now," Mr Musk said.
+"Looks like we may have accidentally increased verbosity of network traffic."
+Around 500 Tesla users reported facing an error around 9.40pm GMT, according to outage monitoring website Downdetector.
+There were over 60 reports as of 2.20am GMT.

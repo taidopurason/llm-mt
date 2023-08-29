@@ -1,0 +1,44 @@
+10 common cryptocurrency terms you need to know
+Despite Bitcoin launching way back in 2009, it’s only until recently that you can’t turn on the news or browse the web without coming across some mention of cryptocurrency.
+I got so many questions from my readers and national radio show listeners that I wrote an eBook about crypto to help.
+I demystify digital currency, mining, and how to get started trading.
+Tap or click here to get your copy on Amazon.
+Sadly, I also hear from people that got fooled by one crypto scam or another.
+Where there is money, criminals are waiting.
+Tap or click for five clever crypto scams making the rounds right now and steps to stay safe.
+Before we get started, know this is not financial advice.
+The crypto world is volatile, and you should never risk money you aren't comfortable losing.
+Now, let's take a look at some of the most common lingo.
+1. Blockchain
+Every cryptocurrency transaction is processed, verified, and recorded on a virtual ledger known as a blockchain.
+When time someone buys or sells using cryptocurrency, another entry is made on this virtual ledger.
+Think of the blockchain as a series of boxcars from a train.
+When a cryptocurrency transaction is made, another boxcar gets added to the train.
+The blockchain is decentralized.
+This means it’s not stored on one machine or even across one network.
+Instead, the blockchain exists on computers all over the world that are accessible because of the internet.
+People and companies help verify each transaction that gets added to the blockchain using their own computer’s processing power on a decentralized peer-to-peer network.
+Each transaction is timestamped, individually encrypted, and cannot be reversed or changed.
+Yes, you read that right — crypto transactions cannot be reversed.
+Would you rather listen than read?
+Tap or click for an episode of my podcast, Kim Komando Explains, about everything crypto.
+You'll also hear firsthand from a crypto miner, too.
+2. Fiat
+I know what you’re thinking: "I thought a Fiat was a car."
+Not in crypto-land.
+Fiat money is government-issued currency.
+If you’re in the United States, that means the U.S. dollar.
+Cryptocurrency, on the other hand, is virtual money.
+Cryptocurrencies aren’t backed by governments or any other standard used with traditional currency.
+Each "token" represents the amount you own.
+How much each token is worth varies based on the current market value.
+One day it's up; the next day down.
+With cryptocurrency, the price fluctuations can happen much faster and are more extreme — both positive and negative.
+A good resource to check the current prices is CoinMarketCap.
+3. Altcoin
+Here’s an easy one to remember.
+An altcoin is any digital currency that’s not Bitcoin.
+There are thousands of cryptocurrencies, with new ones being added all the time.
+At the time of this writing, these are the five currencies with the highest market caps.
+(That is the total market value of the circulating supply.)
+Since crypto moves so fast, this list may have already changed by the time you’re reading.

@@ -1,0 +1,13 @@
+Uuring: gripiviirus levib kõige paremini nullkraadisel temperatuuril, koroonaviirus aga +10 kraadi juures
+COVID-19 pandeemia alguses eeldati, et koroonaviirus käitub gripiga sarnasel viisil ja epideemia lained on hooajalised, kuid see teooria ei ole leidnud teaduslikku kinnitust.
+Sellised järeldused tehti hiljuti avaldatud rahvusvahelises uuringus, mille jaoks koguti andmeid 26 riigist (sh Eestist), 409 asustatud punktist ja kõikidest kliimavöötmetest.
+Andmekogum hõlmab 44% kõikidest koroonaviirusega nakatumise juhtudest maailmas, teatas portaal Yle.
+Uuringus kasutati nakatumisstatistikat perioodist, kui elanikkonnal ei olnud veel vaktsineerimise teel saadud immuunsust.
+Teadlased jõudsid järeldusele, et ilmastikutingimused ei mõjuta koroonaviiruse levikut sellisel määral nagu gripiviiruse levikut.
+Samas on SARS-CoV-2 leviku optimaalseim temperatuur +10 kraadi.
+Viiruse nakatamiskordaja oli suurim +8..+18 kraadi juures ning hakkas uuesti langema, kui temperatuur tõusis +20 kraadini.
+Seejuures avaldab ilm epideemia levikule nii otsest kui ka kaudset mõju.
+Näiteks oleneb ilmast immuunsüsteemi olukord, hingamisteede tundlikkus ja inimeste käitumine.
+Teadlased võrdlesid koroonaviirust ka gripiviirusega.
+Viimase levikut mõjutab ilm hoopis teisiti kui SARS-CoV-2 levikut.
+Temperatuuri alanemine toob kaasa gripi kiirema leviku, seejuures on leviku jaoks optimaalseim temperatuur vahemikus -5..+5 kraadi, kõige parem aga null kraadi ümber.

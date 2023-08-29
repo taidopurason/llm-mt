@@ -1,0 +1,26 @@
+Internet zu langsam?
+Bald haben Sie das Recht, weniger zu zahlen
+Ist das Internet nicht so schnell wie versprochen, können sich Kunden bald besser gegen Provider wehren.
+Betroffene brauchen aber noch etwas Geduld – und müssen mindestens 20 Messungen durchführen.
+Viele Menschen ärgern sich über langsame Internetverbindungen, gerade in Zeiten des Homeoffice.
+Besonders wütend macht es, wenn der Zugang dem abgeschlossenen Vertrag zufolge eigentlich schneller sein müsste – was laut Breitband-Monitor der Bundesnetzagentur häufig vorkommt.
+Dieser Tage gibt es nun Hoffnung für betroffene Verbraucherinnen und Verbraucher: Im Dezember tritt eine Regelung im Telekommunikationsgesetz in Kraft, die die Position der Kunden gegenüber ihrem Internetanbieter wesentlich verbessert: Nach eine Überprüfung mithilfe einer Software zur Breitbandmessung können Kunden ihre Monatszahlung senken, sollte die Leistung mickriger sein als vertraglich zugesichert.
+Internettarife enthalten ein Produktinformationsblatt, das über verschiedene Dinge Auskunft gibt: über die maximale Datenübertragung, die normalerweise zur Verfügung stehende Datenübertragung und das Minimaltempo.
+Für das neue Minderungsrecht müssen die Verbraucher die Desktop-App zur Breitbandmessung der Bundesnetzagentur nutzen.
+Mit dem Internet verbinden müssen sie ihren Rechner dabei per LAN-Kabel und nicht über das WLAN, weil beim kabellosen Zugriff aufs stationäre Internet Tempo verloren gehen kann.
+Verbraucherschützer sind begeistert von der neuen Regelung.
+»Das ist eine der größten Errungenschaften für den Verbraucherschutz«, sagt Susanne Blohm, Digitalreferentin beim Verbraucherzentrale Bundesverband (vzbv).
+Für die Provider sei das ein sehr deutlicher Fingerzeig, dass sie Verträge realistisch beschreiben müssen und keine realitätsfernen Werbeversprechen mehr machen dürfen.
+Wann können Kunden weniger zahlen?
+Der Anspruch auf Minderung besteht dem Gesetz zufolge bei »erheblichen, kontinuierlichen oder regelmäßig wiederkehrenden Abweichungen«.
+Die Vertragszahlung sei »in dem Verhältnis herabzusetzen, in welchem die tatsächliche Leistung von der vertraglich vereinbarten Leistung abweicht«.
+Heißt: Bekommt man nur die Hälfte der versprochenen Leistung, zahlt man nur die Hälfte des Preises.
+Neu ist das Thema nicht.
+Schon jetzt können Verbraucher auf eine geringere Bezahlung pochen, wenn sie weniger Tempo bekommen als zugesichert.
+Hatte der Anbieter kein Einsehen, mussten Verbraucher aber vor das Amtsgericht ziehen.
+Daten der Breitbandmessung der Bundesnetzagentur sollten dem Verbraucher im Streit mit dem Anbieter zwar helfen, der Ausgang des Verfahrens war aber ungewiss.
+»Wegen 30 Euro im Monat vor das Gericht zu ziehen, ist eine aufwendige Sache, das haben viele Verbraucher gescheut«, sagt vzbv-Expertin Blohm.
+Das neue Minderungsrecht ist nun ein deutlich schärferes Schwert.
+Hat jemand das Messprotokoll der Breitbandmessung-App in der Hand und ist daraus eine mickrige Leistung erkenntlich, hat er oder sie künftig Anspruch auf Preisminderung.
+Mit dem Messprotokoll soll man sich bei seinem Internetanbieter melden.
+Der muss dann reagieren.

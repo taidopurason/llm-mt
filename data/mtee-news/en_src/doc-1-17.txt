@@ -1,0 +1,9 @@
+Apple sues spyware company NSO Group over alleged iPhone hacking
+Apple said its lawsuit was sending a clear message: "In a free society, it is unacceptable to weaponise powerful state-sponsored spyware against those who seek to make the world a better place."
+Apple has filed a lawsuit against NSO Group, the private spyware company which has been accused of providing despotic regimes with the tools to hack into the mobile phones of their critics.
+The lawsuit, filed in Northern California on Tuesday, describes NSO Group as "amoral 21st century mercenaries" that develops technology which "invites routine and flagrant abuse" as detailed by Apple.
+It follows a similar case launched by WhatsApp, and comes on the heels of the US government earlier this month sanctioning the Israeli business on the grounds that it allowed foreign governments "to maliciously target government officials, journalists, businesspeople, activists, academics, and embassy workers".
+The Commerce Department explained the sanctions were "a part of the Biden-Harris administration's efforts to put human rights at the centre of US foreign policy, including by working to stem the proliferation of digital tools used for repression".
+It followed the head of the UK's National Cyber Security Centre, Lindy Cameron, saying that the Pegasus Papers stories - linking the company's spyware tools to potentially thousands of victims - "demonstrated something we have raised a red flag about before; the commercial market for sophisticated cyber exploitation products".
+Apple said its lawsuit was sending a clear message: "In a free society, it is unacceptable to weaponise powerful state-sponsored spyware against those who seek to make the world a better place."
+The company added that it was notifying "the small number of users" who had been victimised by NSO Group's technology, potentially exposing abusive government practices.

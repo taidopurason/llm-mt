@@ -1,0 +1,26 @@
+Kas internet on liiga aeglane?
+Varsti on teil õigus vähem maksta.
+Kui interneti kiirus ei ole selline nagu lubatud, on klientidel varsti võimalik teenusepakkujale paremini vastu astuda.
+Probleemiga kokkupuutujad peavad aga veel natuke kannatust varuma – ja vähemalt 20 korda mõõtma.
+Paljusid inimesi ärritab aeglane internetiühendus, eelkõige kodukontoris töötades.
+Eriti vihale ajab see, kui ühendus peaks sõlmitud lepingu kohaselt tegelikult olema kiirem – Saksamaa föderaalse võrguagentuuri lairibaühenduse monitooringu järgi tuleb seda ette tihti.
+Nüüd on aga olukorrast puudutatud kasutajatel lootust selle paranemisele, sest detsembris jõustub telekommunikatsiooniseaduse eeskiri, mis parandab tunduvalt klientide võimalusi oma internetipakkujale vastu astuda: kui lairibaühenduse mõõtmistarkvaraga tehtud kontrolli käigus saadud väärtus on viletsam kui lepingus lubatud, saavad kliendid oma kuutasu vähendada.
+Internetitariifidega käib kaasas infoleht, milles antakse teavet mitmete asjade kohta: maksimaalne andmeedastuskiirus, tavaliselt kättesaadav andmeedastuskiirus ja minimaalne kiirus.
+Uue vähendamisõiguse saamiseks peavad tarbijad kasutama föderaalse võrguagentuuri lairibaühenduse mõõtmise töölauarakendust.
+Seejuures peavad nad oma arvuti internetiga ühendama kohtvõrgukaabli, mitte raadiokohtvõrgu kaudu, sest kui arvuti statsionaarse internetiga ühendada juhtmeta, võib osa kiirusest kaduma minna.
+Tarbijakaitsjad on uuest eeskirjast vaimustuses.
+„See on üks tarbijakaitse suurimatest saavutustest,“ ütleb Saksamaa tarbijakaitsekeskuste ja tarbijakaitseliitude föderaalse liidu digiküsimuste referent Susanne Blohm.
+Teenusepakkujatele saadab see selge signaali, et lepingute sisu peab olema realistlik ja nendes ei tohi enam anda reklaamlubadusi, millel reaalsusega palju pistmist ei ole.
+Millal saavad kliendid vähem maksta?
+Seaduse järgi võib hinna vähendamist nõuda „märkimisväärsete, pidevate või regulaarselt korduvate kõrvalekallete“ korral.
+Lepingukohast makset tuleb „vähendada samas suhtes, nagu tegelik jõudlus lepingus kokkulepitud jõudlusest erineb“.
+See tähendab, et kui kliendini jõuab lubatud jõudlusest vaid pool, tasub ta ainult poole hinnast.
+Uus see teema ei ole.
+Juba praegu saavad tarbijad nõuda õigust vähem maksta, kui nende interneti kiirus on lubatust aeglasem.
+Kui aga pakkuja sellega ei nõustunud, pidid tarbijad kohtusse pöörduma.
+Kuigi föderaalse võrguagentuuri lairibaühenduse mõõtmisandmed peaksid tarbijat vaidluses pakkujaga aitama, ei olnud menetluse tulemus ettenähtav.
+„30 euro pärast kuus kohtusse pöördumine on koormav, paljud tarbijad kartsid seda,“ ütleb tarbijakaitsekeskuste ja tarbijakaitseliitude föderaalse liidu ekspert Blohm.
+Uus vähendamisõigus on nüüd tunduvalt teravam mõõk.
+Kui inimesel on käepärast lairibaühenduse mõõtmisrakenduse mõõteprotokoll ja sellest nähtub vilets jõudlus, saab ta tulevikus õiguse hinnavähendusele.
+Mõõteprotokolliga tuleb pöörduda oma internetipakkuja poole.
+Seejärel peab tema sellele reageerima.

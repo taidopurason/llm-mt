@@ -1,0 +1,44 @@
+Kümme levinud krüptorahaga seotud terminit, mida on vaja teada
+Kuigi bitcoin võeti kasutusele juba 2009. aastal, on krüptoraha alles hiljuti muutunud teemaks, mille kohta võib uudistest või veebi sirvides alati midagi leida.
+Kuna olen oma lugejailt ja üleriigilise raadiosaate kuulajailt saanud tohutult küsimusi, otsustasin neid aidata ja kirjutada krüptomaailma kohta e-raamatu.
+Ma selgitan, mis on digiraha ja krüptovääringukaeve, ning kuidas alustada krüptorahaga kauplemist.
+Raamatu ostmiseks Amazonist puudutage või klõpsake seda linki.
+Minuga võtavad ühendust ka inimesed, kes on paraku mõne krüptopettuse ohvriks langenud.
+Kus on raha, seal on ka kurjategijaid.
+Puudutage või klõpsake, et lugeda viie nutika krüptopettuse kohta, mis praegu levivad, ja kuidas oma turvalisus tagada.
+Enne alustamist võtke arvesse, et tegemist ei ole finantsnõustamisega.
+Krüptomaailm on muutlik ja te ei tohiks kunagi riskida rahaga, mida te ei ole valmis kaotama.
+Teeme nüüd tutvust levinuma žargooniga.
+1. Plokiahel
+Iga krüptoraha tehing töödeldakse, kinnitatakse ja salvestatakse virtuaalses pearaamatus, mida nimetatakse plokiahelaks.
+Iga kord, kui keegi ostab või müüb midagi krüptorahaga, tehakse virtuaalsesse pearaamatusse järjekordne sissekanne.
+Mõelge plokiahelast kui järjestikkustest rongivagunitest.
+Iga krüptoraha tehinguga lisandub rongile uus vagun.
+Plokiahel on detsentraliseeritud.
+See tähendab, et see ei ole salvestatud ühte arvutisse või isegi ühte võrgustikku.
+Plokiaheltehnoloogia eksisteerib hoopis üle kogu maailma asuvates arvutites, mis on ligipääsetavad interneti kaudu.
+Inimesed ja ettevõtted aitavad kinnitada iga tehingut, mis plokiahelasse lisandub, kasutades oma arvuti töötlemisvõimsust tsentraliseerimata võrdvõrgus.
+Iga tehing saab ajatempli ja krüpteeritakse eraldi, seda ei saa tühistada ega muuta.
+Jah, lugesite õigesti – krüptotehinguid ei saa tühistada.
+Kas te pigem kuulaksite lugemise asemel?
+Puudutage või klõpsake, et kuulata minu taskuhäälingusaate "Kim Komando Explains" jagu kõigest sellest, mis on seotud krüptorahaga.
+Kuulete ka vahetult inimeselt, kes tegeleb krüptovääringukaevega.
+2. Usaldusraha (fiat-raha)
+Ma tean, te mõtlete praegu: "Ma arvasin, et Fiat on automark."
+Aga mitte krüptomaailmas.
+Usaldusraha on valitsuse väljastatud maksevahend.
+Kui asute Ameerika Ühendriikides, siis on see USA dollar.
+Krüptoraha on seevastu virtuaalne raha.
+Krüptorahal ei ole riiklikku tagatist ega muid standardeid, mis on kasutusel traditsioonilise raha puhul.
+Iga krüptotoken esindab teie valduses olevat summat.
+Krüptotokeni hind oleneb kehtivast turuväärtusest.
+Üks päev on see suurem, teine päev väiksem.
+Krüptoraha väärtus võib muutuda palju kiiremini ja need kõikumised – väärtuse kasv või kahanemine – on palju suuremad.
+CoinMarketCap on hea koht, kust kehtivaid hindu vaadata.
+3. Altcoin
+See on midagi, mis jääb hästi meelde.
+Altcoin on mis tahes digiraha, mis ei ole bitcoin.
+Krüptorahasid on tuhandeid ja neid tuleb kogu aeg juurde.
+Praeguse teksti kirjutamise ajal on viis vääringut, millel on kõrgeim turukapitalisatsioon.
+(Turukapitalisatsioon on kogu ringluses oleva raha turuväärtus.)
+Kuna krüptomaailm muutub nii kiiresti, võib see loetelu teksti lugemise ajaks juba muutunud olla.
