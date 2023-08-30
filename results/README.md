@@ -11,3 +11,10 @@
 
 FLORES-200 results. P1 is from [https://arxiv.org/pdf/2304.02210.pdf](https://arxiv.org/pdf/2304.02210.pdf). P2 is proposed by GPT-4 by asking "Provide five concise prompts or templates that can make you translate from Estonian to English." (idea adapted from [https://arxiv.org/abs/2301.08745](https://arxiv.org/abs/2301.08745)).
 
+
+### Regular MT baselines
+
+
+| MT | lang                                           | chrF++   | BLEU     | unbabel-wmt22-comet-da  | chrF     | TER      |
+|-----------| ------------------------------------------------------------ |----------|----------|-------------------------|----------|-------------------|
+| Google Translate        | et-en   | **66.6**     | 36.5     |  0.8458                  | 69.7     | 106.6                |
