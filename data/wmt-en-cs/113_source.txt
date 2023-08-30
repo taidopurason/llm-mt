@@ -1,0 +1,22 @@
+(PERSON17) Anyone else can work on the non-native accent thing.
+Ok, then another thing that I spotted is - this is in the Monday test document.
+It is highlighted four times.
+So, when some session is happening, we need the names and terminology for that session.
+And we need to collect it, prepare it manually, create it somewhat.
+And this manual creation should be supported with automatic tools as much as possible.
+So, there is a certain skill b in that, which needs to be practiced.
+So, I'm quite skilled at shuffling text files.
+And whenever I see any of any of you doing that, then I like always have tips in my head of what could be done faster.
+Maybe it is not faster for your end, but at least you should consider it.
+So there this skill is something that that we need people to have.
+And we need someone to be responsible for that.
+And I'm afraid that the only person for this could be [PERSON8].
+If you find anyone else who would be ready to help with the immediate domain adaptation, the data crunching, please say so.
+And then we need -
+So, once we have secured the dictionary of terms and whatever the word pronunciations, we need techniques to put these dictionaries to use in the systems.
+So, my impression from the domain adaptation that [PERSON9] has been carefully doing for all the sessions was that it was not really visible in the hybrid ASR.
+So, one such session is again going to happen this Monday.
+[PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.
+So, maybe [PERSON9] and [PERSON8], because he's learning how to do domain adaptation and [PERSON14], because he is doing how to work with [PROJECT5].
+If you three could meet and double check what is [PROJECT5] doing with the -
+It's not [PROJECT5], actually, the domain adaptation is for the [PERSON18] toolkit, right.

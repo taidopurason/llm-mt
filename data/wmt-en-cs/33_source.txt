@@ -1,0 +1,5 @@
+Tech confession: I can't wrap my head around Grafana &amp; Prometheus, at least from a server/application metrics and monitoring standpoint.
+I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.
+I want to make dashboards.
+Grafana looks pretty.
+Brain no work.

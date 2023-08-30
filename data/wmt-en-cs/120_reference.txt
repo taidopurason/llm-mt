@@ -1,0 +1,30 @@
+[PERSON8] Nebo jsem to zkusil s Marianem, který se ho právě účastní, a je to... Nevím, o kolik bodů BLEU nižší.
+[PERSON2] Protože jakoby způsob, kterým Martin podle mě dělá &lt;unintelligible/&gt; ty svoje překládky tak, že překládá víc vět najednou a pak si vybere jen tu prostřední a takhle postupuje celým dokumentem.
+Takže kontext je jakoby v jednom &lt;unintelligible/&gt; spolu s větou, kterou vlastně chceme přeložit.
+[PERSON10] Jo, myslím – nebyl to Dominik, kdo dělal nějaký experimenty s Ivanou?
+Myslím, že v minulém roce nebo před dvěma roky pro hodnotu double empty, kde dávali pozor na kontext nebo řetězili kontext se vstupní větou a dělali nějaký druh překladu na úrovni dokumentu.
+Ale ta záležitost s tímhle, se řetězením není zcela jistá, zda má stejný účinek, protože my děláme na nastavení s víc kodéry –
+[PERSON1] Jakože každý je jiný, je to určitě jiný výpočet, jiný vedoucí, ale to, překvapuje mě, že [PERSON8] říká, že to nefunguje – a tečka.
+[PERSON8] Jo, dobře, tak se omlouvám, možná bych měl být přesnější, že to nefungovalo jakoby tím způsobem, jak jsem to udělal &lt;laugh/&gt;.
+[PERSON1] Jo, protože si myslím, že je to metoda, která se dá velmi snadno testovat, a vždycky by se měla testovat v kontrastu s dvěma kodéry, a očekával bych, že někdy bude lepší a někdy horší než dva nastavené kodéry, v závislosti na přesné úloze, jako co přesně je ta druhá věc, kterou kódujete.
+Takže pokud máte dvě kopie dvou parafrází téže věty,
+možná je to nějak matoucí z hlediska pozornosti, takže, cokoliv, nevím.
+Chování se taky mohlo lišit u starých metod sekvence po sekvenci ve srovnání s transformátorem, takže u RNN se to pak chovalo jinak, možná u transformátoru je to tak, jo, je těžší ho trénovat, takže možná je třeba zvýšit počet zahřívacích, zahřívacích sad.
+[PERSON2] Jo, takže prostě víš, jakoby –
+[PERSON8] Nepamatuji si to, takže si to nepamatuji přesně, ale je to jakoby –
+když jsem v létě začal s experimenty s více zdroji.
+Nejdřív jsem začal se řetězením parafráze a zdroje a možná jsem, teď si nevzpomínám,
+do příštího mítinku můžu zkontrolovat, zda jsem se o to taky pokusil,
+určitě jsem zkoušel, když jsou zdroje na první pozici, pak nějaký oddělovač a parafráze na druhé pozici.
+Možná jsem taky zkoušel, že jsem ty dvě věci náhodně zamíchal, jo, a jen si vzpomínám, že to hojně dělalo tyhle kompenetrační věci a zkoušelo to víc kodérů.
+[PERSON8] A to pravděpodobně kvůli nízkému skóre.
+[PERSON2] &lt;unintelligible/&gt;, který se ti líbí, ti může zlepšit skóre amenity pouhým připojením výstupu založeného na frázi a pozornost je jako dvojitá diagonála, takže pozornost není problém, takže jakoby věřím ti, ale je překvapující, že to nefungovalo.
+[PERSON10] Takže pokud zadáte výstup založený na frázi, je to v podstatě posteditování, že? Můžete o tom přemýšlet jako o posteditování, jako byste posteditovali výstup založený na frázi, že? Nebo jakoby záleží na úhlu pohledu, že?
+[PERSON1] &lt;unintelligible/&gt;, který se ti líbí plně přepsat, ale technicky přesně odpovídá úloze posteditování, můžeš to zapojit jako řešení úlohy posteditování.
+[PERSON10] Dobře, takže jedna otázka jenom za mě, abych se ujistil, že v nastavení řetězení vkládáte token oddělovače vět, že?
+Máte nějaký speciální token, který rozlišuje, která věta je zdrojová a která kontextová nebo jiná, nebo je prostě zřetězíte bez čehokoli?
+A doufáte, že se to systém naučí?
+[PERSON8] Zkoušel jsem, tuším, dva tokeny a jo, jakoby protože v první verzi jsme měli podezření, že by ten token mohl být taky tokenizovaný sám o sobě, tak jsem to pak přehrál s jiným tokenem, který není určený jenom pro tenhle účel, protože jsme použili nějaký předtrénovaný slovník, a tenhle slovník neobsahoval tokeny oddělovačů.
+Takže jsem použil nějaký token, u kterého jsem předpokládal, že nebude jakoby tokenizovaný na několik částí, a tak se objeví jednou.
+Neměl jsem žádnou záruku, že by se ten token nemohl objevit na jiných místech ve větě a že je to to jediný místo, kde se může objevit.
+Takže by se to dalo udělat pořádněji, jo, souhlasím.

@@ -1,0 +1,6 @@
+Znáte účinný způsob, jak webová komponenta může reagovat na přidání či odebrání z dokumentu?
+Toto je pro knihovnu komponent Wikipedie (OOUI).
+Je to většinou sémantické HTML s CSS a obecně nevyžaduje vlastní prvky (které nabízí connectedCallback).
+V současné době používáme hack MutationObserver.
+Kvůli výkonu nesledujeme celý dokument.
+Vytvoříme odděleného dočasného rodiče, nainstalujeme tam MO a pozorujeme, jak se odpojuje (tedy připojuje jinde).

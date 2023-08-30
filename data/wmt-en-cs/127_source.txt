@@ -1,0 +1,21 @@
+Because for Interspeech, we could also like split it paper by paper.
+So that some papers would go to the Interspeech proceedings.
+And some of our submission papers would come later for the PBML proceedings.
+And the authors would be free to choose.
+So that we have to negotiate this with either SIGDial or Interspeech.
+If it is okay for them to have some of our papers, given that these papers are submitted by the March deadline.
+So, there is an absolute strict requirement.
+And I think it's they cannot have anything against it.
+Because if the paper is worth publishing.
+Like, it's only a bonus that the paper has some shared task result appearing in the satellite event.
+So yeah, I think it's okay.
+So, we do not need to ask for a special session.
+In Interspeech it is called special session, we don't want that.
+In Interspeech we want the satellite event.
+But we will tell our people.
+If you manage to have your paper ready by the Interspeech deadline, send it as an Interspeech paper and you will have it within Interspeech.
+Ah, if you do not, ah, do it for the Interspeech deadline, here is our deadline.
+And that is for PBML.
+(PERSON7) Ah, okay.
+But the thing is like for Interspeech satellite event.
+Erm, Interspeech like won't get into any proceedings.

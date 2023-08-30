@@ -1,0 +1,5 @@
+Everything I needed
+This product is really slick - one stop shopping for all my connectivity needs.
+I love just throwing this and my laptops tiny power adapter in my go bag and being prepared to work on a big 4k display or grab photos from my camera.
+The only odd thing I experienced (and I’ve experienced this on all 4 usb-c hubs I’ve tried from different brands) is that mac’s apparently can’t tell the difference between multiples of the same monitor (so my mac outputs the same video to all identical monitors connected to the hub whether by HDMI and/or VGA).
+But if I use 2 separate hubs/adapters or 2 different models of monitor then the mac properly outputs to the displays individually.

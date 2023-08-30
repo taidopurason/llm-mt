@@ -1,0 +1,28 @@
+Takže, plánuji to udělat sám.
+Mám v plánu tam jít, ale potřebujeme někoho jako zálohu.
+A taky potřebujeme někoho, kdo se postará o nahrávání akce [PROJEC210],
+Takže nějakého archiváře, abychom o tuhle relaci zase nepřišli.
+A ještě důležitějším a pořád přetrvávajícím tématem, na kterém je potřeba pracovat, je stoupání po žebříčku.
+A tady v odstavci pro [PERSON2] jsem navrhl, že bychom mohli použít jednoduché html tabulky, které by se generovaly automaticky a které by rostly.
+Myslím, že by bylo asi nejjednodušší nasadit tabulky jako html, ale mohlo by se to zkomplikovat, až budeme chtít vidět rozdíly, protože po každé nové hodnotící kampani se budou hodnotit nový systémy.
+Příprava těchhle tabulek může být obtížná.
+Zeptal jsem se tedy [PERSON7] a [PERSON7] bohužel nebude během tohohle hovoru k dispozici.
+Aby nám sdělil, zda použít [ORGANISATION242], což je webový řešení.
+Nějaká startupová společnost, která nabízí účty pro akademické účely zdarma.
+Pokud by nám to pomohlo, nebo ne.
+Dobře, takže [PERSON7] [ORGANISATION242] nedoporučuje.
+Takže tou správnou cestou je pravděpodobně jednoduchý html.
+Jakmile tedy [PERSON2] bude mít ty hodnocení pročištěný.
+To znamená přesunout těch několik skriptů z testovacího souboru [PROJECT3] a nějakého automatického spouštěče tam, kam patří.
+Pak taky prosím vytvořte konverzi z tabulek do html podobně jako u technické konverze a tyhle výsledky pak pravidelně vkládejte na svou webovou stránku.
+Nebo co můžete dokonce udělat, je mít úplný git checkout, který by se nacházel přímo v tomhle veřejným html, nebo by si to z tohohle veřejného html aspoň tahal.
+Aby to bylo okamžitě přístupný prostřednictvím webu a kdokoli se mohl podívat na aktuální bodové hodnocení a prozkoumat ho.
+Takže by to bylo užitečný, zejména pro lidi mimo [ORGANISATION2], jako je například [ORGANISATION15].
+Víme, že mají rádi –
+Výkon byl u některých souborů špatný, a mohli si to přímo procházet na webu.
+Mohli by si to taky procházet ve skutečnosti na [ORGANISATION101].
+Je na vás, abyste to nastavili tak, aby to bylo uživatelsky přívětivý a snadno se to sledovalo.
+[PERSON2] Dobře, já to udělám.
+[PERSON11] Jo, díky.
+Nyní pracuju na, nebo se chystám aktualizovat odevzdávku článku k demu, která má termín příští pátek, pokud se nemýlím.
+A pak musím udělat nějaký projektový zprávy a začínám shromažďovat dokumenty – jakoby, nebo odkazy na dokumenty, zatím ne samotné dokumenty, pro obě zasedání.

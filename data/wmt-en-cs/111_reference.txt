@@ -1,0 +1,22 @@
+[PERSON17] Dobře, to je dobrý, jo.
+Tak jsem ti začal psát e-mail, ale myslím, že jsem ho nikdy nedokončil, protože jsi mi připomněl, [PERSON8], že filtrování nadávek ještě není integrovaný.
+A myslím, že je to taky důležitá zpráva pro [PERSON5], který se z hovoru zase vytratil.
+Důležitý poselství tedy je, že ano, je velmi dobrý, že aktivně usilujete o to, aby se vaše výsledky integrovaly, a měl by to tak dělat každý.
+A zároveň potřebujeme mít nastavení, abyste ho mohli sami integrovat a testovat.
+Říkám tomu „integrace svépomocí“.
+Takže, [PERSON8], když pracuješ s [PERSON5] a dokumentujete, jaká jsou nastavení, ujistěte se, že je to dostatečně dobře otestovaný kolegy, například [PERSON4] nebo dokonce [PERSON9] z hlediska kontrol jazykového modelu a všema ostatníma.
+Takže kdykoli někdo vyvine novou užitečnou komponentu, měl by mít dostatečně snadno k dispozici celou pajplajnu, aby ji mohl sám otestovat.
+Tato integrace svépomocí je tedy důležitá, protože jinak všechno zůstane na tobě, [PERSON8], a ty se nechceš nechat přetěžovat.
+Proto chceš těmhle lidem poskytnout vstupy a výstupy jako první testovací přístup, který už proběhl.
+Je to tak, [PERSON4]?
+Filtrování nadávek, bylo už otestovaný na protokolech?
+Myslím, že bylo.
+[PERSON8] Ano, myslím, že bylo testované na protokolech.
+Takže teď nastal čas otestovat ho na ostrých pajplajnách.
+A opět si myslím, že je lepší, když [PERSON8] vysvětlí [PERSON4], jak to má udělat, aby si [PERSON4] spustil sám pro sebe některý převaděče a živě přehrál některý z problematických souborů, třeba za pomoci [PROJECT8] nebo jakkoli jinak.
+Jednoduše je přehraj.
+Sledujte zvukový výstup na svém počítači a podívejte se, jak to funguje.
+Protože teprve při skutečným nastavení se objeví skutečné chyby.
+Je důležitý ho nejprve odladit pomocí souborů protokolu a pak je důležitý ho odladit v pajplajně.
+A pokud by to ladění mohl provádět autor dané komponenty, v tomhle případě [PERSON4], bylo by to pro nás všechny nejefektivnější.
+Takže, [PERSON8], prosím, potvrď, že s touhle myšlenkou jakoby integrace svépomocí souhlasíš.

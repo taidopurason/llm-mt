@@ -1,0 +1,7 @@
+Signed up for Google's "AI Test Kitchen" waitlist and got in same day.
+It's very underwhelming at the moment.
+The "MusicLM Demo" is mildly interesting.
+You can ask for a specific piece of music like "jazz with a trumpet solo in 5/4 tempo" and it will generate two tracks for you after a few seconds.
+It seems to understand tempo, but... the music's just... not good.
+Throwing everything you've got over the fence in response to GPT is not it.
+Try harder Google.

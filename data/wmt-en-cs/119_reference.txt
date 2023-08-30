@@ -1,0 +1,29 @@
+[PERSON3] No jo, jen nevím, jestli jste, jestli jste, jestli jste zachytili &lt;unintelligible/&gt;, když jsme mluvili o [PERSON1],
+ale jedna věc je, že, že (rozptyl) je lepší, ale druhá věc je, že lemmata jsou skutečně správně skloňovaný ručně,
+ale to je, to je další, ne, žádný problém, to je vlastně dobře, že je &lt;unintelligible/&gt; správně, jo.
+Tak jsem si říkal, že by to tam mohlo být.
+Nejsem si ale jistý, zda pro to máme nějaký testovací data, ale mohli bychom si zkusit pohrát s modely pomocí nějakého přenosu stylu?
+Jak víte, můžeme použít omezení a místo něj zkusit použít synonymní omezení a zjistit nebo porovnat, jak, jak, jaký je rozdíl mezi výstupy.
+Ale tohle je, jakoby to popisuji jenom vágně, protože sám nemám přesnou představu, jak to udělat, ale mohl by to být zajímavý, nevšední scénář.
+Nevím, [PERSON1], víš o nějakých datech o přenosu stylu mezi angličtinou a češtinou? Máme něco k dispozici?
+[PERSON4] &lt;unintelligible/&gt;
+[PERSON1] Tím přenosem stylu, Dušane, myslíš, že by tam bylo něco, co je ve spisovném jazyce, a ty bys byl cílovou stranou, bylo by to v mluveném jazyce, nebo něco takového?
+[PERSON3] No, to je taková věc, jakoby, mám jen omezený znalosti úlohy.
+Ale dovedu si představit, že chceš přepsat větu tak, že ji nenapsal muž, ale místo něho ji napsala žena, nebo, já nevím, jako že můžeš mít vědecký a nevědecký vysvětlení určitých jevů.
+Opravdu nejsem tak dobře obeznámený s přesnými soubory dat a s tím, co pokrývají.
+A jde o to myšlenku toho, že styl vět je poměrně vágně definovaný.
+Takže si zase nejsem tak jistý.
+[PERSON1] Máme tenhle korpus transformací vět.
+A jedna z věcí, která v něm je a která by mohla být označená jako přenos stylu, je například větší zobecňování vět.
+Takže se vynechávají detaily, věta se zjednodušuje a pak zní hovorově.
+No, je to jen parafráze.
+A nejsem si jistý, zda máme něco jako zkracování věty.
+Ohledně zkracování dělá Matouš nějaký pokusy mezi angličtinou a češtinou, ale nemáme k dispozici žádný referenční data.
+Takže nemáme k dispozici žádný soubor dat pro kompresi vět.
+Možná by tedy zobecnění mohlo být zajímavý, ale obávám se, že existuje příliš mnoho různých dobrých zobecnění, takže jediná reference by byla příliš omezená na to, aby vám řekla něco o kvalitě vašeho zobecnění.
+A nejsem si vědomý žádných podobných genderových transformací, například by se to dalo udělat &lt;unintelligible/&gt; pro češtinu, takže možná správnou osobou by byl Rudolf Rosa, zeptat se ho, jestli někdy nějaký takový soubor dat nevytvořil.
+Takže se bude generovat nějaký protějšek věty na základě kořene.
+[PERSON3] Myslím, že je to vlastně jakoby zajímavá otázka, zda můžeme použít omezení k vynucení tohohle druhu věcí, jako je rod mluvčího v, v překladu.
+[PERSON1] To je vlastně hodně dobrý nápad.
+Takže bychom se mohli zaměřit na tuhle oblast a vytvořit určitou dílčí část testovacího souboru[PROJECT1], která by to pokrývala.
+Aha, takže někdy známe pohlaví mluvčího, takže pokud jste... možná vám nasdílím obrazovku a projdeme si to.

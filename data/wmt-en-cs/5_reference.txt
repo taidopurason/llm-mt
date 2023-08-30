@@ -1,0 +1,8 @@
+Existují významné důkazy, že komunikaci v reálném světě nelze redukovat na vysílání signálů s významem nezávislým na kontextu.
+Na základě varianty klasického Lewisova (1969) signalizačního modelu zkoumáme v této práci podmínky pro vznik komunikace závislé na kontextu v situovaném scénáři.
+Hlavně ukazujeme, že tlak na minimalizaci velikosti slovní zásoby je pro takový vznik dostatečný.
+Současně také studujeme podmínky prostředí a kognitivní schopnosti, které umožňují kontextové zpřehlednění významů symbolů.
+Ukazujeme, že omezení prostředí na referenční volbu příjemce může být jednostranně zneužito odesílatelem, aniž by došlo ke zpřehlednění na straně příjemce.
+V souladu s běžnými předpoklady se zdá, že pro kontextovou komunikaci je u odesílatele vyžadováno povědomí o kontextu.
+Navrhujeme, aby kontextově závislá komunikace byla situovaným vícevrstvým fenoménem, který je zásadně ovlivněn vlastnostmi prostředí, jako je distribuce kontextů.
+Model, který byl vyvinut v této práci, je ukázkou toho, jak mohou být signály mimo kontext nejednoznačné, ale stále umožňují téměř dokonalou přesnost komunikace.

@@ -1,0 +1,18 @@
+[PERSON2] Jo, když to má krátký kontext, a protože se rozhoduji na základě velmi krátkého kontextu pro tuhle velmi nízkou latenci, pak se opravdu dopustí něčeho, o čem například za sekundu nebo dvě zjistí, aha, no, tak tohle byl vlastně špatný překlad.
+Proto se snaží použít jiný znění.
+Aby například specifikoval věc.
+Takže se mi to vlastně moc líbilo.
+Některý překlady se mi líbí. Opravdu mě překvapilo, že i když bylo vidět, že model udělal na první pokus chyby, opravdu chtěl provést nějaký druh opravy.
+A rozhodně zněl opravdu plynule, což je podle mě taky důležitý.
+Pokud opravdu požadujete nízkou latenci, pak, pak si myslím, že i o něco nižší kvalita je v pořádku, pokud je plynulost dobrá.
+Protože pokud máte špatnou kvalitu překladu a špatnou plynulost, pak si myslím, že překlad je prostě zbytečný.
+Ale jestli je ta nižší kvalita způsobená překladem, když si přečtete všechno, tak dostanete stejnou informaci, ale formulace je prostě špatná, protože je v něm použitých například víc slov a jsou použitý nějaký opravy a takový záležitosti.
+Myslím, že pro simultánní použití je to naprosto v pořádku, pokud neztratíte žádný informace.
+A pro který jazykové páry máte tyhle výsledky, například nějaký příklady?
+Rád bych se na ně totiž podíval, už jenom ze zvědavosti.
+[PERSON2] No určitě, můžu ti vysypat své protokoly.
+[PERSON7] Ale v jakých jazycích?
+Protože víš, že nemluvím německy.
+[PERSON2] Angličtina a němčina.
+[PERSON7] Jo, ale já nemusím nutně mluvit německy &lt;laugh/&gt;.
+[PERSON2] Pak můžu poskytnout anglicko-čínský a anglicko-japonský, pokud to pomůže &lt;laugh/&gt;.

@@ -1,0 +1,14 @@
+[PERSON17] Jo, takže pro angličtinu s více přízvuky.
+Takže to teď [PERSON14] dáváme dohromady do jednoho technického řešení.
+Současný nápad, na kterém [PERSON14] pracuje, spočívá v tom, že bude vytvářet nový věty se slovy, který byl řečený v jiných větách, a provede to napříč různými mluvčími.
+Bude se tedy jednat o věty s více mluvčími, a proto by se mohla zlepšit i odolnost vůči různým přízvukům těchhle mluvčích.
+Aha, takže to je jeden částicový experiment.
+A později možná uděláme něco víc s tou záležitostí s více přízvuky.
+Takže tyhle nový věty se vlastně snaží vyřešit dva problémy jedním experimentem.
+Jedním z problémů je implicitní jazykový model.
+Takže systém ASR musí vidět co největší soubor vět.
+A my budeme vytvářet nový věty z pouze textového jazykového modelu přidáním zvukové části, takže jazykový model bude pro ASR lepší a robustnost vůči různým mluvčím bude taky lepší.
+A včera jsem v jedné přednášce zaslechl další nápad.
+Bylo to během tréninku.
+Ze zvuku jim vypadávaly časový a frekvenční pásma.
+Takže trénovali na porušených vstupech, což taky výrazně zlepšilo robustnost systému.

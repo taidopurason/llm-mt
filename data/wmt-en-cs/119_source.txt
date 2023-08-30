@@ -1,0 +1,29 @@
+(PERSON3) Oh yeah, just I do not know if you if you, if you catch &lt;unintelligible/&gt; when we were talking about [PERSON1],
+but one thing, is, that, that the (blow) is better but the other thing is that the lemmas are actually properly inflected manually,
+but that is that is another, no, no problem, it is actually good that is &lt;unintelligible/&gt; right, yeah.
+So, I was thinking there might be.
+But I'm not sure whether we have some test data for that, but we might try to play around with the models with some sort of style transfer?
+As you know, we can use a constraint and try to use a synonymous constraint instead and see or compare how, how, what is the difference between the outputs.
+But this is, like I'm just describing it vaguely because I myself do not have an exact idea how to do it, but it might have been an interesting, distinct scenario.
+I do not know, [PERSON1], do you know about any style transfer data for English Czech? Do we have something?
+(PERSON4) &lt;unintelligible/&gt;
+(PERSON1) By style transfer, Dusan, you mean that there would be something which is in the written language, and you would be the target side, would be in the spoken language or something like that?
+(PERSON3) Well, that is the thing like, I have only a limited knowledge about the task.
+But I can imagine that you want to rewrite a sentence that it is not written by male, but it is written by a female instead or, I do not know, like you can have a scientific and unscientific explanation of certain phenomena.
+I'm not really that familiar with the exact data sets and what they cover.
+And the idea is that the style of the sentences gets quite vaguely defined.
+So again, not so sure.
+(PERSON1) We have this corpus of sentence transformations.
+And one thing that is there and could be labelled as style transfer is for example, making the sentences more general.
+So, details are omitted, the sentence is simplified, and then making the sentence sound colloquial.
+Well, just a paraphrase.
+And I'm not sure if we have anything like shortening of the sentence.
+For shortening, Matous is doing some experiment with English–Czech, but we do not have any reference data there.
+So, we do not have any sentence compression dataset.
+So maybe the generalization could be of interest but I'm afraid that there are too many different good generalizations, so the single reference one would be too limited to tell you anything about the quality of your generalization.
+And I'm not aware of any like gender transformations, for example, this could be done &lt;unintelligible/&gt; for Czech, so maybe the right person would be Rudolf Rosa to ask him if he has ever generated any such dataset.
+So, there will be a root-based generation of some sentence counterpart.
+(PERSON3) I guess that is actually like an interesting question whether we can use the constraints to enforce this kind of the like gender of the speaker in the in the translation.
+(PERSON1) That is actually a very good idea.
+So, we could focus on that and create a particular sub-part of [PROJECT1] test set that would cover that.
+Ah so that we sometimes we know the gender of the speaker so if you are...  maybe I'll share the screen and browse that.

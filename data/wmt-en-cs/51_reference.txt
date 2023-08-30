@@ -1,0 +1,6 @@
+Někteří programátoři: „Na rychlosti psaní nezáleží!“
+nebo „Modální editory jsou dneska k ničemu“ :morty:
+Já, jak extrahuju funkčnost svých projektů #Axum do sdílených knihoven: „Podržte mi klávesnici“ :partyparrot: :helix: :ferrisdance:
+Nejsem si jistý, zda je to nejlepší přístup pro sdílení, ale zatím se mi líbí: &lt;URL&gt;
+Poznámka: Můžete se inspirovat, ale knihovny nejsou určeny pro veřejné využití.
+Jak byste sdíleli osobní knihovny?

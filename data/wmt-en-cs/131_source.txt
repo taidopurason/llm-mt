@@ -1,0 +1,14 @@
+(PERSON3) I'm strongly feeling that our work is not exactly in the domain of speech, it is unhealthy.
+Because there is no concept of speech here.
+We are directly working on text.
+But the thing is that the proposal for a statistical workshop this year is over, which was in September, which was too early for us.
+And the next proposal would come for 2022, which would be too late for us.
+It is better that if we get either of the two sectile or interspeech, because both of them are well recognized in the community.
+We can motivate participants to submit.
+Ah, the only the only caveat that I'm finding now is going with interspeech is like they won't allow us a space in the proceedings, which may deter some of the participants, I am not sure how much they will be excited to publish a paper in archive.
+So, in archives, people can publish any time, right?
+So that is not a benefit to their profiles.
+So how to motivate participants to join our shared task.
+So, this was the reason that I especially vouched for the special session.
+But this time, the problem is, what I can understand is the last time, the time periods between proposals, submission and final paper submission was five months, so it would have been enough time for our schedule, but this time.
+It is only three months.

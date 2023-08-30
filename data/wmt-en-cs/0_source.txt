@@ -1,0 +1,6 @@
+The hacked up version of Jedi Knight was crashing because it was calling a function off the end of a vtable.
+Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.
+To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.
+Now, I get that in practice, IDirectXObject2 is typically a proper superset of IDirectXObject, with no changed function signatures, and new methods only added to the end.
+But this is not universally true; for those cases it matters what interface you are using to create the object in question.
+So anyway, since it does hold true here, to fix it I had to extend my viewport implementation to contain the IDirect3DViewport3 methods so that the call to the new one was valid.

@@ -1,0 +1,14 @@
+(PERSON17) Yeah, so for the multi-accent English.
+So, we are now [PERSON14] putting that together to just one technical solution.
+The current idea that [PERSON14] is working on is that he will create new sentences with words that were spoken in other sentences, and he will do this across different speakers.
+So, it will be really multi-speaker sentences, and therefore the robustness to the different accents of these speakers could be also improved.
+Ah, so that's one particle experiment.
+And later on, we may do something more about the multi-accent thing.
+So, these new sentences will actually try to solve two problems with one experiment.
+One problem is the implicit language model.
+So, the ASR system has to see the largest possible set of sentences.
+And we are going to create new sentences from the text-only language model by adding the sound part to that, so that the language model will be better for the ASR, and the robustness to different speakers would be also better.
+And in a talk yesterday, I heard another idea.
+It was during the training.
+They were dropping out time bands and frequency bands from the sound.
+So, they were training on disrupted inputs, and that also greatly improved the robustness of the system.

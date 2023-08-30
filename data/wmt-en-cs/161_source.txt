@@ -1,0 +1,8 @@
+Works well after some headaches.
+Had some problems getting it to work.
+The supplied cable was no good - would not charge the battery.
+When I replaced cable with my own was able to charge and then connect the device via bluetooth to a PC.
+Had trouble finding the PC software but when I emailed their support they responded within a day with the correct download info.
+PC program works well for testing the unit after you figure out which port to use (port 4 in my case).
+The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.
+Will have to hard-wire if I decide to use this device in my product.

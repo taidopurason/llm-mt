@@ -1,0 +1,51 @@
+[PERSON11] Ale u některých složek je z nějakého důvodu formát zvuku špatný, takže je něco špatně –
+V podstatě je velký obchod nebo něco špatně.
+Takže některý soubory jsou pořád – pořád mají podivný výstup.
+Ale – ale u většiny složek už by to mělo být v pořádku.
+[PERSON1] Dobře, díky.
+[PERSON6] Jo, to je skvělý.
+Podporuju to, je skvělý, že [PERSON7] jste mysleli na [PERSON11].
+A teď je čas na [PERSON11].
+Existují další věci, o kterých jsem přemýšlel, [PERSON11] a to by teprve bylo trénování, prázdných systémů, který by prováděly zkracování.
+Takže kdybyste, [PERSON11], měli čas.
+Je zřejmý, že za příští týden to v žádném případě nemůžeme stihnout.
+Ale měli bychom mít systém – připravený na –
+Díval jsem se na výukový program od NLP – byl to on?
+[PERSON6] Pro nadcházející relace a tak, jsem se zeptal na poptávku, protože jsem viděl demo projektu (meme).
+Dělají titulky offline.
+Takže je to o něco jednodušší než to, co děláme my.
+Pořád mají stejný problémy se segmentací a tak vůbec.
+Jejich překladatelská mise se ale zkracuje jednoduše proto, že se zkracují data.
+A to proto, že jejich cílovou velikostí jsou titulky, které jsou vytvořený pro osoby se sluchovým postižením.
+V datech tedy dochází jakoby k přirozenému zkracování.
+Bylo by skvělý, kdybychom i my mohli najít takové typ dat, kde dochází k přirozenému zkracování.
+Zařadili bychom ho do architektury.
+[PERSON8] To zabere trochu času, protože musím zjistit, který z nich je ten, co prochází.
+Takže jakmile to budu vědět, budu to moct sledovat, takže do budoucna –
+Nebo vlastně do budoucna to nebudu potřebovat, protože jakmile budu mít webový soubor, pravděpodobně ho nebudu muset konvertovat.
+[PERSON6] No, tohle, to by vlastně mělo být –
+Slyšíš mě ještě?
+Kvalita zvuku je o něco horší.
+Takže by se to mělo dělat opravdu po celou dobu.
+Při každým provádění tohoto hodnocení by se to tedy mělo spustit úplně od začátku.
+Takže pokaždé by mělo dojít k novému stažení nové konverze a k novému vyhodnocení.
+[PERSON8] Ale přesto, jak sleduji soubory, který je potřeba zkonvertovat ručně, abych mohl napsat skript, a ten by se mohl postarat alespoň o ty známý, a samozřejmě, pokud přidáme nějaký nový soubory, můžu se na to podívat později.
+[PERSON6] Takže se jedná o důležitou věc, na kterou jsme měli narazit už před několika měsíci.
+Nezapomeňte, že už od srpna vám říkám, že chceme vyhodnocovat na pozdějším testovacím souboru.
+A pokaždé jste všichni...
+Nejde jen o vás osobně, [PERSON8].
+Byly tam samozřejmě i další věci.
+Ale pokaždé, když jste o tom přemýšleli, říkali jste si „to bude snadný, prostě to spustíme“.
+A teprve až to opravdu uděláte, uvidíte všechny ty problémy.
+Tak je to známý, běžný.
+A je to tak vždycky.
+Takže tohle je vzkaz pro všechny.
+Než se o to pokusíte, nikdy nevíte, v čem bude problém.
+Tak například hovor, který jsem měl, kdy se mnou někdo dělal rozhovor, a tak si chtěl nahrát video.
+Zoom mi nikdy nefungoval tak špatně jako dneska při nahrávání.
+Než to uděláte, nemůžete říct, zda to bude fungovat, nebo ne.
+A tady narážíme na problémy s konverzí formátů souborů.
+Doufejme tedy, že se nám podaří rychle získat čísla.
+Máte zatím nějaké údaje o chybovosti slov?
+[PERSON8] Ne, nezpracoval jsem je.
+Takže [PERSON1] řekl, že jakmile dostanou přepis, budeme to dělat společně.

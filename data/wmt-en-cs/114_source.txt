@@ -1,0 +1,19 @@
+So, this is kind of backward-looking, making sure that the old approach works.
+At the moment it is absolutely impossible to do any domain adaptation for the fully neural ASR.
+So, what I'm considering is to have an independent keyword spotting from sound and some merging procedure.
+So, we could have two ASRs running at the same time.
+End-to-end ASR, which is better in general.
+And then domain-adapted [PROJECT5] setup, which is used only to spot the keywords.
+And when we see a keyword in the domain-adapted version then we would then we would use that sentence from [PROJECT5], which is in general worse, but contains the right terms.
+So that's my suggestion of what we could do.
+And another suggestion is that we really should have our own fully neural ASR and do various experiments on finetuning and all that.
+So, we have discussed this with [PERSON14].
+And, [PERSON14], is there any update from the potential colleague or friend of yours?
+(PERSON17) Yeah, so if there is anyone else who'd be curious about this please let me know or get in touch.
+So, it's this is something which is which would really be accepted well in generally as a as a paper, because people don't do that yet.
+And that's the most urgent problem these days.
+So, we really could make an impact there.
+(PERSON6) Yeah, I was maybe just thinking about like what kinds of data we currently use for this, because, for example, like if you check like [ORGANIZATION4]'s models on [ORGANIZATION5] that they are like already pretty good at these things -
+(PERSON6) And I think that if we just like -
+We could probably just get the data from them, because you have like a such a large set of videos basically with different domains and different speaker native languages on [ORGANIZATION5].
+And I had this idea that we could just like use some tool to download basically some kinds of filtered videos from [ORGANIZATION5] and make training tests a training set out of them.

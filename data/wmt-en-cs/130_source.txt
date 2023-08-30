@@ -1,0 +1,28 @@
+(PERSON2) So again, I mean to make it humanly readable.
+Because this flickering is really annoying and then you lose focus on what was actually said, because maybe this is also a question of someone who knows more about the human brain and how we work with information.
+Sorry, I never thought about it in depth.
+But I think that whenever I see a word, I put it into my memory and my memory is not a linear thing, but it's more like a bag.
+So, I put a word into a bag.
+And I like to connect the things in the bag to get the overall image of the word.
+And I think that that's the problem with the flicker.
+If you translate something and then you change it, then actually I read it already, it's in my brain.
+And then I lose focus and control of what was actually then translated as correct and was not what was not.
+So that's why I think that the whole flicker thing is bad and stupid by definition.
+Like I see the motivation, like you want to display everything you have.
+Even though you cannot promise it's good.
+But I think that we cannot work with this extra information.
+And I think that maybe the problem is that the systems are created by people working with it.
+If I'm a developing a system, then I'm really crazy happy if I see that even if I don't promise the translation is correct, I still show it and it's somehow good, but I think that the developer is not really focusing on the content itself.
+And how you perceive the content, but rather that, oh yeah, my system can output it really quickly.
+And even though it just guesses the quality is okay-ish, I think maybe that's why the retranslation was created.
+Just the developers of the systems are eager to display information, and I think that because we are limited in in like the vol e of information we can perceive some time, we like see the extra information is just an extra burden for us.
+So, I think that it's not good to show extra.
+Like if you want to decrease latency, then instead of flicker, just lower the quality.
+I think that's still better than showing the flicker.
+Because what would be the real use case?
+Why would you need to see the unstable hypothesis, really?
+Like from a user perspective?
+(PERSON1) Like technically, when human translators start translating, I mean the goal even there is for annotators, they would try to follow the speech string of the original speaker.
+So, there are times when they would say something, and that would be wrong, so they would just correct themselves.
+(PERSON2) Well but yeah this means with my solution, like you would not do flicker, but you committed, like there is no way to change, but you correct yourself.
+And that's actually what the translators are doing.

@@ -1,0 +1,5 @@
+Technické přiznání: Nemohu se věnovat jen systémům Grafana a Prometheus, alespoň z hlediska serverových/aplikačních metrik a monitorování.
+Nevím přesně, proč na to můj mozek nemůže přijít; může to být tím, že jsou nástroje tak široké a vágní, že se můj mozek jen zablokuje kvůli „příliš mnoha možnostem“.
+Chci dělat řídicí panely.
+Grafana vypadá pěkně.
+Mozek bez práce.

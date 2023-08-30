@@ -1,0 +1,19 @@
+(PERSON2) But the Flask part or the communication part with the client is something that I cannot do.
+Because I have no experience and no time to get it running.
+(PERSON1) I thought it meant something using I don't know mediator.
+(PERSON2) No, make a HTTP client which can fill the queue and read from another queue.
+And send the text back in a HTTP request.
+Because my idea is that the user clicks be used in the Ukrainian project too.
+(PERSON2) And my idea is that a client clicks this microphone button and starts to speak, and when the user is speaking, you send the audio in small chunks at the same time.
+Let's say 200 or even 100 milliseconds.
+And to the HTTP server put it to a queue which I will handle the queue later with (ASR).
+And the model will do some logic, some inference with that.
+And whenever it has a new piece of transcript, it will send it back, and the user should get the partial transcript back.
+And it should be immediately displayed in the text field.
+(PERSON1) I could think about that.
+Just I don't really know Flask either, but yeah, I can think about that.
+(PERSON2) Oh maybe a different HTTP server.
+I don't know, maybe we don't even need a fancy HTTP server for that.
+(PERSON1) I mean for text flow, we use something like Hypercore, but I'm not sure if that would work for this.
+(PERSON2) Yeah, the only requirement is that it should handle more connection at a time.
+(PERSON1) Well I think online text flow is something around 2 000 at least.

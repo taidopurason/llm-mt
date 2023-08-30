@@ -1,0 +1,12 @@
+(PERSON2) Yes, that's the only stuff I did for positive constraints.
+With the negative constraints I did something a little bit more complicated in the decoding.
+Like filtering out the beams and replacing the beams with different beams.
+And for like multi-token constraints and this kind of stuff.
+But for the positive constraints, I only compared the training approach with yeah just this very simple stuff.
+Just modifying the scores in each step in the same way.
+(PERSON7) Okay, so back to the positive constraints.
+Were you already focusing on the analysis of the system?
+(PERSON2) Yeah, right now, I'm kind of waiting for the dataset reprocessing from ([PERSON9]).
+Also [PERSON9] I had a look at the (code), and I think I know why it's so slow.
+Because for each entry in the terminology in the (Europar) reprocessing, you open the dataset, tokenize it, read it line by line, tokenize it line by line and then close it.
+But you only you do that -

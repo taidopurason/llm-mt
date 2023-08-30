@@ -1,0 +1,15 @@
+(PERSON1) and then, we'll figure out which packages to install in the Petri environment.
+(PERSON7) Yeah, so there's another thing,
+Maybe it's not a good idea to combine these two runs into one setup.
+I think it is actually better if you run it separately and save the outputs.
+So, you first use the environment for cruise control and the processing,
+(PERSON7) and you collect all the output files, and then you run the evaluation.
+And the reason for this split is that you can paralyze more.
+So, there will be problems on various fronts, I'm sure, and we will need the numbers very soon.
+So, if for example, some of the test files will fail for some reason,
+Then you can still keep the translation running for the remaining ones,
+and re-evaluate, with a sel T F, the missing ones, and, and so on.
+So, it's, the point is not to create a serial, sequential processing that includes both,
+but the point is to get the results, and it's actually better to do it in slices.
+First get all outputs, then we get all evaluations.
+(PERSON1) Yeah, so, I mean, right now, I was doing the same.

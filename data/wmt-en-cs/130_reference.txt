@@ -1,0 +1,28 @@
+[PERSON2] Zase tedy chci, aby to bylo lidsky čitelný.
+Protože to blikání je opravdu otravný a člověk se pak přestává soustředit na to, co bylo vlastně řečený, protože to je možná taky otázka na někoho, kdo ví víc o lidském mozku a o tom, jak pracujeme s informacemi.
+Omlouvám se, ale nikdy jsem o tom nepřemýšlel do hloubky.
+Ale myslím, že kdykoli vidím nějaký slovo, uložím si ho do paměti a moje paměť není lineární, ale je to spíš takový pytel.
+Tak jsem dal slovo do pytle.
+Rád v tom pytli spojuji věci, abych dostal celkový obraz slova.
+A myslím, že to je problém toho blikání.
+Když něco přeložíš a pak to změníš, tak už jsem to vlastně četl, mám to v mozku.
+A pak jsem ztratil pozornost a kontrolu nad tím, co bylo vlastně pak přeložený jako správný, a nebylo to, co nebylo.
+Proto si myslím, že celá ta záležitost s blikáním je špatná a hloupá už z definice.
+Jako bych viděl motivaci, jako byste chtěli ukázat všechno, co máte.
+I když nemůžete slíbit, že to bude dobrý.
+Myslím si však, že s těmito informacemi navíc nemůžeme pracovat.
+A myslím, že problém je možná v tom, že systémy vytvářejí lidi, kteří s nimi pracují.
+Pokud vyvíjím nějaký systém, tak mám opravdu šílenou radost, když vidím, že i když neslibuji, že je překlad správný, tak ho přesto ukážu a je to tak nějak dobrý, ale myslím si, že vývojář se opravdu nesoustředí na samotný obsah.
+A to, jak vnímáte obsah, ale spíš na to, že, no jo, můj systém to dokáže vypsat opravdu rychle.
+A i když se jen domnívá, že kvalita je tak nějak v pořádku, myslím, že to je možná důvod, proč byl vytvořený nový překlad.
+Prostě vývojáři systémů touží po tom zobrazovat informace a myslím si, že protože jsme omezeni jakoby objemem informací, který můžeme vnímat v určitém čase, jakoby vidíme, že informace navíc jsou pro nás jen zátěží navíc.
+Proto si myslím, že není dobrý ukazovat něco navíc.
+Jakoby pokud chcete snížit latenci, pak místo blikání prostě snižte kvalitu.
+Myslím, že je to pořád lepší než zobrazovat blikání.
+Protože jaký by byl skutečný případ použití?
+Proč byste vlastně potřebovali vidět nestabilní hypotézu?
+Třeba z pohledu uživatele?
+[PERSON1] Jakoby technicky, když lidští překladatelé začnou překládat, myslím, že cílem pro autory poznámek i tam je, aby se snažili následovat řetězec řeči původního mluvčího.
+Někdy se stane, že něco řeknou a je to špatně, takže se prostě opraví.
+[PERSON2] No jo, ale to znamená, že s mým řešením, jako byste neudělali blikání, ale spáchali jste to, jako by neexistoval způsob změnit to, ale opravíte se.
+A to je vlastně to, co dělají překladatelé.

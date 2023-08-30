@@ -1,0 +1,18 @@
+(PERSON2) Yeah, when it has short context and because I make decisions based on very short context for this very low latency, then it really commits to something that in, for example, a second or two, it figures out oh, well, actually this was bad translation.
+So, it tries to use a different wording.
+To, for example, specify the thing.
+So actually, I really liked it.
+I like some of the translations. I was really amazed, even though you could see that the model made mistakes on its first try, it really wanted to make some kind of correction.
+And it definitely sounded really fluent, which I think is also important.
+If you really demand low latency, then then I think that even a slightly lower quality is fine, if the fluency is good.
+Because if you have bad translation quality and bad fluency, then I think that the translation is just pointless.
+But if the lower quality is because the translation, if you read everything that you will get the same information, but the wording is just poor, because it used, for example, more words and it used some corrections and stuff.
+So, I think that this is completely fine for simultaneous, as long as you don't lose any information.
+And for which language pairs do you have these results, like some examples?
+Because I would like to look at it, just out of curiosity.
+(PERSON2) Oh definitely, I can dump you my logs.
+(PERSON7) But in which languages?
+Because you know I don't speak German.
+(PERSON2) English and German.
+(PERSON7) Yeah, but I don't necessarily speak German &lt;laugh/&gt;.
+(PERSON2) Then I can provide English–Chinese and English–Japanese if it helps &lt;laugh/&gt;.

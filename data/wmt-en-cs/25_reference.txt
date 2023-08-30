@@ -1,0 +1,6 @@
+Kopa nových nablýskaných dobrot v #šipky
+Postupem času se šipky staly mým cílem pro rychlé uživatelské rozhraní.
+#flutter je radost pracovat a pro snadnou správu obchodu mají #mobx.
+Příběh závislosti je také méně šílený než nodejs.
+Samozřejmě, že Flutter je opravdu na nic, pokud jde o chování jako dobrá nativní aplikace (skutečně všude, dokonce i cíl webu Flutter je na nic).
+Umožňuje ale rychlý pohyb, a proto je ideální pro malé hacky.

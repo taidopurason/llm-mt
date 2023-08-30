@@ -1,0 +1,6 @@
+Nevím, zda je možná prevence, ale stojí za to to zkusit.
+O čtyřech krocích, které uvádím, se dá diskutovat, přičemž v každém z nich lze dosáhnout určitého pokroku:
+Popis: názvy incidentů při chování člověka a algoritmu, které zohledňují algoritmy a lidi.
+Vysvětlení: zohlednění obou stran se vzájemným vlivem
+Předvídání: očekávání škod dříve, než nastanou (i kdyby jen o několik minut)
+Intervence: znalost věcí, které můžeme udělat, abychom dosáhli změny, v určitých mezích sebejistoty

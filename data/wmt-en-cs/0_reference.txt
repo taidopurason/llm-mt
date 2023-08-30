@@ -1,0 +1,6 @@
+Heknutá verze videohry Jedi Knight padala, protože vyvolávala funkci z konce objektu vtable.
+Ukázalo se, že předpokládané volání IDirect3D::CreateViewport() vrátí IDirect3DViewport3, který má ve srovnání s IDirect3DViewport na konci další metody, a to jsem právě implementoval.
+Pro mě je to zcela velký předpoklad, protože se vytváří výřez pomocí jen objektu Direct3D místo Direct3D3.
+Nyní chápu, že v praxi je objekt IDirectXObject2 obvykle správnou nadmnožinou objektu IDirectXObject, bez změněných signatur funkcí, přičemž nové metody jsou přidány pouze na konec.
+Ale to tak vždy neplatí; v těchto případech záleží na tom, jaké rozhraní používáte ke tvorbě daného objektu.
+Každopádně, protože to platí i zde, abych to dal do pořádku, musel jsem rozšířit svou implementaci výřezu tak, aby byla zahrnuta i metoda IDirect3DViewport3 a volání bylo platné.

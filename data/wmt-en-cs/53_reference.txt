@@ -1,0 +1,7 @@
+Nesouhlasím s tím, že síť #Mastodon je obtížné nastavit.
+Je to prosté, opravdu to není tak těžké.
+Je však obtížnější najít lidi, které můžete sledovat, a vytvořit si svou časovou osu.
+Přál bych si, aby existovalo nějaké doporučení „koho sledovat“.
+Kromě toho to však není obtížné – pokud použijete aplikaci třetí strany, jako jsou Elk a/nebo Ivory.
+Pokud zůstanete u výchozího webového rozhraní, nevypadá to a nepůsobí to dobře (dle mého skromného názoru).
+Takže to vyžaduje trochu víc úsilí, abyste se do toho dostali, a pravděpodobně budete potřebovat dobrou aplikaci pro lepší #UX.

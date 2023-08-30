@@ -1,0 +1,21 @@
+[PERSON3] Jde o to, že pokud provedeme analýzu správněji, jedna věc je možný protichůdný vyhodnocení, který jen naznačuje, že, že omezení mají skutečně vliv na skutečný výstup.
+To by bylo hezký a jo, možná i udělat analýzu pozornosti.
+Ale nejsem si jistý, zda nám to může dát stejný odpovědi, v podstatě, zda, zda model dává, nebo nedává pozor na omezení.
+[PERSON4] Musel jsem se podívat na pár příkladů pozornosti, nedělal jsem si žádnou statistiku ani nic jiného, a podívá se to na omezení, a když to překládá omezení, vypadá to jako daný omezení, a myslím, že by bylo užitečný, kdyby systém dělal nějaký chyby, ale ve skutečnosti žádný v tomhle smyslu nedělá.
+Dělá některý obecný chyby v překladu, ale ne ty (jevy), který se snažíme vyřešit.
+Když se vrátíme k automatickému vyhodnocování, problém s neshodou spočívá v tom, že výstup je správně vyskloňovaný, ale kontext se liší.
+Nejedná se tedy o stejný slovní druh jako v referenci, že?
+[PERSON4] Jo, ale taky jsem zkontroloval, zda jsou kontexty platný překlady, a ve většině případů jsou.
+Stejně jako v prvních 100 příkladů, které byly automatickým vyhodnocením označený jako chybné, bylo 91 z nich správně vyskloňované ve správných kontextech.
+[PERSON4] A myslím, že jen dvě nebo tři věty byly správně vyskloňovaný v nesprávném kontextu, jako by byl překlad špatný.
+A pak jsou některý případy, kdy byl překlad úplně špatný, protože věta byla opravdu špatně a část musí být &lt;unintelligible/&gt;, ale to bylo jen v jednom nebo dvou případech.
+[PERSON3] Ale při vyhodnocování se snažíš o shodu forem odchylek, že?
+Neděláš žádný –
+[PERSON3] – lemmatizace referencí a –
+[PERSON4] Obojí, obojí, obojí, snažím se o shodu jak povrchových forem, tak lemmatu.
+[PERSON3] Aha, aha, jo, to jsou ty dvě skóre, že?
+[PERSON4] Jen skóre dilematu pro (evropský?) není v tabulce, protože tabulka jako by se nevešla na papír, takže &lt;unintelligible/&gt;
+Pokrytí je vždycky asi 97 procent.
+Prostě to generuje správný lemmata, jen –
+[PERSON3] Aha, jo, dobře, chápu to, chápu to.
+Pokrytí lemmatu tedy v podstatě říká, zda omezení existuje, a rozdíl v pokrytí povrchu naznačuje, že by to mohlo být nesprávně vyskloňovaný, ale tohle ten případ není.

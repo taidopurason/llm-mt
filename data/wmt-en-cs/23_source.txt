@@ -1,0 +1,6 @@
+Here's a quick overview of how to make use of our website.
+- We send out notifications when airfare goes on sale.
+- We provide links to where you can book the fare.
+- We don't sell tickets, or charge a subscription.
+- More details are in the full blog post.
+- We maintain a list of example booking dates for each deal we post and we update that list several times a day.

@@ -1,0 +1,6 @@
+Some programmers: "Typing speed does not matter!"
+or "Modal editors are useless today" :morty:
+Me extracting functionality of my #Axum projects into shared libraries: "Hold my keyboard" :partyparrot: :helix: :ferrisdance:
+Not sure if this is the best approach for sharing, but I like it for now: &lt;URL&gt;
+Note: You can take inspiration, but the libraries are not intended for public usage.
+How would you share personal libraries?

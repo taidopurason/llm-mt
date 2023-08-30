@@ -1,0 +1,6 @@
+Trochu si pohrávám s aplikací Flutter.
+Upřímně bych nerad zakládal své podnikání na technologiích od Googlu, na druhou stranu je Google jedním z mála velkých hráčů, kteří mají skutečné pobídky vytvářet nepřekonatelné zážitky z různých platforem a je to vidět.
+(A také: Web je bohužel nyní z velké části záležitostí Googlu)
+Také mi prosím neříkejte, že aplikace google/flutter na iOS a macOS převládají.
+Být univerzální na všech platformách je těžké, pokud to chcete dělat dobře.
+Vím to.

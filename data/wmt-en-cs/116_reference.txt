@@ -1,0 +1,18 @@
+[PERSON11] &lt;parallel_talk&gt; Taky pro ASR bychom měli přidat doplňkovou metriku –
+Vlastně víc, měli bychom přidat doplňkový met- tyhle doplňkový metriky. &lt;/parallel_talk&gt;
+Takže jsi zmínil jedno, a to je hodnocení filtrování nadávek.
+Takže &lt;parallel_talk&gt; má explicitní seznam věcí, který se nesmějí objevit ve výstupu &lt;/parallel_talk&gt;, že?
+&lt;parallel_talk&gt; A pak hodnocení zřídkavých slov.
+A tady máme explicitní seznam jmen a termínů, který chceme, aby se objevily ve výstupu, a to ne jednoduše podle (pořadí) míry &lt;/parallel_talk&gt;, ale hodnocený podle něčeho, co tyhle věci přímo zohledňuje, že?
+Ano, s tím naprosto souhlasím.
+Což zahrnuje i ruční přípravu referencí.
+Takže &lt;parallel_talk&gt; obojí vyžaduje ručně vytvářený reference. &lt;/parallel_talk&gt;
+Měl bych jednu poznámku od [PERSON1].
+Takže &lt;parallel_talk&gt; [PERSON1] sestavila nějaký překladový slovník.
+A měla by se o něj brzo podělit. &lt;/parallel_talk&gt;
+Takže to by se mohlo stát prázdnou částí té druhé záležitosti zřídkavého slova –
+Takže &lt;parallel_talk&gt; to by bylo hodnocení zřídkavých slov pro MT a pak od [PROJEC210] pravděpodobně taky získáme nějaký slovník. &lt;/parallel_talk&gt;
+Takže to bude zřejmě doména [PROJEC210].
+A [PERSON2], mohl bych tě požádat o revizi domény &lt;unintelligible/&gt; a vytvoření takového slovníku s ohledem na to, že se podíváš na výstupy a na to, co v nich chybí?
+Tedy jakoby užší výběr – výčet slov, který se nám v doméně &lt;unintelligible/&gt; líbí a který se nám tam nelíbí.
+Mohl bys to udělat?

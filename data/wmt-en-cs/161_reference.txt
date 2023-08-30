@@ -1,0 +1,8 @@
+Po bolestech hlavy funguje dobře.
+Byli nějaké problémy, aby fungoval správně.
+Dodaný kabel nebyl dobrý – nenabíjel baterii.
+Když jsem vyměnil kabel za vlastní, podařilo se mi nabít zařízení a poté jej připojit přes Bluetooth k PC.
+Měl problém najít PC software, ale když jsem poslal e-mail jejich podpoře, odpověděli do jednoho dne se správnými informacemi o stažení.
+K testování jednotky funguje PC program dobře poté, co zjistíte, který port použít (v mém případě port 4).
+Přesnost a stabilita jednotky vypadá pro mou aplikaci velmi dobře, nemohl jsem se však připojit k iPhonu ani iPadu (vyzkoušel jsem jich několik od každého) přes Bluetooth.
+Pokud se rozhodnu použít toto zařízení ve svém produktu, budu ho muset připojit přes drát.

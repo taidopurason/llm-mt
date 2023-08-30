@@ -1,0 +1,6 @@
+I don't know if prevention is possible, but it's worth trying.
+The four steps I outline are up for debate, with some progress in each:
+Description: names for incidents of human-algorithm behavior that account for algorithms &amp; humans.
+Explanation: account for both sides of mutual influence
+Forecasting: anticipating harms before they happen (even if by minutes)
+Interventions: knowledge about things we can do to create change, within some confidence bounds

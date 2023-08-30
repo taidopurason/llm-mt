@@ -1,0 +1,21 @@
+(PERSON3) The thing is, as long as we do the analysis more properly, one thing is the possible adversarial evaluation, just to indicate that that the constraints are actually having an impact on the actual output.
+That that would be nice and yeah possibly the attention analysis.
+But I'm not sure it might give us the same answers, basically, if the if the model attends or does not attend to the constraint.
+(PERSON4) I had to look just at a few examples of attention, I did not do any statistics or anything, and it looks at the constraints, and when it translates the constraints, it looks like the constraints given, and I think it would be useful if the system made any errors, but it in fact does not do any in that sense.
+It makes some general translation errors but not the (phenomena) we are trying to solve.
+Well, going back to the automatic evaluation, the problem with mismatch is that the output is correctly inflected, but the context is different.
+Therefore, it is not the same word form as in reference, right?
+(PERSON4) Yeah, but I have also checked if the contexts are valid translations and in most cases they are.
+Like in the first 100 examples that were marked as error by automatic evaluation 91 of them were correctly inflected in correct contexts.
+(PERSON4) And I think only two or three sentences were correctly inflected in the incorrect context, like the translation was wrong.
+And then there are some cases where the translation was totally wrong, because the sentence was really wrong, and the part must be &lt;unintelligible/&gt;, but that was just like one or two cases.
+(PERSON3) But you are trying to match the divert forms when you are evaluating it, right?
+You do not do any-
+(PERSON3) -lemmatization of the reference and the-
+(PERSON4) Both, both, both, I'm matching both the surface forms and lemma.
+(PERSON3) Oh I see, oh yeah, those are the two scores, right?
+(PERSON4) It is just the dilemma score for the (European?) is not in the table because of the table like won't fit into the paper so &lt;unintelligible/&gt;
+Coverage is always like 97 percent.
+It just generates the correct lemmas, just-
+(PERSON3) Oh yeah, okay, I get it, I get it.
+So basically, the lemma coverage says whether the constraint is there, and the surface coverage difference suggests that it might be incorrectly inflected, but that is not the case.

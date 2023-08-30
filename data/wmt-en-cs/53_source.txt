@@ -1,0 +1,7 @@
+I don't agree that #Mastodon is difficult to setup.
+Common, it's really not that hard.
+But it's more difficult to find people to follow and build up your timeline.
+I wish there was a "who to follow" recommendation somehow.
+But apart from this, it is not difficult - if you use a 3rd party app like Elk and/or Ivory.
+If you stick to the default web interface it doesn't look and feel good (imho).
+So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.

@@ -1,0 +1,28 @@
+(PERSON11) It should be doable, so let's give it a try.
+It would be like - it would be great if you managed to do that.
+So, I'll write it down.
+So, &lt;parallel_talk&gt; aiming towards [ORGANISATION62] deadline with subtitler study paper. &lt;/parallel_talk&gt;
+Yes &lt;parallel_talk&gt; and then then a multi-source with [PERSON7] or based upon [PERSON7] or - &lt;/parallel_talk&gt;
+And for the language ID, I'm curious how do you want to integrate it exactly because it already involves considering multiple ASR sources, multiple channels, so what would be the use case for the for the language ID?
+How do we plug that in?
+(PERSON13) It will be audio to text worker, and it will emit time stamps like for four or two second window and the class.
+&lt;unintelligible/&gt; silence, Czech, German, English, and then I will let on the others how they want to use it in the pipeline.
+(PERSON11) That is important.
+Please write this down here into the documenter this &lt;unintelligible/&gt; summary, because that is for [PERSON2].
+And also [PERSON2], when you talk to [PERSON10], well and also possibly [PERSON5].
+If we have this tool, we need to (ship) the audio to multiple ASR or multiple workers &lt;unintelligible/&gt;
+We will separately need to (ship) the audio to the English ASR, separately to the German ASR and the Czech ASR, for example depending on the &lt;other_noise/&gt;
+And also, to this language ID worker and then we need to merge these outputs, and this is tool which we do not have yet.
+That's the multi-source tool, which will be observing the text outputs and also following the time stamps and it would emit the - it would probably like produce the output into three separate language channels for using either silence or the correct ASR.
+So, we need a filter for the ASRs, so that the ASR is silent if it's the wrong language and it is the recognized text if it's the correct language.
+I just made it up this type of setup.
+Another of setup would be that same sound is shipped to ASR and this language checker.
+This language checker is essentially a part of the ASR, silencing the ASR if it's the wrong language.
+That's also an option.
+So, we need to figure out which way of integrating the language ID is the best for our purposes.
+So, please keep thinking about this like what are our pipelines.
+Ideally, I think that the least like management confusion and so on would arise if our MT models were multilingual.
+If they supported different source languages and they were translating from any of these languages into English.
+Possibly doing just a copy, if the English was given as the input, so we would have multi-lingual multiple ASRs at the beginning.
+All going into English, and then from the English will go into all of the languages.
+And later when [PERSON12] would have multi-lingual model of ASR, that language ID would not even be needed.

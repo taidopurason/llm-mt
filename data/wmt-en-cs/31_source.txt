@@ -1,0 +1,6 @@
+Playing around a bit with Flutter.
+I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.
+(And also: The Web is now largely a Google thing, unfortunately)
+Also please refrain from telling me that google/flutter apps suck on iOS and macOS.
+Cross platform is hard if you want to do it well.
+I know that.

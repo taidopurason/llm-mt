@@ -1,0 +1,22 @@
+(PERSON17) Okay, that's good, yeah.
+So, I started, but I think I never finished an email to you, because you reminded me, [PERSON8], that your profanity filtering is not yet integrated.
+And I think this is also an important message for [PERSON5], who has disappeared again from the call.
+So, the important message is that yes, it's very good that you are actively pushing so that your results are integrated, and everybody should do so.
+And at the same time, we need to have the setup, so that you can actually integrate and test it yourself.
+So, I call it "do-it-yourself integration".
+So, [PERSON8], when working with [PERSON5] and when documenting what the setups are, make sure it is tested well enough by colleagues, such as [PERSON4] or even [PERSON9] for the language model checks and everybody else.
+So, whenever someone develops a new useful component, the full pipeline should be accessible to him reasonably easily, so he can test it himself.
+So, this do-it-yourself integration is important, because otherwise it will all remain on you, [PERSON8], and you don't want to be overloaded.
+So, you want to provide these people with inputs and outputs as the first testing approach, which has already been done.
+[PERSON4], right?
+The profanity filtering, has it been tested on logs?
+I think it was.
+(PERSON8) Yeah, it was tested on logs, I think.
+So, now it's time to test it on the live pipelines.
+And again, I think it's better if [PERSON8] explains to [PERSON4] how to do it, so that [PERSON4] runs it for himself some of the workers and live playing some of the problematic file like using [PROJECT8] or whatever.
+Simply play them.
+Follow the sound output on your machine and see how that works.
+Because only when doing the real setup will the true errors appear.
+It is important to first debug it, using the log files, and then it's important to debug it in the pipeline.
+And if this debugging can be done by the author of that component, here, in this case [PERSON4], it would be most efficient for all of us.
+So, [PERSON8], please confirm that you agree with this idea of like do-it-yourself integration.

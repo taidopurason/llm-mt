@@ -1,0 +1,7 @@
+Zapsal jsem se na čekací listinu „Zkušební kuchyně vybavená AI“ společnosti Google a ještě ten den jsem se dostal dovnitř.
+Zatím je to dost zklamání.
+„Demoverze MusicLM“ je jen trochu zajímavá.
+Můžete požádat o konkrétní hudební skladbu, například „jazz se sólem na trubku v 5/4 taktu“, a po několika sekundách vám vygeneruje dvě skladby.
+Zdá se, že rozumí taktu, ale... ta hudba prostě... není dobrá.
+Hodit v reakci na GPT všechno, co máte, přes palubu není to pravé.
+Snaž se víc, Google.

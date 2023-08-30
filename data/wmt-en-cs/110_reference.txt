@@ -1,0 +1,48 @@
+A pak souhlasím s tím, že v tomhle slovníku je spousta šumu.
+Tak jsem vás požádal, abyste měli různý verze tohohle slovníku, a to tak, že vezmete pouze ty slova, který byly pozorovaný, pětkrát.
+A pouze ty výslovnosti, který byly pozorovaný třikrát nebo vícekrát, nebo něco takového.
+Takže takhle se tyhle náhodný chyby, jako je příklad s těmahle čtyřma IBM místo IBM.
+Tohle nebude tak častý.
+Ale přesto budete mít varianty ve výslovnosti, protože pokud osoba, řekne to „alzo“, pokud si pamatujete, pokud řekne to „alzo“ se „Z“ za, za rozhovor 20krát, pak ho uvidíte v datech se „Z“.
+A pokud se mu to někdy podaří říct i správně, pak jo, zas to uvidíte v datech.
+Takže bych chtěl, aby [PERSON4] byl v kontaktu s [PERSON2].
+Možná budete pokračovat v hovoru, co?
+Budu už muset odejít, protože musím dát dětem oběd a tak vůbec.
+Ale prosím, zůstaňte u toho hovoru a společně zjistěte, jak ten slovník používat.
+Takže, [PERSON4], prosím, ukaž [PERSON2], jaký slovník systém přijímá.
+Sdílej obrazovku a ukaž ji.
+A [PERSON2], podívej se prosím na to a pomoz s konverzí slovníku, který jste na ten soubor pustili.
+Jedna z věcí, která bude pořád ještě potřeba, je náhrada jazykového modelu.
+Ale všechny ty slova by měly být známý.
+Takže ,[PERSON4], musíš zjistit, jaký slova jsou v jazykovém modelu.
+A slova, která jsou v jazykovém modelu, by se měly jednoduše zkopírovat.
+Takže slovník bude mít tři sloupce.
+Grafém tak, jak je na výstupu.
+Jeden rozpoznaný.
+Fonémy tak, jak je [PERSON2] navrhl.
+A bude existovat víc řádků s různými variantami fonémů.
+Třetí sloupec bude zase stejný pro všechny z nich a zase bude mít stejnou formu grafému.
+A to je ta chvíle, kdy to jazykový model vidí.
+A myslím, že tímhle způsobem by tyhle systémy měly být schopný ho načíst.
+A možná narazíte ještě na jeden další problém: že není připravený na dva velký vlastní slovníky.
+Takže i to je něco, co je potřeba otestovat, ale prosím, otestujte to vy dva společně.
+Takže [PERSON2] ví, co ve slovníku vytvořil.
+A ty víš, jak slovník vypadá, když ho vytváříš ručně, a tyhle dvě znalosti musíte spojit dohromady.
+Aha, takže to funguje s tím, s tím vygenerovaným slovníkem.
+[PERSON4] Dobře.
+[PERSON6] Takže, [PERSON2], dává to smysl?
+[PERSON2] Jo, jistě, probereme to.
+[PERSON6] Jo, takže je ještě něco, [PERSON2], co máš?
+[PERSON2] No, možná zajímavá informace pro Dominika.
+Dokončuji výcvik německého ASR, který se dá použít pro časovou značku.
+Nejsem si jistý, jak dobrý to bude, protože se to snažím dělat na (Libry) Speech.
+Když jsem to stahoval, tvrdili, že má přes 600 hodin.
+Ale pak se při trénování ukázalo, že skutečný tréninkový soubor obsahuje jenom asi 300 hodin.
+A stále si nejsem jistý, zda těch 300 hodin neobsahuje podobný věty.
+Nebo vlastně tytéž věty, ale pronášený různými mluvčími.
+Například v angličtině nebo češtině jsem dřív pozoroval prudší konverze.
+A teď už nekonvertuje tak rychle.
+Takže pokud během trénování vezmeme několik vzorků.
+Pak se ve výstupu ASR pořád vyskytují určitý závažný chyby.
+Doufám tedy, že na časovou značku je to dostatečně dobrý.
+Nebo to aspoň můžeme zkusit.

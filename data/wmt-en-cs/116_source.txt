@@ -1,0 +1,18 @@
+(PERSON11) &lt;parallel_talk&gt; For ASR as well we should add a complimentary metric -
+Actually more, we should add complementary met- these complementary metrics. &lt;/parallel_talk&gt;
+So, you mentioned one and that is profanity filtering m evaluation.
+So &lt;parallel_talk&gt; have an explicit list of things which must not appear in the output &lt;/parallel_talk&gt;, right?
+&lt;parallel_talk&gt; And then rare words evaluation.
+And here have an explicit list of names and terms that we do want to appear in the output, scored not simply by (order) rate &lt;/parallel_talk&gt; but scored by something which directly accounts these things, right?
+Yes, so I totally agree.
+This involves also manual preparation of the reference.
+So, &lt;parallel_talk&gt; both need manually created references. &lt;/parallel_talk&gt;
+I have one remark from [PERSON1].
+So &lt;parallel_talk&gt; [PERSON1] has compiled some translation dictionary.
+And she should share it soon. &lt;/parallel_talk&gt;
+So, this could become an empty part of the second thing of the rare word -
+So &lt;parallel_talk&gt; this would be the rare word evaluation for MT and then from [PROJEC210] we are also likely to get some dictionary. &lt;/parallel_talk&gt;
+So that would be the [PROJEC210] domain obviously.
+And [PERSON2], could I ask you to revise the &lt;unintelligible/&gt; domain and create such a dictionary by looking at the outputs and what is missing in the outputs.
+So, like shortlisting - listing the words that we do like, and we do not like in the &lt;unintelligible/&gt; domain.
+Could you do that?

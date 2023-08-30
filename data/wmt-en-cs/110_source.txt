@@ -1,0 +1,48 @@
+And then, I agree that there is a lot of noise in this dictionary.
+So, I asked that you would have various versions of this dictionary by taking only the words that were observed, five times.
+And only the pronunciations that were observed three times or more, or something like that.
+So, that way, these random errors, such as the example with this four IBM instead of IBM.
+This will not be so frequent.
+But still, you will have the variants in pronunciation, because if the person, says this "alzo", if you remember, if he says this "alzo" with a "Z" 20 times in the in the talk, then you will see that in the data with the "Z".
+And if he sometimes manages to say also correctly, then yeah, again, you will see that in the data.
+So, I would like, [PERSON4] to be in touch with [PERSON2].
+Maybe you continue on the call, right?
+I will have to leave now, because I need to give the kids lunch and so on.
+But please stay on this call and figure out jointly how to use that dictionary.
+So [PERSON4], please show [PERSON2] what the dictionary is that the system is accepting.
+Share your screen and show it.
+And [PERSON2], please, have a look at that and help with converting the dictionary that you emitted to that file.
+One thing that will still be needed is the language model substitute.
+But all these words should be known words.
+So [PERSON4], you need to figure out what words are in the language model.
+And the words which are in the language model should be simply copied.
+So, the dictionary will have three col ns.
+The grapheme, as it is output.
+One recognized.
+The phonemes, as [PERSON2] proposed.
+And there will be multiple lines with different phoneme variations.
+And the third col n will be also the same again for all of those, and again there will be the same grapheme form.
+So that is when the language model sees.
+And I think that this way, these systems should be able to load it.
+And you will also possibly run into one more problem: that it is not ready for two big custom dictionaries.
+So, this is also something that has to be tested, but please test it, the two of you together.
+So [PERSON2] knows what he created in the dictionary.
+And you know what the dictionary looks like when you are creating it manually, and you need to put these two pieces of knowledge together.
+Ah, so that it works with the, with the generated dictionary.
+(PERSON4) Okay.
+(PERSON6) So [PERSON2], does this make sense?
+(PERSON2) Yeah, sure, we'll discuss it.
+(PERSON6) Yeah, so is there anything else, [PERSON2], that you have?
+(PERSON2) Well, maybe interesting information for Dominik.
+I'm finishing training of a German ASR that may be used for time stamping.
+I'm not sure how good it will be because I'm trying to do it on (Libry) Speech.
+And, though, when I was downloading it, they claimed it had more than 600 hours.
+But then the training said that the actual training set contained only around 300 hours.
+And I'm still not sure whether these 300 hours do not contain similar sentences.
+Or actually the same sentences but spoken by different speakers.
+For example, in English or Czech I used to observe steeper conversions.
+And now it won't convert so fast.
+So, if we take some samples during the training.
+Then there are still some serious errors in the ASR output.
+So, I'm hopeful that for the time stamping, it is good enough.
+Or at least we might try it.

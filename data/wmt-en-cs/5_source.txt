@@ -1,0 +1,8 @@
+There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.
+In this work, based on a variant of the classical Lewis (1969) signaling model, we explore the conditions for the emergence of context-dependent communication in a situated scenario.
+In particular, we demonstrate that pressure to minimise the vocabulary size is sufficient for such emergence.
+At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.
+We show that environmental constraints on the receiver's referent choice can be unilaterally exploited by the sender, without disambiguation capabilities on the receiver's end.
+Consistent with common assumptions, the sender's awareness of the context appears to be required for contextual communication.
+We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.
+The model developed in this work is a demonstration of how signals may be ambiguous out of context, but still allow for near-perfect communication accuracy.

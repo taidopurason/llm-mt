@@ -1,0 +1,15 @@
+[PERSON1] Myslím tím skript, který mám ve dvou různých složkách, a pak ho spustím s trochu rozdílnými vnitřními převaděči, takže myslím, jo, takže mám &lt;unintelligible/&gt; řekněme deset, no místo výstupu, soubor &lt;unintelligible/&gt; pobočního převaděče, takže &lt;unintelligible/&gt;, který máme, takže se prostě ujistím, že se tyhle věci pro jeden soubor generují paralelně ze všech dostupných převaděčů.
+[PERSON1] Aha, to by nám ušetřilo čas.
+[PERSON7] Jo, jo, je velmi důležitý všechno ve skutečnosti paralelizovat, paralelizovat jak zpracování systémů, tak vyhodnocování DF buněk, protože by to potřeboval spouštět mnohokrát, budou se vyskytovat chyby, je třeba to rychle spustit znova.
+[PERSON7] Dobře, takže díky.
+Máte s tím hodně práce, nechci vás zatěžovat dalšíma věcmi, takže začnu s připomínkami.
+Musíme dokončit popis souboru stolů [PROJECT1],
+Koho to tu máme?
+Aha, no ne tak docela, jo, (je to hotový) a bohužel to není tady.
+Takže to by bylo pro [PERSON2],
+Pak vyhodnocení, to je pro [PERSON1], ale to už jsme probrali.
+Poslouchejte, dejte mi tabulku v DSD, dejme sem jemnou čáru a pushněte šablonu tabulky, jakože strukturu plánu do delebl teď, takže čísla přijdou později, ale už velmi brzo chci vidět nějaký čísla a úplnou strukturu tabulky.
+[PERSON7] Dobře, děkuju.
+Máme [PERSON5], to je dobrý.
+Rád bych si tedy u [PERSON5] ověřil, jaký je pokrok ve vyhodnocování systémů, a zda jste v kontaktu s [PERSON1] taky kvůli vývoji, což je důležitější.
+Slyšíš nás, [PERSON5]?

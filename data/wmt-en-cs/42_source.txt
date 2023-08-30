@@ -1,0 +1,6 @@
+Does you know of a performant way for a web component to respond to being added/removed from a document?
+This is for Wikipedia's component library (OOUI).
+It is mostly semantic HTML with CSS, and generally does not require custom elements (which offers connectedCallback).
+We currently use a MutationObserver hack.
+For performance, we don't observe the whole document.
+We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).

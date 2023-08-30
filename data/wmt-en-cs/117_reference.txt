@@ -1,0 +1,28 @@
+[PERSON11] Mělo by to být proveditelný, tak to zkusme.
+Bylo by jakoby – bylo by skvělý, kdyby se ti to podařilo.
+Takže si to zapíšu.
+Takže &lt;parallel_talk&gt; se zaměřuje na [ORGANISATION62] termín odevzdání článku o studii titulkovače. &lt;/parallel_talk&gt;
+Ano &lt;parallel_talk&gt; a pak na víc zdrojů s [PERSON7] nebo na základě [PERSON7], případně – &lt;/parallel_talk&gt;.
+A pokud jde o ID jazyka, zajímalo by mě, jak přesně ho chceš integrovat, protože to už zahrnuje zohlednění víc zdrojů ASR, víc kanálů, takže jaký by byl případ užití u ID jazyka?
+Jak to tam zapojíme?
+[PERSON13] Bude to převaděč zvuku na text a bude vysílat časový značky jakoby pro čtyři nebo dvousekundová okna a třídy.
+&lt;unintelligible/&gt; ticho, čeština, němčina, angličtina, a pak nechám na ostatních, jak to chtějí v pajplajně používat.
+[PERSON11] To je důležitý.
+Prosím, zapište to sem do dokumentátoru, tohle shrnutí &lt;unintelligible/&gt;, protože to je pro [PERSON2].
+A taky [PERSON2], až budeš mluvit s [PERSON10], no a taky možná [PERSON5].
+Pokud máme tenhle nástroj, je potřeba (odesílat) zvuk víc ASR nebo víc převaděčům &lt;unintelligible/&gt;
+Samostatně budeme muset (odesílat) zvuk do anglického ASR, samostatně do německého ASR a českého ASR, například v závislosti na &lt;other_noise/&gt;.
+A taky do tohohle převaděče ID jazyka a pak potřebujeme tyhle výstupy sloučit, a to je nástroj, který zatím nemáme k dispozici.
+To je nástroj s víc zdroji, který bude sledovat textový výstupy a taky časový značky a bude vysílat – pravděpodobně bude jakoby vytvářet výstup do tří samostatných jazykových kanálů pro použití buď ticha, nebo správného ASR.
+Takže potřebujeme filtr pro ASR, aby byl ASR zticha, pokud je to nesprávný jazyk, a aby byl rozpoznaný text, pokud je to správný jazyk.
+Tenhle typ nastavení jsem právě vymyslel.
+Další z nastavení by bylo, že stejný zvuk bude posílaný do ASR a tohohle kontroloru jazyka.
+Tenhle kontrolor jazyka je v podstatě součástí ASR a v případě nesprávného jazyka ASR umlčí.
+I to je možnost.
+Takže, potřebujeme vymyslet, který způsob integrace ID jazyka je pro naše účely nejlepší.
+Přemýšlejte proto o tom, jaký jsou naše pajplajny.
+V ideálním případě by podle mého názoru vzniklo nejmíň zmatků v řízení a tak dál, kdyby naše modely MT byly vícejazyčný.
+Pokud by podporovaly různý zdrojový jazyky a překládaly z jakéhokoli z nich do angličtiny.
+Případně by stačilo, aby dělaly jen kopii, pokud by byla jako vstup zadaná angličtina, takže bychom na začátku měli vícejazyčný vícenásobný ASR.
+Vše půjde do angličtiny a z angličtiny pak do všech jazyků.
+A později, až bude [PERSON12] mít vícejazyčný model ASR, nebude tohle jazykový ID vůbec potřeba.

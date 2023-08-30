@@ -1,0 +1,12 @@
+[PERSON2] Ano, to je jediná věc, kterou jsem udělal pro kladné omezení.
+Se zápornými omezeními jsem při dekódování udělal něco trochu složitějšího.
+Jako odfiltrování paprsků a jejich nahrazení jinými paprsky.
+A například pro omezení víc tokenů a tenhle podobný druh záležitostí.
+Ale pro kladné omezení jsem porovnával jenom přístup k trénování s, jo, právě touhle velmi jednoduchou záležitostí.
+Stačí jenom upravit skóre v každém kroku stejným způsobem.
+[PERSON7] Dobře, takže zpět ke kladným omezením.
+Zaměřili jste se už na analýzu systému?
+[PERSON2] Jo, právě teď tak trochu čekám na přepracování datového souboru od ([PERSON9]).
+I [PERSON9] já jsem se podíval na (kód) a myslím, že vím, proč je to tak pomalý.
+Protože pro každou položku v terminologii v rámci přepracování (Europar) otevřete datový soubor, tokenifikujete ho, přečtete ho řádek po řádku, tokenifikujete ho řádek po řádku a poté ho zavřete.
+Ale jenom ty to ty děláš –

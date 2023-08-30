@@ -1,0 +1,19 @@
+[PERSON2] Ale část Flask nebo část komunikace s klientem je něco, co nemůžu udělat.
+Protože nemám žádný zkušenosti ani čas na jeho zprovoznění.
+[PERSON1] Myslel jsem, že to znamená něco, co používá, já nevím, mediátor.
+[PERSON2] Ne, vytvoříš klienta HTTP, který může naplnit frontu a číst z jiné fronty.
+A odešleš text zpátky v požadavku HTTP.
+Moje představa je totiž taková, že kliknutí uživatele se budou používat i v ukrajinském projektu.
+[PERSON2] A moje představa je taková, že klient klikne na tohle tlačítko mikrofonu a začne mluvit, a když uživatel mluví, posíláte zvuk zároveň po malých kouscích.
+Řekněme 200 nebo dokonce 100 milisekund.
+A na serveru HTTP to dáš do fronty, kterou budu později zpracovávat pomocí (ASR).
+A model s tím na základě toho provede určitou logiku, určitou inferenci.
+A kdykoli se objeví nová část přepisu, odešle ji zpátky a uživatel by měl dostat zpátky částečný přepis.
+A ten by se měl okamžitě zobrazit v textovém poli.
+[PERSON1] Mohl bych o tom popřemýšlet.
+Jen Flask taky moc neznám, ale jo, můžu o tom popřemýšlet.
+[PERSON2] Aha, možná jiný server HTTP.
+Nevím, možná k tomu ani nepotřebujeme žádný vyšperkovaný server HTTP.
+[PERSON1] Pro tok textu používáme něco jako Hypercore, ale nejsem si jistý, zda by to fungovalo i v tomhle případě.
+[PERSON2] Jo, jediným požadavkem je, aby zvládal víc připojení najednou.
+[PERSON1] No, myslím, že online tok textu je něco kolem 2 000 minimálně.

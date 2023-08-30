@@ -1,0 +1,30 @@
+(PERSON8) Or I tried it with Marian just attending it and it's... I don't know how many BLEU points lower.
+(PERSON2) Because like the way I believe Martin does his &lt;unintelligible/&gt; little translation, so he translates more sentences at once and then picks only the centre one and goes like this for the whole document.
+So, the context is like in one &lt;unintelligible/&gt; together with sentence we actually want to translate.
+(PERSON10) Yeah, I think - wasn't it Dominik doing some experiments with Ivana?
+I think the last year or two years ago for double empty where they were attending the context or concatenating the context with input sentence and doing some sort of document level translation.
+But the thing is with this with the concatenation is not completely sure whether it has the same effect as we do multi encoder setting-
+(PERSON1) Like everybody is different, it's definitely a different calculation, different leader, but it's I'm surprised that [PERSON8] says that it doesn't work full stop.
+(PERSON8) Yeah, okay, so sorry, maybe I should be more correct that it didn't work like in the way I did it &lt;laugh/&gt;
+(PERSON1) Yeah, because I think it's a method which is very easy to test, and it always should be tested in contrast with the two encoders, and I would expect sometimes to be better and sometimes to be worse than the two encoders set up, depending on the exact task like what exactly is the second thing that you are encoding.
+So, maybe if you have two copies two paraphrases of the same sentence,
+maybe it is somehow confusing for the attention so whatever, I don't know.
+Behaviour also could be different for the old sequence-to-sequence methods, compared to transformer, so for RNN then it behaved differently maybe with transformer it's yeah, it's harder to train so maybe you need to whatever increase warm-ups number, warm-up sets.
+(PERSON2) Yeah, so just know like-
+(PERSON8) I don't remember, so I don't remember exactly but this is like what-
+when I started in summer with those multi-source experiments.
+The first thing I started with was concatenating the paraphrase and source and maybe I, I don't remember now,
+I can check it till the next meeting whether I tried also,
+I definitely tried when the sources are on the first position then some delimiter and the paraphrase on the second position.
+I might have also tried that I shuffled the two things randomly, yeah, and I just remember that it did abundantly this compenetration stuff and tried multi-encoders.
+(PERSON8) And it was probably due to low scores.
+(PERSON2) &lt;unintelligible/&gt; that you like can improve your amenity score by just appending phrase-based output and the attention is like double diagonal, so the attention is not an issue, so like I believe you but it's surprising that it didn't work.
+(PERSON10) So, if you if you input the phrase-based output that's basically post editing, right? You can think about it as a postediting like you are postediting phrase-based output, right? Or like depends on the point of view, right?
+(PERSON1) &lt;unintelligible/&gt; that you like fully to rewrite it but technically it fits exactly the postediting task, you can plug this as a solution to the postediting task.
+(PERSON10) Okay, so one question just for me just to make sure in the concatenation settings you insert the sentence separator token, right?
+You have a special token to distinguish like which is the source and which is the context or the other sentence or do you just concatenate them without anything?
+And hope that the system learns it?
+(PERSON8) I tried to, I guess two tokens and yeah like because in the first version, we had a suspicion that the token could be also tokenized itself, so then I replayed it with another token which is not only for this purpose because we used some pretrained dictionary, and this dictionary didn't contain separator tokens.
+So, I used some token that I assumed that it wouldn't be like tokenized into several pieces and so it will appear once.
+I had no guarantee that this token couldn't appear in other places in the sentence and that is the only place it could appear.
+So, it could be done more properly, yeah, I agree.

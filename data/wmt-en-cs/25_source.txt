@@ -1,0 +1,6 @@
+A bunch of shiny new goodness in #dart
+Over time dart became my go-to for quick UI.
+#flutter is a pleasure to work with, and they have #mobx for easy store management.
+The dependency story is less insane than nodejs, too.
+Of course flutter sucks really bad when it comes to behaving like a good native app would (anywhere, really. Even flutter web target sucks).
+But it allows to move fast and that's why it's ideal for small hacks.

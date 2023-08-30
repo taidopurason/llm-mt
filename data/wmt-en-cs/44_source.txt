@@ -1,0 +1,5 @@
+Today's Aerostrike progress report:
+1) Slight modifications to the Hel's Fighters map layout.
+Additionally, the map menu is fully functional!
+2) The currency reward system has been connected.
+Tomorrow it will be tested with various battles.

@@ -1,0 +1,22 @@
+[PERSON17] Kdokoli jiný může pracovat na záležitosti s přízvukem nerodilého mluvčího.
+Dobře, pak jsem si všiml ještě jedné věci – je to v pondělním testovacím dokumentu.
+Je zvýrazněná čtyřikrát.
+Když tedy probíhá nějaká relace, potřebujeme pro ni názvy a terminologii.
+A my je musíme shromáždit, ručně připravit, jaksi vytvořit.
+A tahle ruční tvorba by měla být co nejvíc podpořená automatickými nástroji.
+Takže je potřeba mít v tom určitou dovednost, kterou je potřeba trénovat.
+No, já jsem docela zkušený v přehazování textových souborů.
+A kdykoli vidím, že to někdo z vás, někdo z vás dělá, jakoby mám v hlavě tipy, co by se dalo udělat rychleji.
+Možná to pro vás není rychlejší, ale měli byste to alespoň zvážit.
+Takže tahle dovednost je něco, co potřebujeme, aby lidi měli.
+A potřebujeme někoho, kdo za to bude zodpovědný.
+A obávám se, že jedinou osobou, která by to mohla být, je [PERSON8].
+Pokud se najde někdo další, kdo by byl ochotný pomoct s okamžitou doménovou adaptací a zpracováním dat, řekněte to, prosím.
+A pak potřebujeme –
+Takže jakmile zajistíme slovník termínů a všelijaký výslovnosti slov, budeme potřebovat techniky, kterýma by se tyhle slovníky využily v systémech.
+No, můj dojem z doménové adaptace, kterou [PERSON9] pečlivě prováděl u všech relací, byl takový, že v hybridním ASR to nebylo zrovna moc vidět.
+Jedna taková relace se tedy uskuteční i toto pondělí.
+[PERSON9] už začíná se sběrem dat, ale rád bych viděl přínos téhle doménové adaptace v, v, v nastavení od [PROJECT5].
+Takže možná [PERSON9] a [PERSON8], protože se učí, jak dělat doménovou adaptaci, a [PERSON14], protože dělá na tom, jak pracovat s [PROJECT5].
+Kdybyste se vy tři mohli sejít a překontrolovat, co dělá [PROJECT5] s –
+Ve skutečnosti to není [PROJECT5], doménová adaptace je určená pro sadu nástrojů [PERSON18], ne?

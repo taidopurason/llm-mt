@@ -1,0 +1,5 @@
+Dnešní zpráva o pokroku Aerostrike:
+1) Mírné úpravy rozložení mapy Hel's Fighters.
+Nabídka mapy je navíc plně funkční!
+2) Systém měnových odměn byl připojen.
+Zítra to bude testováno v různých bitvách.

@@ -1,0 +1,15 @@
+[PERSON1] a pak zjistíme, který balíčky nainstalovat do prostředí Petri.
+[PERSON7] Jo, takže je tu další věc,
+Možná není dobrý nápad spojit tyhle dvě spuštění do jednoho nastavení.
+Myslím, že ve skutečnosti bude lepší, když to spustíš samostatně a uložíš výstupy.
+Takže nejprve použiješ prostředí pro řízení a zpracování,
+[PERSON7] a ty shromáždíš všechny výstupní soubory a poté spustíš vyhodnocení.
+Důvodem tohohle rozdělení je, že můžeš víc paralyzovat.
+Takže jsem si jistý, že se vyskytnou problémy na různých frontách a že budeme velmi brzo potřebovat čísla.
+Takže pokud například některé testovací soubory z nějakého důvodu selžou,
+Pak můžete nechat překlad spuštěný i pro zbývající,
+a znovu vyhodnotit pomocí sel T F ty chybějící a, a tak dál.
+Takže nejde o to vytvořit sériový, sekvenční zpracování, který by zahrnovalo obojí,
+ale cílem je, abyste získali výsledky, a to je ve skutečnosti lepší dělat po částech.
+Nejprve získáme všechny výstupy, a až potom všechna hodnocení.
+[PERSON1] Jo, takže, teda myslím, teď jsem dělal to samý.

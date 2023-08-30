@@ -1,0 +1,51 @@
+(PERSON11) But for some folders, for some reason, the audio format is wrong, so, something is wrongly –
+Basically, the big trade, or something is wrong.
+So, some files are still – still have weird output.
+But – but for most folders, it should be already fine.
+(PERSON1) Okay, thanks.
+(PERSON6) Yeah, that's great.
+I support this, it's great that, [PERSON7], you have thought of [PERSON11].
+And [PERSON11] now has the time.
+There are other things where I was thinking of [PERSON11] and that would be training of, empty systems, so that they do the shortening.
+So, if you, [PERSON11], had the time.
+Obviously, there is no way we could do it for next week.
+But we should really have the system – ready for –
+I looked at the tutorial from the NLP – was it?
+(PERSON6) For the upcoming sessions and I've asked about demand because I've seen the (meme) project demo.
+They do offline subtitling.
+So, that's slightly easier than what we do.
+They still have the same segmentation issues and so on.
+But their mission in translation is shortening simply because the data is shortening.
+And that's because their target size is the subtitles, which are created for the hearing-impaired.
+So, there is like a natural shortening in the data.
+It'd be great if we could also locate such a type of data where there is some natural shortening happening.
+We would put it in the architecture.
+(PERSON8) That takes a bit of time, because I need to figure out which one is the one which is getting passes.
+So, once I know that, I can keep a track of it, so, for the future –
+Or actually, for future I would not need it, because once I have the web file, I probably won't need to do a convert.
+(PERSON6) Well, this, this should actually be –
+Can you still hear me?
+The sound quality is a little worse.
+So, this should really be done, all the time.
+So, every time we run this evaluation, it should be run from scratch.
+So, every time, there should be a fresh download of a fresh conversion and a fresh evaluation.
+(PERSON8) But still, if I am keeping track of the files that need to be manually converted, so that I can write a script, and it could take care of the known ones at least, and of course, if we add some new files, I can see for that later.
+(PERSON6) So this is an important thing that we should have come across months ago.
+Remember, it is since August that I've been telling you that we want to evaluate on a later test set.
+And every time, you all...
+It is not just you personally, [PERSON8].
+There were other things, obviously.
+But every time you thought about that, you thought "this will be easy, we will just run it".
+And only when you actually do it, do you see all the problems.
+So, this is known, common.
+It is always like that.
+So that's a message for everybody.
+Before you try, you never know what the problem will be.
+So, for example, the call that I had, in which someone was interviewing me, so they wanted to record the video.
+Zoom never worked as badly for me as it did today for the recording.
+So, before you do it, you cannot say whether it will work or not.
+And here we are running into the problems of conversion of the file formats.
+So, hopefully, we will be able to quickly get the numbers.
+So, do you have any word error rates so far?
+(PERSON8) No, I have not processed it.
+So [PERSON1] said that, once, they get the transcript, we will do it together.

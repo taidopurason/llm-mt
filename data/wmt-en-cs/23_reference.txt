@@ -1,0 +1,6 @@
+Zde je rychlý přehled toho, jak využívat naše webové stránky.
+- Zasíláme upozornění, když se letenky začnou prodávat.
+- Poskytujeme odkazy, kde si můžete rezervovat letenky.
+- Neprodáváme letenky ani neúčtujeme předplatné.
+- Další podrobnosti jsou v celém příspěvku na blogu.
+- Udržujeme seznam vzorových dat rezervací pro každou zveřejněnou nabídku a tento seznam několikrát denně aktualizujeme.

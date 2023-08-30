@@ -1,0 +1,19 @@
+Je to takový zpátečnický, pořád jen používat starý ověřený metody.
+V současné době je naprosto nemožný provést jakoukoli doménovou adaptaci pro plně neuronový ASR.
+Uvažuji tedy o nezávislém vyhledávání klíčových slov ze zvuku a o nějakém postupu slučování.
+No, mohli bychom mít spuštěný dvě ASR současně.
+End-to-end ASR, který je obecně lepší.
+A pak doménově adaptovaný nastavení od [PROJECT5], který se použije jen k rozpoznání klíčových slov.
+A když uvidíme klíčový slovo v doménově adaptovaný verzi, pak bychom, pak bychom použili větu od [PROJECT5], která je obecně horší, ale obsahuje správný výrazy.
+To je můj návrh, co bychom mohli udělat.
+Dalším návrhem je, že bychom měli mít vlastní plně neuronový ASR a provádět různý experimenty s dolaďováním a vůbec.
+Takže jsme o tom diskutovali s [PERSON14].
+A, [PERSON14], máš nějaký aktuální informace od svého potenciálního kolegy nebo přítele?
+[PERSON17] Jo, takže pokud je tady ještě někdo, koho by to zajímalo, dejte mi prosím vědět nebo se ozvěte.
+Takže to je, je to něco, co by se obecně dalo dobře přijmout jako článek, protože lidi to zatím ještě nedělají.
+A to je v dnešní době nejnaléhavější problém.
+Takže bychom tam opravdu mohli zapůsobit.
+[PERSON6] Jo, možná jsem jen přemýšlel jakoby o tom, jaký druhy dat pro to v současnosti používáme, protože například, jakoby když se podíváte na modely jakoby od [ORGANIZATION4] na [ORGANIZATION5], že už jsou v těchhle věcech jakoby docela dobří –
+[PERSON6] A myslím, že kdybychom prostě jakoby –
+Pravděpodobně bychom od nich mohli získat data, protože na [ORGANIZATION5] máte v podstatě jakoby tak velký soubor videí s různými doménami a různými rodnými jazyky mluvčích.
+A napadlo mě, že bychom jakoby mohli použít nějaký nástroj, který by v podstatě stáhl několik druhů filtrovaných videí z [ORGANIZATION5] a vytvořil z nich tréninkovou sadu tréninkových testů.
