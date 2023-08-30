@@ -16,9 +16,9 @@ FLORES-200 results. P1 is from [https://arxiv.org/pdf/2304.02210.pdf](https://ar
 
 | MT | lang | dataset                                          | chrF++   | BLEU       | unbabel-wmt22-comet-da  | chrF     | TER      |
 |----| -----| -------------------------------------------------|----------|------------|-------------------------|----------|----------|
-| Google Translate        | et-en   | mtee-news | **66.6**     | 36.5     | 0.8458                               | **69.7** | **109.3**|
-|                         | en-et   | mtee-news | 61.7         | 23.9     | **0.8998**                           | 68.0     | 121.37   |
+| Google Translate        | et-en   | mtee-news | **66.6**     | 36.5     | 0.8458                               | 69.7     | 109.3    |
+|                         | en-et   | mtee-news | 61.7         | 23.9     | 0.8998                               | 68.0     | 121.37   |
 | DeepL                   | et-en   | mtee-news | 65.9         | **39.6** | 0.8441                               | 68.6     | 114.74   |
-|                         | en-et   | mtee-news | 66.0         | 31.0     | 0.9129                               | 71.7     | 108.5    |
+|                         | en-et   | mtee-news | 66.0         | 31.0     | **0.9129**                           | **71.7** | **108.5**|
 
 mtee-news results. FLORES-200 coming soon...
