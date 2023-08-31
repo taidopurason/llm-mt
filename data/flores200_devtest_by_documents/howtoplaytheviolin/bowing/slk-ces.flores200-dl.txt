@@ -1,0 +1,4 @@
+"Značka ""pokret gudalom prema gore"" vypadá jako V a ""pokret gudalom prema dolje"" po spajalice ili kvadrata bez donje stranice."
+Znak za gore znači da treba započeti od vrha i gurnuti gudalo, a znak za dolje znači da treba započeti od žabice (gdje rukom pridržavamo gudalo) i povući gudalo.
+Zvednuté gudalo obvykle vydává měkčí zvuk, dokud není snížené gudalo lépe dosažitelné.
+Slobodno přidat vlastní značky, ali upamtite da su oznak za pokret gudala otisnute iz glazbenih razloga, ih ih obično se treba pridržavati.

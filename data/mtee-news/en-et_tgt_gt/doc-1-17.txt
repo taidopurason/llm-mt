@@ -1,9 +1,9 @@
-Apple kaebas nuhkvarafirma NSO Groupi väidetava iPhone'i häkkimise tõttu kohtusse
-Apple ütles, et tema hagi saadab selge sõnumi: "Vabas ühiskonnas on vastuvõetamatu relvastada võimsat riiklikult toetatud nuhkvara nende vastu, kes püüavad maailma paremaks muuta."
-Apple on esitanud hagi nuhkvara eraettevõtte NSO Group vastu, keda süüdistatakse despootlikele režiimidele tööriistade pakkumises kriitikute mobiiltelefonidesse sissemurdmiseks.
-Teisipäeval Põhja-Californias esitatud hagis kirjeldatakse NSO Groupi kui "amoraalseid 21. sajandi palgasõdureid", kes arendavad tehnoloogiat, mis "kutsub üles rutiinsele ja räige kuritarvitamisele", nagu Apple on täpsustanud.
-See järgneb sarnasele juhtumile, mille algatas WhatsApp ja USA valitsuse kannul selle kuu alguses, kes karistas Iisraeli äri põhjusel, et see võimaldas välisriikide valitsustel "võtta pahatahtlikult sihikule valitsusametnikke, ajakirjanikke, ärimehi, aktiviste, akadeemikuid ja saatkondi.töölised".
-Kaubandusministeerium selgitas, et sanktsioonid on "osa Biden-Harrise administratsiooni püüdlustest seada inimõigused USA välispoliitika keskmesse, sealhulgas töötades selle nimel, et peatada repressioonideks kasutatavate digitaalsete tööriistade levik".
-See järgnes Ühendkuningriigi riikliku küberjulgeoleku keskuse juhi Lindy Cameroni sõnadele, et Pegasus Papersi lood, mis seovad ettevõtte nuhkvaratööriistu potentsiaalselt tuhandete ohvritega, "demonstreerisid midagi, mille kohta oleme varemgi punase lipu heisanud; kommertsturg keerukatele inimestele.küberkasutamise tooted".
-Apple ütles, et tema hagi saadab selge sõnumi: "Vabas ühiskonnas on vastuvõetamatu relvastada võimsat riiklikult toetatud nuhkvara nende vastu, kes püüavad maailma paremaks muuta."
-Ettevõte lisas, et teavitab "väikest kasutajate arvu", kes on NSO Groupi tehnoloogia ohvriks langenud, paljastades potentsiaalselt valitsuse kuritahtlikud tegevused.
+Apple kohtab nuhkvara ettevõte NSO Group väidetava iPhone'i häkkimise üle
+Apple ütles, et tema kohtuasi saatis selge sõnumi: "Vabas ühiskonnas on vastuvõetamatu relvastada võimsa riigi toetatud nuhkvara nende vastu, kes soovivad muuta maailma paremaks kohaks."
+Apple on esitanud kohtuasja NSO Groupile, erasektori nuhkvaraettevõttele, keda on süüdistatud despootlike režiimide pakkumises oma kriitikute mobiiltelefonidesse häkkimiseks.
+Teisipäeval Põhja -Californias esitatud kohtuasi kirjeldab NSO gruppi kui "21. sajandi palgasõdureid", mis arendab tehnoloogiat, mis "kutsub üles rutiinset ja räiget väärkohtlemist", nagu Apple on kirjeldanud.
+See järgneb sarnasele juhtumile, mille WhatsApp käivitas, ja tuleb selle kuu alguses USA valitsuse kannul, sanktsioneerides Iisraeli äri põhjusel, et see võimaldas välisriikide valitsustel "sihtida valitsusametnikke, ajakirjanikke, ärimehi, aktivistid, akadeemikuid, akadeemikuid ja saatkonnaidtöötajad ".
+Kaubandusosakond selgitas, et sanktsioonid olid "osa Biden-Harrise administratsiooni jõupingutustest panna inimõigused USA välispoliitika keskmesse, sealhulgas töötades edasi repressioonide jaoks kasutatavate digitaalsete tööriistade leviku peatamiseks".
+See järgnes Ühendkuningriigi riikliku küberturbekeskuse Lindy Cameroni juhile, öeldes, et Pegasus Papersi lood - ühendades ettevõtte nuhkvara tööriistad potentsiaalselt tuhandete ohvritega - "demonstreerisime midagi, mille kohta oleme varem punase lipu tõstnud;Küberkasutamise tooted ".
+Apple ütles, et tema kohtuasi saatis selge sõnumi: "Vabas ühiskonnas on vastuvõetamatu relvastada võimsa riigi toetatud nuhkvara nende vastu, kes soovivad muuta maailma paremaks kohaks."
+Ettevõte lisas, et teatas NSO Groupi tehnoloogia ohvriks langenud "väheste arvude arvust", paljastades potentsiaalselt valitsuse kuritarvitavad tavad.

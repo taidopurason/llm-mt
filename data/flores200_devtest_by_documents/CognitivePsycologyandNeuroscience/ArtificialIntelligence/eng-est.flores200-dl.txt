@@ -1,0 +1,5 @@
+Kuigi tehisintellekt on tugevalt seotud ulmekirjandusega, moodustab tehisintellekt väga olulise arvutiteaduse haru, mis tegeleb masina käitumise, õppimise ja intelligentse kohanemisega.
+Tehisintellekti uurimine hõlmab masinate valmistamist intelligentset käitumist nõudvate ülesannete automatiseerimiseks.
+Näidetena võib tuua kontrolli, planeerimise ja ajaplaneerimise, võime vastata klientide diagnoosidele ja küsimustele, samuti käekirja, hääle ja näo äratundmise.
+Sellistest asjadest on saanud eraldi distsipliinid, mis keskenduvad lahenduste pakkumisele reaalsetele elulistele probleemidele.
+Tehisintellekti süsteemi kasutatakse nüüd sageli majanduse, meditsiini, inseneriteaduse ja sõjaväe valdkonnas, nagu on ehitatud ka mitmetes kodukompuutrite ja videomängude tarkvararakendustes.

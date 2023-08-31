@@ -1,0 +1,4 @@
+Temu pravimo pH kemikalije.Kazalnik lahko naredite s sokom rdečega zelja.
+Sok zelja spremeni barvo, odvisno od tega, kako kisla ali osnovna (alkalna) je kemikalija.
+Raven pH je označena s količino vodikovega (H v pH) ionov v testirani kemikaliji.
+Vodikovi ioni so protoni, ki so jim odvzeli elektrone (saj vodikove atome sestavljajo en proton in en elektron).

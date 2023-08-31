@@ -1,0 +1,5 @@
+Iako umjetna inteligencija ima snažnu znanstvenofantastičnu konotaciju, sastoji se od vrlo važne grane računalstva koja se bavi ponašanjem stroja, učenjem i inteligentnom prilagodbom.
+Istraživanje umjetne inteligencije obuhvaća proizvodnju strojeva za automatizaciju koji zahtijevaju inteligentno ponašanje.
+Primjeri uključuju praćenje, zakazivanje i zakazivanje, mogućnost odgovaranja na dijagnoze i pitanja klijenata te prepoznavanje fonta, glasa i lica.
+Navedene stvari postale su zasebne industrije koje se usredotočuju na pružanje rješenja za stvarne probleme.
+Sustav umjetne inteligencije široko se koristi u ekonomiji, medicini, inženjerstvu i vojsci, jer je ugrađen u mnoge softver za računala i videoigre.

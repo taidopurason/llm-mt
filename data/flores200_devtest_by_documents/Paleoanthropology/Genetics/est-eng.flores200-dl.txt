@@ -1,0 +1,3 @@
+Research in the twentieth century has shown that there are two sets of genetic variation: latent and expressed.
+Mutation adds new genetic variation and selection removes it from the set of expressed variation.
+In the case of segregation and recombination, diversity shifts back and forth between the two pools in each generation.

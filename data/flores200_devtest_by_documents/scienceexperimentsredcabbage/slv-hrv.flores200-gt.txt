@@ -1,0 +1,4 @@
+To se naziva pH kemikalija.Indikator već možete napraviti sa sokom od crvenog kupusa.
+Sok od kupusa mijenja boju u skladu s kiselošću ili bazičnošću (alkalne) kemikalije.
+PH vrijednost ispitivanih kemikalija određuje se količinom vodika (H u pH) ionima.
+Vodikovi ioni su protoni koji su lišeni elektrona (atomi vodika sastoje se od jednog protona i jednog elektrona).

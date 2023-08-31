@@ -1,0 +1,5 @@
+Traffic flow is to study the movement of individual drivers and vehicles between two points and interactions they have with each other.
+Unfortunately, the study of traffic flow is difficult, as the driver's behavior cannot be predicted with 100 % certainty.
+Thankfully, the behavior of drivers is generally established to some extent, so traffic flows are also established and can be roughly presented in mathematical form.
+In order to better illustrate the flow of traffic, the relationships between the main three characteristics have been established: (1) flow, (2) density and (3) speed.
+These relationships help to design, design and operate roads.

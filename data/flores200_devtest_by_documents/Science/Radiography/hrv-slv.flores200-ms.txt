@@ -1,0 +1,2 @@
+Praktično vsi začetniki, ki so danes angažirani, so zavezani manipulaciji z informacijami, ki so kodirane v obliki binárnych čísel.
+Binárne číslo can mať iba one from two hodnôt, tj. 0 alebo 1. Ta članek je označen na začetku knjige, če boste morali biti alebo bity.

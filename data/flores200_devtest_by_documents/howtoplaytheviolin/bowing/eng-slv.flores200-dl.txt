@@ -1,0 +1,4 @@
+Oznaka "lok navzgor" je videti kot črka V, oznaka "lok navzdol" pa kot sponka ali kvadrat, ki mu manjka spodnja stran.
+Navzgor pomeni, da morate začeti pri konici in lok potiskati, navzdol pa pomeni, da morate začeti pri žabi (kjer roka drži lok) in lok vleči.
+Lok navzgor običajno ustvarja mehkejši zvok, medtem ko je lok navzdol močnejši in odločnejši.
+Lahko si s svinčnikom narišete svoje oznake, vendar ne pozabite, da so natisnjene oznake za uklon na voljo iz glasbenega razloga, zato jih je običajno treba upoštevati.

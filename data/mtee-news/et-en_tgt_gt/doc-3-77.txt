@@ -1,23 +1,23 @@
-Chinese company: The Riigikogu passed a discriminatory and anti-competitive law
-The Chinese technology company Huawei makes no secret that it does not like the electronic communications law passed by the Riigikogu yesterday - it leaves the executive power with the opportunity to discriminate against companies purely on the basis of the country in which their headquarters are located.
-"Based on the law, it can be assumed that obtaining a license for hardware and software from a manufacturer outside the European Union, NATO or OECD can be significantly more difficult than for a manufacturer whose head office is located in a member state of the aforementioned organizations," said Ben Chang Bin, head of Huawei Technologies Estonia.
-According to Huawei's statement, the assumed linking of the manufacturer of hardware and software used in the communication network to a specific country is not justified, because all large companies operate internationally and their supply chains are similar to each other.
-According to the company, the security of the technology can also be ensured by "transparent and proportionate measures, avoiding unjustified discrimination of market participants and without harming competition".
-According to the new version of the Electronic Communications Act, the Construction Code and the State Fees Act, the government has the right to impose an obligation on a communications company to apply for a license to use communications network hardware and software in order to ensure national security.
-The granting of this permission also goes through the security authorities.
-Hardware and software are banned in cases where the list is so long that there is probably no country or manufacturer in the whole world that can meet the requirements established by Estonia.
-It is enough, for example, that the company has delivery difficulties, a cyber attack has been organized from its home country, or that some products have had security weaknesses.
-The manufacturer's seat or head office is in a country that is not a member of the European Union, NATO or OECD.
-In the manufacturer's country of residence, the principles of a democratic rule of law are not followed or human rights are not respected.
-The manufacturer's country of residence does not protect the intellectual property, personal data or business secrets of persons from another country
-The country of origin of the manufacturer behaves aggressively in cyberspace.
-EU, NATO or OECD member states have attributed cyber attacks to the manufacturer's country of residence.
-The manufacturer is subject to the government or government agency of the host country or other foreign country without independent judicial review.
-The producer's country of residence or another foreign country can oblige him to act in a way that threatens the security of the Estonian state.
-The manufacturer's economic activity is not based on market-based competition or sufficient conditions have not been created for this in the host country.
-The ownership structure, organizational structure or management structure of the manufacturer is not transparent.
-Producer financing is not transparent.
-The manufacturer's products or services contain security weaknesses and adequate security measures have not been implemented to eliminate them.
-The manufacturer is not consistently able to guarantee the supply of products or services, except due to force majeure.
-After the decision of the Riigikogu, Estonia can now finally announce the auction of 5G frequencies for telecom companies.
-Estonia ranks last in the European Union in terms of 5G adoption.
+Chinese company: The Riigikogu adopted a law on discriminatory and competition
+The Chinese technology company Huawei does not make it a secret that it does not like the Electronic Communications Act passed by the Riigikogu yesterday - leaving the executive opportunity to discriminate against entrepreneurs from the purely its headquarters.
+"Based on the law, it can be assumed that obtaining a permit for use in the European Union, NATO or OECD external state manufacturer hardware and software may be significantly more complex than the manufacturer, whose headquarters are in the Member State of the above organizations," said Ben Chang Bin, Head of Huawei Technologies Estonia.
+According to Huawei's statement, the assumption of the hardware and software manufacturer used in the communications network is not justified to a particular state, as all large companies operate internationally and their supply chains are similar to each other.
+According to the company, the security of technology can also be ensured by "transparent and proportionate measures, avoiding unjustified discrimination and competition without damaging the market participants".
+Pursuant to the new version of the Electronic Communications Act, the Building Code and the State Fees Act Act, the Government has the right to establish an obligation for the communications operator to apply for permission to use the communications network to ensure national security.
+This permit also passes through security agencies.
+The ban will be banned in hardware and software cases, which are so long that there is probably no country or a manufacturer worldwide that can meet the requirements set by Estonia.
+For example, it is sufficient that the company has delivery difficulties, a cyber attack on its mother -in -law, or some products have security weaknesses.
+The manufacturer's location or headquarters is a country that is not a member of the European Union, NATO or OECD.
+In the country of residence of the manufacturer, the principles of democratic rule of law are not respected or human rights are not respected.
+The intellectual property, personal data or business secret of other persons in the country of residence of the manufacturer's
+The manufacturer of the country of residence behaves aggressively in cyberspace.
+The Member States of the EU, NATO or OECD have attributed to the manufacturer's country of residence.
+The manufacturer shall be subject to an independent judicial inspection of the state or other foreign government or public authority.
+The country of residence of the manufacturer or other foreign country may oblige him to act in a way that threatens the security of the state of Estonia.
+The economic activity of the manufacturer is not based on market -based competition or that there are no sufficient conditions in the country of residence.
+The manufacturer's ownership, organizational structure or management structure is not transparent.
+The manufacturer's funding is not transparent.
+Manufacturer's products or services contain security weaknesses and sufficient security measures have not been applied to eliminate them.
+The manufacturer is not consistently able to ensure supplies of products or services, except due to force majeure.
+After the decision of the Riigikogu, Estonia can now finally announce a 5G auction to telecom companies.
+Estonia is the last place in the introduction of 5G in the European Union.

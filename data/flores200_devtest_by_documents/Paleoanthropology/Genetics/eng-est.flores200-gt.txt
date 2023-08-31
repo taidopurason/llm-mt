@@ -1,0 +1,3 @@
+Kahekümnenda sajandi uuringud on näidanud, et geneetilise variatsiooni on kaks basseini: varjatud ja ekspresseeritud.
+Mutatsioon lisab uue geneetilise variatsiooni ja valik eemaldab selle ekspresseeritud variatsiooni basseinist.
+Segregatsioon ja rekombinatsiooni segamise varieerumine edasi -tagasi kahe basseini vahel iga põlvkonnaga.

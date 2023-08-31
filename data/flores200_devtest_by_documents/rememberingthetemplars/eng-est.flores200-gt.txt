@@ -1,0 +1,3 @@
+Templite mõistmiseks tuleb aru saada kontekstist, mis ajendas korralduse loomist.
+Vanust, kus sündmusi aset leiab, nimetatakse tavaliselt kõrgeks keskajaks Euroopa ajaloo perioodiks 11., 12. ja 13. sajandil (AD 1000–1300).
+Kõrgele keskajale eelnesid varakult keskaeg ja sellele järgnes hiline keskaeg, mis konventsiooni järgi lõpeb umbes 1500.

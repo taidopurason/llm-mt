@@ -1,0 +1,5 @@
+Čeprav ima umetna inteligenca močan prizvok znanstvene fantastike, je zelo pomembna veja računalništva, ki se ukvarja z vedenjem, učenjem in inteligentnim prilagajanjem stroja.
+Raziskave na področju umetne inteligence vključujejo izdelavo strojev za avtomatizacijo nalog, ki zahtevajo inteligentno vedenje.
+Primeri vključujejo nadzor, načrtovanje in razporejanje, sposobnost odgovarjanja na diagnoze in vprašanja strank ter prepoznavanje pisave, glasu in obraza.
+Takšne stvari so postale ločene discipline, ki se osredotočajo na zagotavljanje rešitev za probleme iz resničnega življenja.
+Sistem umetne inteligence se zdaj pogosto uporablja na področjih ekonomije, medicine, inženirstva in vojske, vgrajen pa je bil tudi v številne programske aplikacije za domače računalnike in videoigre.

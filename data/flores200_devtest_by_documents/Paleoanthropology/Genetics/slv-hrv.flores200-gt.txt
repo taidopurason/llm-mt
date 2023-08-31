@@ -1,0 +1,3 @@
+Istraživanje iz dvadesetog stoljeća pokazuje da postoje dvije set genetskih varijacija: skrivene i izražene.
+Mutacija dodaje novu genetsku varijaciju, a odabir ga uklanja iz raspona varijacija.
+Odvajanje i rekombinacija sa svakom generacijom redistribuira varijacije tu i tamo između dva skupa.

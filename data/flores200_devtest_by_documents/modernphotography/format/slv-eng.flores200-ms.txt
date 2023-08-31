@@ -1,0 +1,5 @@
+For example, the most widely used photographic format for stationary images in the world is 35 mm, which was the dominant film size at the end of the analogue film era.
+It is still used today, but more importantly, its image ratio has also been adopted by the image sensor formats of digital cameras.
+The 35mm format actually – and somewhat oddly – measures 36mm in width and 24mm in height.
+Thus, the image ratio of this format (divided by twelve to obtain the most basic ratio in the form of an integer) is 3:2.
+Many common formats (ASP family of formats) are the same or very close to this height-to-width ratio.

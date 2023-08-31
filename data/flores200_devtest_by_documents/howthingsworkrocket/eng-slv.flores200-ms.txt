@@ -1,0 +1,4 @@
+Ko pokličete nekoga, ki je oddaljen na tisoče kilometrov, uporabljate satelit.
+Satelit v vesolju dobi klic in ga nato skoraj v trenutku odbije nazaj.
+Satelit je bil poslan v vesolje z raketo. Znanstveniki uporabljajo teleskope v vesolju, ker Zemljina atmosfera izkrivlja nekaj naše svetlobe in pogleda.
+Potrebna je ogromna raketa, visoka več kot 100 metrov, da postavi satelit ali teleskop v vesolje.

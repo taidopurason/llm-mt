@@ -1,0 +1,5 @@
+Protok prometa je proučavanje kretanja pojedinih vozača i vozila između dvije točke i interakcije koje imaju jedna s drugom.
+Nažalost, studija protoka prometa je teško, jer se ponašanje vozača ne može predvidjeti sa 100 % sigurnošću.
+Srećom, ponašanje vozača općenito se u određenoj mjeri uspostavlja, pa su prometni protoci također uspostavljeni i mogu se otprilike predstaviti u matematičkom obliku.
+Kako bi se bolje ilustrirala protok prometa, utvrđeni su odnosi između glavne tri karakteristike: (1) protok, (2) gustoća i (3) brzina.
+Ovi odnosi pomažu u dizajniranju, dizajniranju i upravljanju cestama.

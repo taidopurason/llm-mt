@@ -1,0 +1,5 @@
+Eksperiment Hershey i Chase bio je jedan od glavnih tragova da je DNK genetski materijal.
+Hershey i Chase ugradili su vlastiti DNK u bakteriju pomoću faga ili virusa.
+Provedena su dva eksperimenta u kojima je DNK u fagu označena radioaktivnim fosforom ili fagnim proteinom s radioaktivnim sumporom.
+Učinci mutacija mogu se uvelike razlikovati, ovisno o vrsti mutacije, važnosti zahvaćenog dijela genetskog materijala i o tome utječu li zametne stanice.
+Samo mutacije zametnih stanica mogu se prenijeti na djecu, dok drugdje mutacije mogu uzrokovati smrt stanica ili rak.

@@ -1,0 +1,5 @@
+The work was mostly theoretical, but a program was written to simulate observations of the Sagittarius galaxy.
+The team was looking for a phenomenon caused by tidal forces between the dark matter of this galaxy and the dark matter of the Milky Way.
+Just as the Moon exerts a force on the Earth, causing the tides of the sea to ebb and flow, the Milky Way exerts a force on the Sagittarius Galaxy.
+Scientists have concluded that dark matter affects other dark matter in the same way as ordinary matter.
+This theory says that most of the dark matter in the galaxy is in a kind of "halo" around the galaxy, made up of lots of small particles.

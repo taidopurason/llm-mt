@@ -1,0 +1,4 @@
+Although project -based learning should simplify and make acquisition more interesting, the approach of educational scaffolding is a step forward.
+The Scaffolding ('Support') method is not a learning method, but rather a way to support people who are gaining a new learning experience, such as using a new computer program or starting a new project.
+Support can be both virtual and real, in other words, both the teacher and the Microsoft Office small paper clip-man can be supported.
+Virtual steps are integrated into the software, which aims to question, refer to and explain procedures that may be too complicated to cope alone for the student.

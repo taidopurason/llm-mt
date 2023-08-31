@@ -1,0 +1,4 @@
+While project-based learning should make learning easier and more interesting, scaffolding goes one step further.
+The skeleton is not a teaching method, but rather an aid that provides support to those individuals who are undergoing the acquisition of a new practice, for example, using a new computer program or launching a new project.
+Scaffolding can be both virtual and real, in other words, a teacher is a form of scaffolding, but so is a small clip in Microsoft Office.
+The software incorporates Virtual Constructs designed to analyze, motivate and explain procedures that might be too challenging for the student himself.

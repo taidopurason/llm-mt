@@ -1,0 +1,5 @@
+The flow of traffic is the study of the movement of individual drivers and vehicles between two points and the interactions they have with each other.
+Unfortunately, studying the flow of traffic is difficult, since the driver's behavior cannot be predicted with 100% certainty.
+Fortunately, the behaviour of drivers is usually to some extent stable, so traffic flows are also established and can roughly be represented in mathematical form.
+To better illustrate the flow of traffic, relationships between the main three characteristics were established: (1) flow, (2) density, and (3) speed.
+These proportions help in the planning, design and operation of roadways.

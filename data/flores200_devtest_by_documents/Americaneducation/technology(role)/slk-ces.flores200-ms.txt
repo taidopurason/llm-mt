@@ -1,0 +1,4 @@
+Iako bi učenje na projektu trebalo olakšati učenje i učiniti ga zanimljivijim, postavljanje skela ide korak dalje.
+Postavljanje skela, tj. Podupiranje (eng. scaffolding) nije obrazna metoda, već podrška za pojedince pre kojima je novo iskustvo učenja, NPR. Uúčtu novog računalnog programa ili započinjanje novog projekta.
+Skele mogu porazil virtuální a ztvárnění; drugim riječima, učitelj je oblik skele, kao i animirana spojjalica koja se pojavljuje u programima Microsoft Officea.
+Virtualno postavljanje skela internalizira se u softveru i namijenjeno je ispętivanju, upućivanju i objašnjenju postupaka koji učeniku mozda predstavljaju prevelik izazov da ih sam riješi.

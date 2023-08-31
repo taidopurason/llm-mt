@@ -1,0 +1,5 @@
+Liiklusvool on üksikute juhtide ja sõidukite liikumise uurimine kahe punkti vahel ning nende omavaheline suhtlemine.
+Kahjuks on liiklusvoo uurimine keeruline, sest juhtide käitumist ei saa sajaprotsendilise kindlusega ennustada.
+Õnneks kipuvad sõidukijuhid käituma suhteliselt järjepidevalt; seega on liiklusvooludel teatav mõistlik järjepidevus ja neid saab ligikaudselt matemaatiliselt esitada.
+Liiklusvoo paremaks kujutamiseks on kehtestatud seosed kolme peamise tunnuse vahel: (1) voog, (2) tihedus ja (3) kiirus.
+Need seosed on abiks teerajatiste planeerimisel, projekteerimisel ja käitamisel.

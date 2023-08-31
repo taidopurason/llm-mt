@@ -1,0 +1,3 @@
+The fission bomb works by requiring energy to combine the nucleus with lots of protons and neutrons.
+It's like pushing a heavy cart into a hill. Part of this energy is then released by re-cleavage of the nucleus.
+Some atoms have an unstable nucleus, which means they usually disintegrate on their own or almost without help.

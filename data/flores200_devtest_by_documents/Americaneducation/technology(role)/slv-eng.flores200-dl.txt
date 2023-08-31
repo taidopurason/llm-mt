@@ -1,0 +1,4 @@
+While project-based learning should be easier and more interesting, it goes one step further.
+Project-based learning is not a teaching method, but rather a support to help individuals who are learning something new, such as using a new computer programme or starting a new project.
+Scaffolding can be both virtual and real, in other words, the teacher is a form of scaffolding, but this is also true of the little paperclip in Microsoft Office.
+Virtual scaffolds are an internal part of the software and are meant to ask questions, stimulate and explain procedures that might be too challenging for the learner themselves.

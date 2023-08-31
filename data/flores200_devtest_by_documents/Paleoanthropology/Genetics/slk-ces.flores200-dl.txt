@@ -1,0 +1,3 @@
+Istraživanja u dvadesetom stoljeću pokazala su da postoje dvije skupiny genetskih varijacija: prikrivene i expressene.
+Mutace přidává novou genetickou variaci, ale selekce je založena na souboru exprimovaných variací.
+Segregace a rekombinace v každé generaci jsou hlavními zdroji variability mezi těmito dvěma původy.

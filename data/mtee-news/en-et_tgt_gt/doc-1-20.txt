@@ -1,9 +1,9 @@
-Tesla: sadu on pärast serveri katkemist autodest välja lülitatud
-Umbes 500 Tesla elektriautode kasutajat ei saanud oma sõidukitega ühendust luua, Elon Musk ütles, et ettevõtte mobiilirakendus "peaks nüüd uuesti võrku tulema".
-Umbes 500 Tesla autoomanikku ei saanud rakenduseserveri katkestuse tõttu oma sõidukitega ühendust luua.
-Tesla tegevjuht Elon Musk ütles reedel, et ettevõtte mobiilirakendus hakkab pärast katkestust uuesti võrku tulema.
-Ta säutsus vastuseks Tesla omanikule, kes ütles, et tema Model 3 ühendamisel Lõuna-Koreas Soulis iOS-i rakenduse kaudu tekkis "500 serveri viga".
-"Peaks nüüd uuesti võrku tagasi tulema," ütles Musk.
-"Tundub, et oleme kogemata suurendanud võrguliikluse paljusõnalisust."
-Katkestuste jälgimise veebisaidi Downdetector andmetel teatas umbes 500 Tesla kasutajat, et seisavad silmitsi veaga kella 21.40 GMT paiku.
-Kella 2.20 GMT seisuga oli üle 60 teate.
+Tesla: Pärast serveri seisakuid lukustatud sadu lukustatud autodest
+Umbes 500 Tesla elektriauto kasutajat ei suutnud oma sõidukitega ühendust luua, Elon Musk ütles, et ettevõtte mobiilirakendus "peaks nüüd veebis tagasi tulema".
+Ligikaudu 500 Tesla autoomanikku ei suutnud rakenduse serveri katkestuse tõttu oma sõidukitega ühendust luua.
+Tesla tegevjuht Elon Musk ütles reedel, et ettevõtte mobiilirakendus tuleb pärast seisakut veebis tagasi.
+Ta säutsus vastusena Tesla omanikule, kes ütles, et tal on Lõuna -Koreas Soulis asuva iOS -i rakenduse kaudu oma mudeli 3 ühendamisel "500 serveri viga".
+"Peaks nüüd veebis tagasi tulema," ütles hr Musk.
+"Paistab, et oleme võib -olla suurendanud võrguliikluse sõnasõnalist kogemust."
+Ligikaudu 500 Tesla kasutaja teatas, et seisakute jälgimise veebisaidi Dowtedector andmetel teatas GMT umbes vea.
+GMT -st oli üle 60 aruannet.

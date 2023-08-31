@@ -1,0 +1,3 @@
+Twentieth-century research shows that there are two sets of genetic variation: hidden and expressed.
+Mutation adds new genetic variation, while selection removes it from the set of expressed variation.
+With each generation, segregation and recombination redistribute variation back and forth between the two sets.

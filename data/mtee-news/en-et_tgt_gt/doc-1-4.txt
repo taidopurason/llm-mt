@@ -1,14 +1,14 @@
-COVID-19: Ühendkuningriigi juhtumite koguarv ületas pandeemia algusest alates 10 miljonit
-Värskeimad valitsuse andmed näitasid ka, et COVID-i on surnud veel 147 inimest.
-Ametlikel andmetel on Ühendkuningriigis alates pandeemia algusest nähtud COVID-juhtude arv ületanud 10 miljonit.
-Valitsuse andmetel on viimase päevaarvude voorus positiivse testi saanud 47 240 inimest.
-Tänased andmed näitasid ka, et COVID-i on surnud veel 147 inimest.
-Arvud näitasid ka, et 19. novembrist 25. novembrini teatatud juhtumite arv kasvas eelmise seitsme päevaga võrreldes 9,5%.
-Veel 147 inimest suri 28 päeva jooksul pärast positiivset COVID-testi, mis tähendab, et seitsme päeva koguarv vähenes eelmise nädalaga võrreldes 14,8%.
-Samal ajal oli Ühendkuningriigis 24. novembriks manustatud kokku 50 852 133 esimest COVID-vaktsiini annust, mis on 24 579 võrra rohkem kui eilne.
-Samuti manustati ligikaudu 46 232 258 teist annust, mis on 23 439 võrra rohkem.
-Kokku anti ka 16 383 575 korduvat ja kolmandat annust, mis on 378 946 päevast kasvu.
-Viimased arvud pärinevad ajast, mil Euroopa võitleb oma viimase COVID-lainega.
-Varem kuulutas Tšehhi valitsus juhtumite arvu suurenemise tõttu välja 30 päevaks erakorralise seisukorra, Saksamaal aga tabas 100 000 COVIDiga seotud surma.
-Ametist lahkuv kantsler Angela Merkel ütles pressikonverentsil: "Päev, mil peame leinama 100 000 koroonaviiruse ohvrit, on kurb."
-Prantsusmaal teatasid võimud, et jätkuva kriisiga toimetulemiseks tehakse kordussüstid kättesaadavaks kõigile üle 18-aastastele, mitte ainult üle 65-aastastele ja terviseprobleemidega inimestele.
+COVID-19: Ühendkuningriigi juhtumite koguarv möödub alates pandeemia algusest 10 miljonit
+Viimased valitsuse andmed näitasid ka veel 147 inimest, kes on hukkunud koos jahutamisega.
+Ametlike andmete nähtub, et Ühendkuningriigi haigusjuhtude arv on pärast pandeemia algust möödunud 10 miljonit, näitavad ametlikud andmed.
+Valitsuse andmete kohaselt on viimaste igapäevaste arvude osas positiivne testitud inimeste arv 47 240.
+Tänased andmed näitasid ka seda, et veel 147 inimest on hukkunud jahutamisega.
+Need arvud näitasid ka, et 19. novembrist kuni 25. novembrini teatatud juhtumid kasvasid eelneva seitsme päevaga võrreldes 9,5%.
+Veel 147 inimest teatati, et ta oli surnud 28 päeva jooksul pärast positiivse testi haigusjuhtumist, mis tähendab, et seitsmepäevane koguarv langes eelmise nädalaga 14,8%.
+Vahepeal oli Ühendkuningriigis 24. novembriks tarnitud kokku 50 852 133 esimest annust.
+Samuti tarniti umbes 46 232 258 teise annust, mis oli 23 439 suurenemine.
+Kokku anti välja ka 16 383 575 ja kolmandaid annuseid, mis on päevas tõus 378 946.
+Viimased arvud tulevad siis, kui Euroopa võitleb oma uusimahutiga.
+Täna kuulutas Tšehhi valitsus tänapäeval 30 päevaks erakorralise olukorra, samas kui Saksamaa tabas 100 000 huvitud surma.
+Väljaminev kantsler Angela Merkel rääkis pressikonverentsile: "Päev, mil peame leinama 100 000 koronaviiruse ohvrit, on kurb."
+Prantsusmaal teatasid võimud, et korduvkaadrid tehakse kättesaadavaks kõigile üle 18-aastastele, mitte ainult 65-aastastele, ja neile, kellel on terviseprobleemid, eesmärgiga tegeleda käimasoleva kriisiga.

@@ -1,0 +1,3 @@
+Twentieth-century research has shown that there are two areas of genetic variation: hidden and manifested.
+Mutations add a new genetic variation, and selection removes them from the set of expressed variations.
+Segregation and recombination will mix up the differences between the two sets within each generation.

@@ -1,0 +1,3 @@
+Hääldus on itaalia keeles suhteliselt lihtne, kuna enamik sõnu hääldatakse täpselt nii, kuidas need kirjutatakse
+Peamised kirjad, mida vaadata, on C ja G, kuna nende hääldus varieerub järgmise vokaali põhjal.
+Samuti öelge kindlasti R ja RR erinevalt: Caro tähendab kallist, aga Carro tähendab vankrit.

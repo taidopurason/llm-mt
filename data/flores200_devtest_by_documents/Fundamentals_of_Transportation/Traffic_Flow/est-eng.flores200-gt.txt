@@ -1,0 +1,5 @@
+A traffic flow is a study that looks at the movement of individual drivers and vehicles between two points and interactions between them.
+Unfortunately, exploring traffic flows is difficult because the driver's behavior cannot be predicted with 100 % certainty.
+Fortunately, drivers tend to behave reasonably consistently, so the traffic flows tend to be somewhat reasonably consistent and can be broadly mathematically presented.
+To better describe the flow of traffic, connections between three main characteristics have been created: (1) flow, (2) density and (3) speed.
+These connections contribute to the design, design and operation of the driveway facilities.

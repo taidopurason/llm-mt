@@ -1,0 +1,5 @@
+Virtualni timovi teže istim standardima izvrsnosti kao i konvencionalne skupine, ali postoje male razlike.
+Članovi virtualnog tima često djeluju kao kontaktna točka za svoju neposrednu fizičku skupinu.
+Oni imaju tendenciju da imaju više slobode od običnih članova tima, jer se njihovi timovi moraju prilagoditi više vremenskih zona, za što njihovo lokalno vodstvo ponekad nema sluha.
+Još jedna karakteristična komponenta virtualne skupine je prisutnost prave "nevidljive skupine" (Larson i LaFasto, 1989: 109).
+"Nevidljivi tim" je upravljački tim koji prijavljuju pojedini članovi. Nevidljivi tim postavlja standarde za svakog člana pojedinačno.

@@ -1,0 +1,3 @@
+Výzkum dvacátého století ukázal, že existují dva skupiny genetické variace: skryté a vyjádřené.
+Mutace přidává novou genetickou variantu a výběr ji odstraňuje ze skupiny exprimované variace.
+Variace segregace a rekombinace zamíchají tam a zpět mezi dvěma bazény s každou generací.

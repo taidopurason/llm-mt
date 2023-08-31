@@ -1,0 +1,5 @@
+For example, the most common photographic format in the world is 35mm, which was the most common film size at the height of the analogue film era.
+They are still produced today, but more importantly, their aspect ratio has been adopted by digital camera sensor formats.
+Although somewhat confusing, the 35mm format is actually 36mm wide and 24mm high.
+The aspect ratio of this format (divided by twelve to get the simplest ratio in whole numbers) is therefore 3:2.
+Many common formats (such as the APS family of formats) are equal to or very close to this aspect ratio.

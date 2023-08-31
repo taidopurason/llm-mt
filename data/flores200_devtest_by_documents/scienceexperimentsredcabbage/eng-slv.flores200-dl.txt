@@ -1,0 +1,4 @@
+To se imenuje pH kemikalije. Indikator lahko pripravite iz soka rdečega zelja.
+Sok zelja spremeni barvo glede na to, kako kisla ali bazična (alkalna) je kemikalija.
+Stopnja pH se kaže s količino vodikovih (H v pH) ionov v testirani kemikaliji.
+Vodikovi ioni so protoni, ki so jim odvzeti elektroni (saj so atomi vodika sestavljeni iz enega protona in enega elektrona).
