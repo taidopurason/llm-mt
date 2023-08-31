@@ -1,4 +1,4 @@
-Tomu se říká chemické pH. Indikátorem pro vás může být šťáva z krevního poháru.
-Rychlost změny závisí na tom, jak kyselá nebo zásaditá (alkalická) je chemická látka.
-Hodnota pH se udává podle množství vodíkových iontů (H ve zkratce pH) ve zkoumané chemické látce.
-Vodikovi ioni su protoni bez elektrona (budući da se atomi vodika sastoje od jednog protona i jednog elektrona).
+Nazývá se pH chemikálie. Indikátor lze vyrobit ze šťávy z červeného zelí.
+Zelná šťáva mění barvu podle toho, jak kyselá nebo zásaditá (alkalická) je chemická látka.
+Úroveň pH se určuje podle počtu vodíkových iontů (H v pH) ve zkoumané chemikálii.
+Vodíkové ionty jsou protony, kterým byly odebrány elektrony (protože atomy vodíku se skládají z jednoho protonu a jednoho elektronu).

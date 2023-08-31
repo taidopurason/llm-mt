@@ -1,5 +1,5 @@
-Virtuální týmy musí dodržovat stejné standardy excelence jako běžné týmy, jinak existují malé rozdíly.
-Členové virtuálních týmů často představují další bod k nejbližší fyzické skupině.
-Često su autonomniji od klasičnih članova tima jer se jejich týmovi mogu sastajati u različitim vremenskim zonama, što lokalna uprava možda neće razumjeti.
-"Prisutnost pravog ""nevidljivog tima"" (Larson i LaFasto, 1989., s. 109.) isto je jedinstvena komponenta virtualnog tima. "
-"Neviditelný tým" představuje řídící tým, kterému je každý z členů odpovědný. Neviditelný tým stanovuje standardy pro každého člena.
+Virtuální a tradiční týmy dodržují stejné standardy kvality, ale s drobnými rozdíly.
+Členové virtuálního týmu obvykle slouží jako kontaktní místo pro svou přímou fyzickou skupinu.
+Často mají větší autonomii než členové tradičních týmů, protože jejich týmy se mohou scházet podle měnících se časových pásem, což nemusí být pro místní vedení pochopitelné.
+Jedinečnou součástí virtuálního týmu je také přítomnost skutečného "neviditelného týmu" (Larson a LaFasto, 1989, s. 109).
+"Neviditelným týmem" je řídicí tým, kterému se každý člen zodpovídá. Neviditelný tým také stanovuje mandát pro každého člena.

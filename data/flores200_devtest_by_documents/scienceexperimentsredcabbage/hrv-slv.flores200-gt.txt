@@ -1,4 +1,4 @@
-Nazýva s pH Chemikálie.Indicátor z dá vyrobiť poučevanje šive z Červenej Kapusty.
-Shava Z Capy Menía Draza Podha Tooho, Aká Kyslá Alebo Zásaditá (Alkalická) je Chemikália.
-Hladin ph s Krokes tle iónov vodík (h v ph) v testovanji chemikálii.
-Vodíkové Ióny Sú Protóny, Korým Pain je odobril Elektróny (Pretože Atómy Vodíka.
+Temu pravimo kemični pH.Indikator je lahko rdečega zelja.
+Rasol spreminja barvo, odvisno od tega, koliko kemikalij je kislina ali osnovna (alkalna).
+Vrednost pH je označena s količino vodikovega iona (H v pH kratice) v testirani kemikaliji.
+Vodikovi ioni so protoni brez elektronov (saj atomi vodikov so sestavljeni iz enega protona in enega elektrona).

@@ -1,3 +1,3 @@
-V 20. stoletju obstajata dve skupini genetskih variacij: skrite in vidne.
-Mutácia dodaja novo genetsko variácie, izbor ich zase removes zo group prejavených variácií.
-Segregácia a rekombinácia premiešajú variácie medzi týmito dvama grupemi s každou generáciou.
+Raziskave v dvajsetem stoletju so pokazale, da obstajata dve skupini genetskih variacij: prikrite in izrazite.
+Mutacija dodaja novo genetsko variacijo, selekcija pa jo odstrani iz niza izrazitih variacij.
+Ločevanje in rekombinacija pri vsaki generaciji spreminjata variabilnost med obema viroma.

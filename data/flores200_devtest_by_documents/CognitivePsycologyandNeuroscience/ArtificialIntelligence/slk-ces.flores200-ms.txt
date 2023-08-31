@@ -1,5 +1,5 @@
-Iako umjetna inteligencija ima triednu znanstveno-fantastičnu connotaciju, včetně vrlo vážnu granu informacijskih známky koja se bavi ponašanjem, učenjem i inteligentnom prilagodbom stroja.
-Istraživanje umjetne inteligencije uključuje izradu strojeva u svrhu automatizacije zadataka koji zahtijevaju inteligentno ponašanje.
-Primjeri uključuju kontrolu, planiranje i izrad rasporeda, sposobnost odgovaranja na dijagnoze i pitanja kupaca te prepoznavanje rukopisa, glasa i lica.
-Takové su stvā postale zasebne discipline koje se usredotočuju na pružanje rješenja za probleme iz spodobnog life.
-Sustav umjetne inteligencije sada se često upotrebljava u ekonomiji, medicini, građevini i vojsci jer je ugrađen u neke softverske aplikácije za računala za kućnu uúčtu i videoigre.
+AI má silnou konotaci sci-fi a tvoří hlavní odvětví informatiky, které se zabývá chováním, učením a inteligentní adaptací robotů.
+Výzkum AI zahrnuje výrobu strojů k automatizaci úkolů, které vyžadují inteligentní chování.
+Případy zahrnují kontrolu, plánování a rozvrhování, schopnost odpovídat na diagnózy a otázky zákazníků, stejně jako rukopis, rozpoznávání hlasu a obličeje.
+Ty se staly samostatnými disciplínami, které se zaměřují na poskytování řešení problémů ze života.
+Umělá inteligence je nyní široce používána v ekonomii, medicíně, strojírenství a armádě, protože byla zabudována do několika aplikací na domácích počítačích nebo aplikací v softwaru videoher.

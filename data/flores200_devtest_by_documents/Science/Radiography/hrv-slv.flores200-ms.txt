@@ -1,2 +1,2 @@
-Praktično vsi začetniki, ki so danes angažirani, so zavezani manipulaciji z informacijami, ki so kodirane v obliki binárnych čísel.
-Binárne číslo can mať iba one from two hodnôt, tj. 0 alebo 1. Ta članek je označen na začetku knjige, če boste morali biti alebo bity.
+Praktično vsi računalniki, ki se danes uporabljajo, temeljijo na ravnanju z informacijami, ki so kodirane v obliki binarnih števil.
+Binarna številka ima lahko samo eno od dveh vrednosti, tj. 0 ali 1 in te številke se v računalniškem žargonu imenujejo dvojiške številke ali biti.

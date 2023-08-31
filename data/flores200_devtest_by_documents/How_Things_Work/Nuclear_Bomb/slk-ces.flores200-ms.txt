@@ -1,3 +1,3 @@
-Fizijska bomba djeluje na principu uzimanja energije za sastavljanje jezgre s brojním protonima i neutronima.
-To je otprilike poput guranja teških kolica uzbrdo. Dijeljenjem jezgre ponovo se oslobađa dio te energije.
-Neki atomi imaju unstable yezgre što znaci da naginja raspadanju prilikom blagog guranja ili bez guranja.
+Štěpná bomba využívá principu, že energie je potřebná k sestavení jádra se spoustou protonů a neutronů.
+Něco podobného, jako když se valíte s těžkým vozíkem do kopce. Když se jádro opět rozdělí, část této energie se uvolní.
+Některé atomy mají nestabilní jádra. To znamená, že jsou náchylné k rozpadu s malým nebo žádným šťouchnutím.

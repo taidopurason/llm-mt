@@ -1,2 +1,2 @@
-Practicky Vchetky, ki se začne, Kortoré z Dzi Tuys, Sú se je zavezal na Manipulácii z Informáciami, Koré Sú Kódované v obliki Binárnych Čisel.
-Binárne mi môže mať ib One z dvoch Hodnôt, T.J.0 Alebo 1. Tieto Čísla z V Star Žargóne Mark, če binárne tiddle Alebo Bity.
+Praktično vsi danes uporabljeni računalniki temeljijo na ravnanju z informacijami, kodiranimi v obliki binarnih številk.
+Binarna številka ima lahko le eno od dveh vrednosti, tj.

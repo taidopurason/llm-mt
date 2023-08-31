@@ -1,2 +1,2 @@
-Praktički sva computala koja se danas upotrebljavaju temeljena su na rukovanju informacijama koje su kodirane u oblikku binarnih brojeva.
-Binary broj može imati samo jednu od dvije vrijednosti, tj. 0 ili 1, a ti se brojevi nazivaju binarnim znamenkama ili bitovima u računalnom jargonu.
+Prakticky všechny dnes používané počítače jsou založeny na manipulaci s informacemi, které jsou zakódovány ve formě binárních čísel.
+Binární číslo může nabývat pouze jedné ze dvou hodnot, tj. 0 nebo 1. Tato čísla se v počítačovém žargonu označují jako binární číslice nebo bity.

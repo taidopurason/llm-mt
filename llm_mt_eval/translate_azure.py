@@ -1,7 +1,7 @@
 import requests, uuid
 from utils import read_lines, write_text
 
-key = "dc25ce24ade44eddaa7c2e1ff3dffc91"
+key = "6c6bb439c4ad4a5391bba50fded0a81c"
 endpoint = "https://api.cognitive.microsofttranslator.com"
 location = "NorthEurope"
 

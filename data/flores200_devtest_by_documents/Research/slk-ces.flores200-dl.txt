@@ -1,5 +1,5 @@
-Rád se věnoval teorii, ale program musel simulovat promatranskou galaxii Strijelca.
-Učinak kojem je tim težio uzrokuju tidalni sily između tamne tvari galaksije i tamne tvari Mliječne staza.
-Kao shto mjesec povlači zemlja i uzrokuje tides, tako i Mliječna staza povlači galaxy Strijelca.
-Vědci prokázali, že tyto útvary do sebe narážejí, stejně jako vnější útvary.
-Prema toj teorii, većina tamne tvari oko galaksija tvori svojvrsnu aureolu oko galaksije koja se sestoji od mnocie malh čestica.
+Jejich práce byla převážně teoretická, ale program byl napsán tak, aby simuloval pozorování galaxie Sagittarius.
+Jev, který tým očekával, by měl být způsoben slapovými silami mezi temnou hmotou galaxie a temnou hmotou Mléčné dráhy.
+Stejně jako Měsíc působí přitažlivou silou na Zemi a způsobuje příliv a odliv, působí i Mléčná dráha přitažlivou silou na galaxii Sagittarius.
+Vědci dospěli k závěru, že působení jedné temné hmoty na druhou temnou hmotu je stejné jako působení běžné hmoty.
+Tato teorie říká, že většina temné hmoty v okolí galaxie se nachází v jakémsi halo kolem galaxie a je tvořena mnoha malými částicemi.

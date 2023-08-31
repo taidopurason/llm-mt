@@ -1,5 +1,5 @@
-Virtuální tímovi trebaju se pridržati istih standarda izvrsnosti kao i vědcionalní timovi, ali postoje malé rázlike.
-Članovi virtualnih tímová često predstavljaju dodirná točka najclosežoj fizičkoj grupi.
-Često su autonomniji od klasičnih članova tima jer se njihovi timovi mogu sastajati u različitim vremenskim zonama, što lokalna uprava možda neće razumjeti.
-"Prisousness prag" "nevidljivog tima" (Larson i LaFasto, 1989., 109th p.) je jistě jedinečnou složkou virtualnog tima. 　　"
-"Nevidljivi tim" predstavlja team rukovodstvo kojem odgovara svaki od članov. Nevidljivi tim postavlja standarde za svakog člana.
+Virtuální a tradiční týmy dodržují stejné standardy kvality, ale s malými rozdíly.
+Členové virtuálního týmu většinou slouží jako kontaktní místo pro jejich přímou fyzickou skupinu.
+Často mají větší autonomii než konvenční členové týmu, protože jejich týmy se mohou setkávat podle měnících se časových pásem, což nemusí být chápáno místním vedením.
+Jedinečnou součástí virtuálního týmu je také přítomnost skutečného "neviditelného týmu" (Larson a LaFasto, 1989, s. 109).
+"Neviditelným týmem" se rozumí řídící tým, kterému je každý člen podřízen. Neviditelný tým také nastavuje podmínky pro každého člena.

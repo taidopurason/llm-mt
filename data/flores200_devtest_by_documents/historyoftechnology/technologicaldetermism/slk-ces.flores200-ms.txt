@@ -1,5 +1,5 @@
-Tehnološki determinizam pojam je koji obuhvaća širok raspon ideja u praksi, od tehnološkog poticaja ili tehnološkog imperative do strogog poimanja da se ljudska sudbina vodi temeljnom logikom povezanom sa znanstvením zakonima i njihovom manifestacijom u tehnologiji.
-Većina interpretacija tehnološkog determinizma dijeli dvije opće ideje: da sam razvoj tehnologije slijedi put koji je uvelike iznad kulturnog ili političkog utjecaja te da tehnologija pak ima "učinke" na društva koji su inherentni, a ne društveno uvjetovani.
-Na primjer, može se reći da izum automobila nužno vodi do razvoja cesta.
-Meziplatí, cestovna mreža kroz cijelu zemlju ne isplati se za samo nekoliko automobila, på su razvijení novi načini proizvodnje kako bi se smanjili troškovi posjedovanja automobila.
-Masovno vlasništvo nad automobilima vodi većem broj nesreća na cestama, što dovodi do otkrića novih tehnika u zdravstvenoj skrbi za liječenje ozljeda.
+Technologický determinismus je pojem, který v praxi zahrnuje širokou škálu pojmů od vývoje nových technologií či technologického imperativu až po jeho úzký význam, že lidský osud se řídí logikou vědeckých zákonů a jejich projevy v technice.
+Většina interpretací technologického determinismu sdílí dvě obecné myšlenky: že samotný vývoj technologie jde cestou, která jde daleko za kulturní nebo politický vliv, a že technologie "ovlivňuje" společnosti, které jsou spíše inherentní než sociálně podmíněné.
+Dalo by se například tvrdit, že motorová vozidla nevyhnutelně vedou k rozvoji silnic.
+Celostátní silniční síť pouze pro několik automobilů však není ekonomicky životaschopná, a proto se vyvíjejí nové metody výroby, které snižují náklady na vlastnictví automobilu.
+Masové vlastnictví automobilů také vede k vyššímu výskytu dopravních nehod, což vede k vynálezu nových technik ve zdravotnictví k léčení zraněných těl.

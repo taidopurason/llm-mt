@@ -1,5 +1,5 @@
-Na primjer, najčešći format fotografie na svijetu je 35 mm, što je hlavni veličina filma przed kraj ere ere ere analognog filma.
-Produki se i danas, no još važnije, isti omjer imaju formati senzora slike u digitalnim fotoaparatima.
-Pomalo zbunjuje činjenica da je 35-milimetarski format zapravo širok 36 mm te visok 24 mm.
-Omjer širine i visine ovog formatata (dijeli se s dvanaest kako bi dobio omjer iskazan prostim cijelim brojevima) stoga je 3 : 2.
-Mnogi uobičajeni formatati (na primjer formatati iz grup APS) jednaki su ili najpribližniji ovom omjeru širine i visine slike.
+Například celosvětově nejrozšířenějším formátem fotografií je 35 mm, což byl dominantní formát na konci éry analogového filmu.
+Vyrábí se dodnes, ale co je důležitější, jeho poměr stran zdědily obrazové snímače digitálních fotoaparátů.
+Ve skutečnosti je 35mm formát překvapivě široký 36 mm a vysoký 24 mm.
+Poměr stran tohoto formátu, který se dělí dvanácti a dává nejjednodušší celočíselný poměr, se proto nazývá 3:2.
+Mnoho běžných formátů (např. rodina formátů APS) se tomuto poměru stran rovná nebo se mu blíží.

@@ -1,6 +1,6 @@
-Když se malá skupina žijících býků (malá populace) oddělí od hlavní populace, ze které přišla (například při přechodu hory nebo řeky nebo při přesunu na nový ostrov, ze kterého se nemůže snadno vrátit), stále se nachází v druhém kruhu.
-Novo okruženje znači različite resursse i različitu konkurenciju, pa su novoj populaciji potrebne značajke ili adapbe koje se razlikuju od dotadašnjih kako bi mogla natjecati za resursse.
-Izvorno se stanovstvo nije nimalo promijenilo, još uvijek moraju napraviti iste adapbe kao i prije.
-Tijekom vremena, kako se nova populacija počinje prilagođavati novom okruženju, sve manje nalikuje drugeoj populaciji.
-Postupem času, případně v průběhu tisíců nebo dokonce milionů let, se dvě populace budou vzhledově lišit natolik, že je nebude možné označit za stejný druh.
-Tento proces se nazývá speciace, což znamená vznik nových druhů. Speciace je nevyhnutelným důsledkem a velmi důležitou součástí evoluce.
+Když se malá skupina živočichů (malá populace) oddělí od hlavní populace, z níž vzešla (například když se přesune přes pohoří nebo řeku nebo když se přestěhuje na nový ostrov, takže se jen tak nedostane zpět), často se ocitne v prostředí, které se od původního liší.
+Toto nové prostředí má jiné zdroje a jiné konkurenty, takže nová populace bude potřebovat jiné vlastnosti nebo přizpůsobení, aby byla silným konkurentem toho, co potřebovala předtím.
+Původní populace se vůbec nezměnila, stále potřebuje stejné adaptace jako dříve.
+Postupem času, jak se nová populace začne přizpůsobovat novému prostředí, začne se stále méně podobat příslušníkům jiných populací.
+Nakonec, po tisících nebo dokonce milionech let, budou obě populace vypadat tak odlišně, že je nebude možné označit za stejný druh.
+Název pro tento proces je speciace, což znamená pouze vývoj nových druhů. Speciace je nepodmíněným výsledkem a velmi důležitou součástí evoluce.

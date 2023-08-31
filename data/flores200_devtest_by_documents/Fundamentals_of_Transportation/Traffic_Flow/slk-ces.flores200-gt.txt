@@ -1,5 +1,5 @@
-Prometrický tok je prorouchavanje kretanja poženímih vozača a nesl Izme's dvieje dvija a interakci těl Membra ostvar.
-Životnost, PrometNog Tijeka Teško je Jer Se Je Jer Se Ponašanje Vozačka ne, může být náchylným sledovaným Sigurnošću.
-Sreć, vagóny si jsou vědomi stejného způsobu a Mogal of Mogal a Mog je také Mogo matematiky Mogal.
-Rád ovládá Tijeka Prometa, existují tři glazované karastiky pro velmi malou: (1) Tijek, (2) Gustusto I (3) Brzina.
-Berou pomazání v Planiranju, projektu a řadě cestovní infrastruktury.
+Dopravní tok je výsledkem pozorování pohybu jednotlivých řidičů a vozidel mezi dvěma body a sledování jejich interakcí.
+Bohužel, studium toku provozu je obtížné, protože chování řidiče nelze předvídat se 100 % jistotou.
+Naštěstí se řidiči mají tendenci chovat se adekvátně důsledně, a proto se neustále chovají také dopravní toky, které lze přibližně matematicky znázornit.
+Vztahy mezi třemi hlavními charakteristikami byly definovány pro více ilustrativní reprezentace proudu provozu: (1) intenzita, (2) hustota a (3) rychlost.
+Tyto vztahy pomáhají při plánování, designu a provozu silnic.

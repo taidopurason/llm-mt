@@ -1,5 +1,5 @@
-Iako umjetna inteligencija ima snažnu sci-fi conotačićnu, čini vrlo važnu granu informacijskih znanosti koja se bavi ponašanjem, učenjem i inteligentnom prilagodbom stroja.
-Istraživanje umjetne inteligencija ukljuključuje izradu strojeva u svrhu automatizaci zadataka koji zahtijevaju inteligentno ponašanje.
-Primjeri uključuju kontrolu, planiranje i izradu rasporeda, sposobnost odgovaranja na dijagnoze i pitanja kupaca te rozpoznavanje rukopisa, glasa i lica.
-Takve su stvari postale zasebne discipliny koje se usredotočuju na pružanje rješenja za probleme iz stvarnog života.
-Sustav umjetne inteligencije sada se često upotrebljava u ekonomiji, medicini, građevini i vojsci jer je ugrađen u neke softverske aplikace za komputerala za kućnu upotrebu i videoigre.
+Umělá inteligence má silný nádech sci-fi a tvoří důležitý obor informatiky, který se zabývá chováním, učením a inteligentní adaptací robotů.
+Výzkum v oblasti umělé inteligence zahrnuje výrobu strojů pro automatizaci úkolů, které vyžadují inteligentní chování.
+Mezi takové případy patří řízení, plánování a rozvrhování, schopnost odpovídat na diagnózy a dotazy zákazníků, stejně jako rozpoznávání rukopisu, hlasu a obličeje.
+Staly se z nich samostatné disciplíny, které se zaměřují na poskytování řešení životních problémů.
+Umělá inteligence se dnes často používá v ekonomice, medicíně, strojírenství a armádě, protože byla zabudována do několika aplikací v domácích počítačích nebo aplikací v softwaru videoher.

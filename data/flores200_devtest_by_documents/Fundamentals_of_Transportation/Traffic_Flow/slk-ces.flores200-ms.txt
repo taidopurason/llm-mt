@@ -1,5 +1,5 @@
-Prometni tok je proučavanje kretanja pojedinačnih vozača i vozila između dvije točke i interakcija koje međusobno ostvare.
-Nažalost, proučavanje prometnog tijeka teško je jer se ponašanje vozača ne može predvidjeti sa stopostotnom sigurnošću.
-Srećom, vozači se obično ponašaju relativno dosljedno, på prometni tokovi imaju određenu razumnu dosljednost i mogu se okvirno matematički prikazati.
-Radi böljeg příkaza tijeka prometa, utvrđene su veze između tri glavne karakteristike: (1) tijek, (2) gustoća i (3) brzina.
-Pomohou vám planiranju, projektiranju i rada cestovní infrastruktury.
+Dopravní tok je výsledkem pozorování pohybu jednotlivých řidičů a vozidel mezi dvěma body a pozorování jejich vzájemného působení.
+Studium dopravního toku je bohužel náročné, protože chování řidičů nelze předvídat se stoprocentní jistotou.
+Naštěstí se řidiči chovají přiměřeně konzistentně, a proto se konzistentně chovají i dopravní toky, které lze zhruba matematicky znázornit.
+Pro lepší reprezentaci dopravního toku byly definovány vztahy mezi těmito třemi hlavními charakteristikami: (1) intenzita, (2) hustota a (3) rychlost.
+Tyto vztahy pomáhají při plánování, projektování a provozu silnic.

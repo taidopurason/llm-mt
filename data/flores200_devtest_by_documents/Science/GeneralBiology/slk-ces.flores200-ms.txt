@@ -1,5 +1,5 @@
-Eksperiment koji su izveli Hershey i Chase bio je jedan od vodećih prifoodga da je DNK genetski materijal.
-Kořist Hershey i Chase jsou fágy, nosiče viru, da bi v bakteriích usazených v DNA vlasti.
-Izveli jsou dva eksperimenta koja jsou ukázal na DNA ve fágu s radioaktivním fosforem ili protein phaga s radioaktivním sumpor.
-Mutacije mogu imati mnoštvo različitih učinaka, ovisno o vrsti mutacije, značaju pogođenog dijela genetskog materijala i o tome jesu li pogođene stanica germinativne linije.
-Na djecu se mogu prenijeti samo mutacije u spolním stanicama dok druge mutacije mogu uzrokati odumiranje stanica ili rak.
+Experiment provedený Hersheyem a Chasem byl jedním z hlavních příznaků, že DNA je genetický materiál.
+K implantaci DNA do bakterie použili Hershey a Chase fágy nebo viry.
+Provedli dva experimenty, které označovaly buď DNA ve fágu radioaktivním fosforem nebo fágový protein radioaktivní sírou.
+Mutace mohou mít různé účinky v závislosti na jejich typu, důležitosti postižené části genetického materiálu a na tom, zda jsou buňky ovlivněny zárodečnými buňkami.
+Pouze mutace v zárodečných buňkách mohou být přenášeny na děti, zatímco jiné mutace mohou způsobit buněčnou smrt nebo rakovinu.
