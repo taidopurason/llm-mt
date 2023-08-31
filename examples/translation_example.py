@@ -9,7 +9,7 @@ import openai
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
 logging.basicConfig(level=logging.INFO)
-src_file_path = "test.et.src"
+src_file_path = "../llm_mt_eval/test.et.src"
 write_lines(
     [
         "Apple esitas väidetava iPhone’i häkkimise tõttu hagi nuhkvaraettevõtte NSO Group vastu",
@@ -21,9 +21,9 @@ write_lines(
 translate_file(
     src_lang="et",
     tgt_lang="en",
-    src_path="test.et.src",
+    src_path="../llm_mt_eval/test.et.src",
     prompt="Translate from {src_lang} to {tgt_lang}: {sentence}",
     use_last_line=True,
-    response_out_path="test.et-en.response.json",
-    hyp_out_path="test.et-en.hyp.txt",
+    response_out_path="../llm_mt_eval/test.et-en.response.json",
+    hyp_out_path="../llm_mt_eval/test.et-en.hyp.txt",
 )
