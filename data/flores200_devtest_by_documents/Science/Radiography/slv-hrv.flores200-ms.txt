@@ -1,0 +1,2 @@
+Gotovo sva računala koja danas koristimo temelje se na manipulaciji informacijama kodiranim u obliku binarnih brojeva.
+Binarni broj može imati samo jednu od dvije vrijednosti, tj.

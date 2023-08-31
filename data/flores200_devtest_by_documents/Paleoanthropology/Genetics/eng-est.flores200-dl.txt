@@ -1,0 +1,3 @@
+Kahekümnenda sajandi uuringud on näidanud, et geneetilist varieerumist on kaks varianti: varjatud ja väljendatud.
+Mutatsioon lisab uut geneetilist varieeruvust ja selektsioon eemaldab seda väljendatud varieeruvusest.
+Segregatsioon ja rekombinatsioon segregeerivad variatsiooni iga põlvkonnaga nende kahe reservi vahel edasi-tagasi.

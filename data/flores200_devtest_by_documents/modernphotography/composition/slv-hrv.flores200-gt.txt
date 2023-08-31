@@ -1,0 +1,2 @@
+Pravilo trećine, koje se često iskorištava i često ismijava, jednostavan je vodič koji stvara dinamizam, istovremeno pružajući kriterij za raspored slike.
+Prema njemu, najučinkovitije mjesto za glavni objekt je u presjeku linija, koji sliku dijele na tretike okomito i vodoravno (vidi primjer).

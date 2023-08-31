@@ -1,0 +1,2 @@
+Almost all computers used today are based on processing information encoded in the form of binary numbers.
+A binary number can have only one of two values, 0 or 1, and these numbers are referred to as binary digits – or bits in computer jargon.

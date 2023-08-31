@@ -1,0 +1,3 @@
+Twentieth-century research has shown that there are two areas of genetic variation: latent and manifest.
+Mutations add new genetic variation, and selection removes them from the pool of expressed variation.
+Segregation and recombination shuffle the differences between the two sets within each generation.

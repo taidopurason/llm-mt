@@ -1,0 +1,5 @@
+Na primjer, najčešće korišteni fotografski format za nepokretne slike na svijetu je 35 mm, što je bila dominantna veličina filma na kraju analognog filma.
+I danas se koristi, ali važnije je da su omjer slike preuzeli i formati senzora slike digitalnih kamera.
+Format 35 mm zapravo i pomalo neobične mjere 36 mm u širini i visine 24 mm.
+Omjer slike ovog formata (dijelimo se s dvanaest kako bismo stekli najosnovniji odnos u obliku cijelog broja), dakle je 3: 2.
+Mnogi od uobičajenih formata (ASP obiteljski format) isti su ili vrlo blizu omjera između visine i širine.

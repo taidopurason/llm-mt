@@ -1,0 +1,5 @@
+Operation is a study of the movement of individual drivers and vehicles between two points and the interaction between them.
+Unfortunately, exploring the flow of operation is difficult, because drivers' behavior cannot be predicted with 100 % certainty.
+Fortunately, drivers behave similarly in a certain range;Therefore, traffic usually has a reasonable consistency and can be approximately mathematically depicted.
+In order to better represent the flow of the operation, relations between three main characteristics were determined: (1) flow, (2) density and (3) speed.
+These relationships help plan, design and operate transport facilities.

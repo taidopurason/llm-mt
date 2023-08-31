@@ -1,0 +1,2 @@
+Dakle, za razgovor, sva računala koja danas koristimo temelje se na manipulaciji informacijama kodiranim u obliku binarnih brojeva.
+Dvostruki broj može imati samo jednu od dvije vrijednosti, t.J.0 ili 1, ova dva broja nazivaju se dvocifrenim znamenkama - ili bit ako koristimo računalni žargon.

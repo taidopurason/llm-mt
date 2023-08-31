@@ -1,0 +1,5 @@
+Dopravní proud je studium křižovatky mezi dvěma body a jejich vzájemného působení.
+Studium dopravního proudu je bohužel obtížné, protože nelze s dostatečnou jistotou předvídat hmotnost řidiče.
+Srećom, vozači se obično ponašaju relativno dosljednono, pa prometni tokovi imaju određenu razumnu dosljednost i mogu se okvirno matematički prikazati.
+Radi lepšíg prikaza tijeka traffic, utvrđene su vezeđu između tri hlavni karakteristike: (1) tijek, (2) gustoća i (3) brzina.
+Tyto vztahy pomáhají při plánování, navrhování a projektování silniční infrastruktury.

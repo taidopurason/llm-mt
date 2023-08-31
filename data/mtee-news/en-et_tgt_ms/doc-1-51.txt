@@ -1,0 +1,44 @@
+10 levinumat krüptovaluuta terminit, mida peate teadma
+Hoolimata sellest, et Bitcoin käivitati juba 2009. aastal, ei saa te alles hiljuti uudiseid sisse lülitada ega veebi sirvida, ilma et peaksite krüptoraha mainima.
+Sain oma lugejatelt ja riiklike raadiosaadete kuulajatelt nii palju küsimusi, et kirjutasin abiks krüpto kohta e-raamatu.
+Ma demüstifitseerin digitaalset valuutat, kaevandamist ja seda, kuidas kauplemist alustada.
+Puudutage või klõpsake siin, et saada oma koopia Amazonist.
+Kahjuks kuulen ka inimestelt, keda üks või teine krüptopettus pettis.
+Kus on raha, seal ootavad kurjategijad.
+Puudutage või klõpsake viie nutika krüptopettuse jaoks, mis praegu ringe teevad, ja samme turvalisuse tagamiseks.
+Enne kui alustame, teadke, et see pole finantsnõuanne.
+Krüptomaailm on volatiilne ja te ei tohiks kunagi riskida rahaga, mida teil pole mugav kaotada.
+Vaatame nüüd mõnda kõige levinumat lingot.
+1. Plokiahel
+Iga krüptoraha tehingut töödeldakse, kontrollitakse ja salvestatakse virtuaalsesse pearaamatusse, mida nimetatakse plokiahelaks.
+Kui keegi ostab või müüb krüptoraha abil, tehakse sellesse virtuaalsesse pearaamatusse veel üks kirje.
+Mõelge plokiahelast kui rongist tulevate kastiautode seeriast.
+Kui tehakse krüptoraha tehing, lisatakse rongile veel üks kastiauto.
+Plokiahel on detsentraliseeritud.
+See tähendab, et seda ei salvestata ühte masinasse ega isegi mitte ühte võrku.
+Selle asemel eksisteerib plokiahel arvutites üle kogu maailma, millele pääseb juurde tänu internetile.
+Inimesed ja ettevõtted aitavad kontrollida iga tehingut, mis lisatakse plokiahelasse, kasutades oma arvuti töötlemisvõimsust detsentraliseeritud peer-to-peer võrgus.
+Iga tehing on ajatempliga, eraldi krüpteeritud ja seda ei saa tagasi pöörata ega muuta.
+Jah, lugesite õigesti – krüptotehinguid ei saa tagasi pöörata.
+Kas sa pigem kuulaksid kui loeksid?
+Koputage või klõpsake minu podcasti episoodi, Kim Komando selgitab, kõige krüpto kohta.
+Kuulete ka oma silmaga krüptokaevurilt.
+2. Fiat
+Ma tean, mida sa mõtled: "Ma arvasin, et Fiat on auto."
+Mitte krüptomaal.
+Fiat-raha on valitsuse emiteeritud valuuta.
+Kui asute Ameerika Ühendriikides, tähendab see USA dollarit.
+Krüptoraha seevastu on virtuaalne raha.
+Krüptovaluutasid ei toeta valitsused ega ükski muu traditsioonilise valuutaga kasutatav standard.
+Iga "token" tähistab summat, mis teile kuulub.
+Kui palju iga token väärt on, sõltub praegusest turuväärtusest.
+Ühel päeval on see läbi; järgmisel päeval alla.
+Krüptoraha puhul võivad hinnakõikumised juhtuda palju kiiremini ja on ekstreemsemad - nii positiivsed kui ka negatiivsed.
+Hea ressurss praeguste hindade kontrollimiseks on CoinMarketCap.
+3. Altcoin
+Siin on lihtne meeles pidada.
+Altcoin on mis tahes digitaalne valuuta, mis pole Bitcoin.
+Krüptovaluutasid on tuhandeid, kusjuures uusi lisatakse kogu aeg.
+Selle kirjutamise ajal on need viis valuutat, millel on kõrgeim turukapitalisatsioon.
+(See on ringluses oleva pakkumise kogu turuväärtus.)
+Kuna krüpto liigub nii kiiresti, võib see nimekiri olla lugemise ajaks juba muutunud.

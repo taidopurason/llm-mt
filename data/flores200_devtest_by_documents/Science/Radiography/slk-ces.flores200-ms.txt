@@ -1,0 +1,2 @@
+Praktički sva računala koja se danas upotrebljavaju temeljena su na rukovanju informacijama koje su kodiráne u obliku binarnih brojeva.
+Binární broj si může představit sám jeden z dvije vrijednosti, tj. 0 ili 1, a ti se brojevi live binary znamenkama ili bitovima u računnom žargonu.

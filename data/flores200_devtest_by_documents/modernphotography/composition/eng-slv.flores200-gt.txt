@@ -1,0 +1,2 @@
+Precej zlorabljeno in pogosto raztrgano pravilo tretjin je preprosto vodilo, ki ustvarja dinamiko, hkrati pa ohranja merilo reda na sliki.
+Navaja, da je najučinkovitejše mesto za glavnega predmeta na presečišču črt, ki sliko delijo na tretjine navpično in vodoravno (glej primer).

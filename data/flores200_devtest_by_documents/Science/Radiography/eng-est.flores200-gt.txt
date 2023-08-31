@@ -1,0 +1,2 @@
+Praktiliselt kõik tänapäeval kasutatavad arvutid põhinevad teabe manipuleerimisel, mis on kodeeritud binaarsete numbrite kujul.
+Binaarsel numbril võib olla ainult üks kahest väärtusest, st 0 või 1, ja neid numbreid nimetatakse binaarseks numbriks või bittideks, et kasutada arvutiperioodit.

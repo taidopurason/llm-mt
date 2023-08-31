@@ -1,0 +1,4 @@
+Kuigi projektipõhine õpe peaks muutma õppimise lihtsamaks ja huvitavamaks, läheb tellingud veelgi kaugemale.
+Tugilaud ei ole õppemeetod, vaid pigem abivahend, mis pakub tuge inimestele, kes läbivad uut õpikogemust, näiteks uue arvutiprogrammi kasutamist või uue projekti alustamist.
+Tugipunktid võivad olla nii virtuaalsed kui ka reaalsed, teisisõnu, õpetaja on üks tugipunktide vorm, kuid sama kehtib ka Microsoft Office'i väikese kirjaklambriga mehe kohta.
+Virtuaalsed tellingud on tarkvarasisesed ning nende eesmärk on esitada küsimusi, suunata ja selgitada protseduure, mis võivad olla õpilasele liiga keerulised, et üksi hakkama saada.

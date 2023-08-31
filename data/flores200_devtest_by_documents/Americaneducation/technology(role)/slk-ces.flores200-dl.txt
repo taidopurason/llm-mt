@@ -1,0 +1,4 @@
+Vzhledem k tomu, že učení na projektu by mělo usnadnit učení a učinit ho zajímavějším, jde stanovení cíle ještě o krok dále.
+Scaffolding není názorná metoda, je to spíše podpora pro žáky, kteří se setkávají s novou zkušeností s učením, např. s používáním nového počítačového programu nebo se zahájením nového projektu.
+Skele může být virtuální i reálný; jinými slovy, učitel je formou skeletu, kao i animirana spajalica koja se pojavljuje u programima Microsoft Officea.
+Virtuální skelet je internalizován v softwaru a je určen k popisu, vysvětlení a objasnění procesu učení, který může být pro žáka příliš náročný na to, aby se jej naučil sám.

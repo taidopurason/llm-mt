@@ -1,0 +1,5 @@
+For example, the most common photofilm format in the world is 35 mm, which was the dominant film size at the end of the analog film era.
+It is still produced today, but more importantly, its propositions bequeathed to the dimensions of the image sensors of digital cameras.
+The 35mm format is actually somewhat confusingly 36mm wide and 24mm long.
+The aspect ratio of this format (dividing by twelve to obtain the simplest integer ratio) is therefore believed to be 3:2.
+Many common formats (for example, a group of APS formats) are equal to or close to this aspect ratio.

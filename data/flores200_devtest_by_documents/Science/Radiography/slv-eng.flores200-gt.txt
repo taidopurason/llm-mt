@@ -1,0 +1,2 @@
+So to speak, all the computers we use today are based on the manipulation of information encoded in the form of binary numbers.
+A double number can only have one of two values, t.j.0 or 1, these two numbers are called dual digits - or bit if we use a computer jargon.

@@ -1,0 +1,2 @@
+Skoraj vsi računalniki, ki se danes uporabljajo, temeljijo na manipulaciji informacij, ki so kodirane v obliki binarnih številk.
+Binarna številka ima lahko samo eno od dveh vrednosti, tj. 0 ali 1, in te številke se imenujejo binarne številke - ali biti, če uporabimo računalniški žargon.

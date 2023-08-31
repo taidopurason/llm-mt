@@ -1,0 +1,5 @@
+Näiteks on maailmas kõige levinum pildifotograafia formaat 35mm, mis oli analoogfilmide ajastu lõpus domineeriv filmisuurus.
+Seda toodetakse tänapäevalgi, kuid mis veelgi olulisem, selle kuvasuhe on päritud digitaalkaamera pildisensori vormingute abil.
+35mm formaat on tegelikult, mõnevõrra segaselt, 36mm laiune ja 24mm kõrgune.
+Selle vormingu kuvasuhe (jagades kaheteistkümnega, et saada lihtsaim täisarvude suhe) on seega 3: 2.
+Paljud levinud vormingud (näiteks APS-vormingute perekond) on selle kuvasuhtega võrdsed või ligikaudsed.

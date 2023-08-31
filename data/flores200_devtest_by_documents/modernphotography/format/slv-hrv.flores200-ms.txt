@@ -1,0 +1,5 @@
+Na primjer, najčešće korišteni fotografski format za stacionarne slike na svijetu je 35 mm, što je bila dominantna veličina filma na kraju analogne filmske ere.
+I danas se koristi, ali što je još važnije, njegov omjer slike usvojili su i formati senzora slike digitalnih fotoaparata.
+Format od 35 mm zapravo - i pomalo čudno - mjeri širinu od 36 mm i visinu od 24 mm.
+Dakle, omjer slike ovog formata (podijeljen s dvanaest kako bi se dobio najosnovniji omjer u obliku cijelog broja) je 3:2.
+Mnogi uobičajeni formati (ASP obitelj formata) isti su ili vrlo bliski ovom omjeru visine i širine.

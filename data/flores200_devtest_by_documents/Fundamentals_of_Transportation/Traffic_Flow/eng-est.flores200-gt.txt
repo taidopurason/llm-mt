@@ -1,0 +1,5 @@
+Liiklusvoog on üksikute autojuhtide ja sõidukite liikumise uurimine kahe punkti vahel ning nendevahelise interaktsiooni vahel.
+Kahjuks on liiklusvoo õppimine keeruline, kuna juhi käitumist ei saa sajaprotsendilise kindlalt ennustada.
+Õnneks kipuvad autojuhid käituma mõistlikult järjepidevas vahemikus;Seega on liiklusvoogudel tavaliselt mõistlik järjepidevus ja neid saab laias laastus matemaatiliselt esindada.
+Liiklusvoo paremaks tähistamiseks on kolme peamise omaduse vahel loodud suhted: (1) vool, (2) tihedus ja (3) kiirus.
+Need suhted aitavad sõiduteede kavandamisel, kavandamisel ja toimimisel.

@@ -1,0 +1,4 @@
+Projektové vyučování by mělo usnadnit a zpestřit výuku, ale scaffolding jde ještě dál.
+Scaffolding není metoda učení, ale spíše pomůcka, která poskytuje podporu osobám, které procházejí novou zkušeností s učením, jako je používání nového počítačového programu nebo zahájení nového projektu.
+Lešení mohou být virtuální i skutečná, jinými slovy, učitel je určitou formou lešení, ale stejně tak i malý panáček s kancelářskou sponkou v Microsoft Office.
+Virtuální lešení jsou internalizována v softwaru a mají za úkol klást otázky, napovídat a vysvětlovat postupy, které by pro žáka mohly být příliš náročné na to, aby je zvládl sám.

@@ -1,0 +1,5 @@
+Traffic is the study of the movement of individual drivers and vehicles between two points and the interactions that occur between them.
+Unfortunately, examining the flow of traffic is difficult, because the behavior of drivers cannot be predicted with one hundred percent certainty.
+Fortunately, drivers behave similarly within a certain range;  Therefore, the operation usually has some reasonable consistency and can be approximately mathematically depicted.
+In order to better represent the flow of traffic, relationships were established between three main characteristics: (1) flow, (2) density, and (3) velocity.
+These relationships assist in the planning, design, and operation of transportation facilities.

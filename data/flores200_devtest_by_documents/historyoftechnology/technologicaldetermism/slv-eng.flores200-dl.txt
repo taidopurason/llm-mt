@@ -1,0 +1,5 @@
+Technological determinism is a term that encompasses a wide range of ideas and practices, from technological aspiration or technological necessity to the idea that human destiny is driven by a fundamental logic related to scientific laws and their implementation in technology.
+Most interpretations of technological determinism share the same general ideas: that the development of technology itself follows a path that is strongly influenced by culture and politics, and that technology consequently produces "effects" on societies that are intrinsic rather than socially conditioned.
+For example, it could be said that as the car evolves, so will the roads.
+However, a national road network cannot be economically justified for just a few cars, so new ways of manufacturing are being developed to reduce the cost of car ownership.
+Mass car ownership also leads to a higher incidence of accidents on the roads, which leads to the invention of new techniques in healthcare for the care of injured bodies.

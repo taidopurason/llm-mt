@@ -1,0 +1,3 @@
+Lõhustumispomm töötab põhimõttel, et paljude prootonite ja neutronitega tuuma kokkupanemiseks kulub energiat.
+Umbes nagu raske vankri veeretamine mäest üles. Tuuma uuesti poolitamine vabastab osa sellest energiast.
+Mõnedel aatomitel on ebastabiilsed tuumad, mis tähendab, et nad kipuvad lagunema vähe või üldse mitte.

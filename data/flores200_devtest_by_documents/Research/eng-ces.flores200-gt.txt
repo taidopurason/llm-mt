@@ -1,0 +1,5 @@
+Práce byla většinou teoretická, ale program byl napsán pro simulaci pozorování učiněných ze Střelcové galaxie.
+Účinek, který tým hledal, by byl způsoben přílivovými silami mezi temnou hmotou galaxie a temnou hmotou Mléčné dráhy.
+Stejně jako Měsíc vyvíjí tah na Zemi a způsobuje přílivy, také Mléčná dráha vyvíjí sílu na galaxii Střelce.
+Vědci byli schopni dojít k závěru, že temná hmota ovlivňuje jinou temnou hmotu stejným způsobem jako běžná hmota.
+Tato teorie říká, že většina temné hmoty kolem galaxie se nachází kolem galaxie v jakémkoli halo a je vyrobena z mnoha malých částic.

@@ -1,0 +1,5 @@
+Ačkoli má umělá inteligence silnou konotaci se science fiction, tvoří velmi důležitý obor informatiky, který se zabývá chováním, učením a inteligentní adaptací stroje.
+Výzkum v oblasti umělé inteligence zahrnuje vytváření strojů pro automatizaci úkolů, které vyžadují inteligentní chování.
+Příkladem může být řízení, plánování a rozvrhování, schopnost odpovídat na diagnózy a otázky zákazníků, stejně jako rozpoznávání rukopisu, hlasu a obličeje.
+Takové věci se staly samostatnými disciplínami, které se zaměřují na poskytování řešení reálných problémů.
+Systém umělé inteligence se nyní často používá v ekonomice, medicíně, strojírenství a armádě, stejně jako byl zabudován do několika softwarových aplikací pro domácí počítače a videohry.

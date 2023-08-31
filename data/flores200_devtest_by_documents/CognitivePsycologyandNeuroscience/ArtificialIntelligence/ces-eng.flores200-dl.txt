@@ -1,0 +1,5 @@
+Although AI has strong connotations with science fiction, it is a very important area of computer science dealing with the behaviour, learning and intelligence adaptation of machines.
+AI research involves creating machines that automate tasks that require intelligent action.
+Examples include control, planning and scheduling, the ability to respond to customer diagnoses and queries, and handwriting, voice and facial recognition.
+Such things have become separate disciplines that focus on providing solutions to real-life problems.
+AI systems are now frequently used in the fields of economics, medicine, engineering and the military, and are built into many home computer applications and video game software.

@@ -1,0 +1,5 @@
+Ehkki AI -l on ulme tugev varjund, moodustab AI arvutiteaduse väga olulise haru, mis tegeleb masinaga käitumise, õppimise ja intelligentse kohanemisega.
+AI uuringud hõlmavad masinate tegemist, et automatiseerida ülesandeid, mis nõuavad intelligentset käitumist.
+Näited hõlmavad kontrolli, planeerimist ja ajakava, võimalust vastata klientide diagnoosidele ja küsimustele, samuti käekirjade tuvastamist, häält ja nägu.
+Sellised asjad on muutunud eraldi erialadeks, mis keskenduvad reaalse elu probleemidele lahenduste pakkumisele.
+AI -süsteemi kasutatakse nüüd sageli majanduse, meditsiini, inseneri ja sõjaväe valdkonnas, nagu on ehitatud mitmesse koduarvuti ja videomängude tarkvararakendustesse.

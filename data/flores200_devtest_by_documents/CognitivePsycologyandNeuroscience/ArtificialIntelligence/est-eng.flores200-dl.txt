@@ -1,0 +1,5 @@
+Although AI is strongly associated with the scientific community, forms of AI are a very important branch of computer science that deals with machine behaviour, learning and intelligent adaptation.
+The study of AI involves the automation of machines to solve tasks that require intelligent behaviour.
+Examples include control, planning and scheduling, the ability to respond to customer diagnoses and questions, as well as handwriting, voice and facial recognition.
+Such things have become separate disciplines that focus on finding solutions to real-life problems.
+Artificial intelligence is now often used in the fields of economics, medicine, engineering and the military, and has also been built into many home computers and video game software applications.
