@@ -7,10 +7,9 @@ def read_lines(file: str, encoding="utf-8") -> List[str]:
         return [line.rstrip() for line in f]
 
 
-def write_lines(lines: List[str], file: str):
+def write_text(text: str, file: str):
     with open(file, 'w', encoding='utf-8') as f:
-        for line in lines:
-            f.write(f"{line}\n")
+        f.write(f"{text}")
 
 
 def write_json(json_object: object, file_path: str):
