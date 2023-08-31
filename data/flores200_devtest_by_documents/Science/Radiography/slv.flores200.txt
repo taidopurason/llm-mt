@@ -1,0 +1,2 @@
+Tako rekoč vsi računalniki, ki jih danes uporabljamo, so osnovani na manipulaciji informacij, ki so kodirane v obliki binarnih številk.
+Dvojiško število ima lahko samo eno od dveh vrednosti, t. j. 0 ali 1, ti dve številki se imenujeta dvojiški števki – ali bita, če uporabimo računalniški žargon.

@@ -1,0 +1,5 @@
+The Hershey and Chase experiment was one of the leading suggestions that DNA was a genetic material.
+Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.
+They did two experiments marking either the DNA in the phage with a radioactive phosphorus or the protein of the phage with radioactive sulfur.
+Mutations can have a variety of different effects depending on the type of mutation, the significance of the piece of genetic material affected and whether the cells affected are germ-line cells.
+Only mutations in germ-line cells can be passed on to children, while mutations elsewhere can cause cell-death or cancer.

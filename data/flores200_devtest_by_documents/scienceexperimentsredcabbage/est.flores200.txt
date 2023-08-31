@@ -1,0 +1,4 @@
+Seda nimetatakse kemikaali pH-ks. Saad teha endale indikaatori punase peakapsa mahlaga.
+Kapsamahl muudab värvi olenevalt sellest, kui happeline või aluseline (leeliseline) see kemikaal on.
+pH-taset näitab uuritud kemikaalis olev vesinikioonide (H tähistabki pH-s vesinikku) hulk.
+Vesinikioonid on prootonid, mille küljest on elektronid eemaldatud (kuna vesiniku aatomid koosnevad ühest prootonist ja ühest elektronist).

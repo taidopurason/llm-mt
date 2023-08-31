@@ -1,0 +1,3 @@
+Istraživanja u dvadesetom stoljeću pokazala su da postoje dvije skupine genetskih varijacija: prikrivene i izražene.
+Mutacija dodaje novu genetsku varijaciju, a selekcija je uklanja iz skupa izraženih varijacija. 　
+Segregacija i rekombinacija u svakoj generaciji prebacuju varijabilnost između ta dva izvora.

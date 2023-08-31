@@ -1,0 +1,4 @@
+Voláte-li někomu, kdo je tisíce kilometrů daleko, využíváte k hovoru satelit.
+Satelit ve vesmíru obdrží hovor a poté jeho signál odrazí téměř okamžitě zpět dolů.
+Satelit byl do vesmíru vynesen pomocí rakety. Vědci využívají vesmírné teleskopy, protože zemská atmosféra nám částečně zkresluje světlo a zorné pole.
+K vynesení satelitu nebo teleskopu do vesmíru je zapotřebí veliké rakety, která měří přes 100 stop.

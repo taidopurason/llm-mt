@@ -1,0 +1,2 @@
+Pravilo tretjin, ki se velikokrat izkorišča in je pogosto zasmehovano, je preprosto vodilo, ki ustvarja dinamičnost in hkrati zagotavlja merilo za ureditev slike.
+Po njem naj bi bilo najučinkovitejše mesto za glavni predmet na preseku črt, ki delijo sliko na tretjine navpično in vodoravno (glejte primer).

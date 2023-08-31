@@ -1,0 +1,5 @@
+Provoz je studie pohybu jednotlivých řidičů a vozidel mezi dvěma body a interakcí, ke kterým mezi nimi dochází.
+Zkoumání toku provozu je bohužel obtížné, protože chování řidičů nelze předvídat se stoprocentní jistotou.
+Naštěstí se řidiči chovají podobně v určitém rozmezí;  proto má provoz obvykle určitou rozumnou konzistenci a může být přibližně matematicky znázorněn.
+Za účelem lepší reprezentace toku provozu byly stanoveny vztahy mezi třemi hlavními charakteristikami: (1) tok, (2) hustota a (3) rychlost.
+Tyto vztahy pomáhají při plánování, navrhování a provozování dopravních zařízení.

@@ -1,0 +1,5 @@
+Pretok prometa je proučevanje premikanja posameznih voznikov in vozil med dvema točkama in interakcij, ki jih imajo med seboj.
+Žal je proučevanje pretoka prometa težko, saj se voznikovega obnašanja ne da napovedati s 100-odstotno gotovostjo.
+K sreči je vedenje voznikov praviloma do neke mere ustaljeno, zato so ustaljeni tudi prometni tokovi in jih je v grobem možno predstaviti v matematični obliki.
+Za boljšo ponazoritev pretoka prometa so se uveljavila razmerja med glavnimi tremi značilnostmi: (1) pretokom, (2) gostoto in (3) hitrostjo.
+Ta razmerja pomagajo pri načrtovanju, oblikovanju in delovanju cestišč.

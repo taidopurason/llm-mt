@@ -1,0 +1,2 @@
+Teaduse põhieesmärk on teadusliku meetodi abil välja selgitada, kuidas maailm töötab. Õigupoolest on see meetod enamike teadusuuringute aluseks.
+Teadusuuringud ei juhindu aga ainult eksperimenteerimisest – eksperiment on test, mida kasutatakse ühe või mitme võimaliku hüpoteesi välistamiseks –, vaid ka küsimuste esitamisest ja vaatlemisest.
