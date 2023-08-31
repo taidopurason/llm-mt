@@ -1,11 +1,12 @@
 import logging
+import os
 
 from llm_mt_eval.translate import translate_file
 from llm_mt_eval.utils import write_lines
 
 import openai
 
-openai.api_key = ""  # your openai api key
+openai.api_key = os.environ["OPENAI_API_KEY"]
 
 logging.basicConfig(level=logging.INFO)
 src_file_path = "test.et.src"
@@ -20,8 +21,9 @@ write_lines(
 translate_file(
     src_lang="et",
     tgt_lang="en",
-    src_file="test.et.src",
+    src_path="test.et.src",
     prompt="Translate from {src_lang} to {tgt_lang}: {sentence}",
-    experiment_name="et-en-test",
-    use_last_line=True
+    use_last_line=True,
+    response_out_path="test.et-en.response.json",
+    hyp_out_path="test.et-en.hyp.txt",
 )
