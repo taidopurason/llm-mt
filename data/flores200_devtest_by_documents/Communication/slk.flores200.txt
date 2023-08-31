@@ -1,4 +1,4 @@
-U udaljenim mjestima u kojima nema pokrivenosti signalom, satelitski telefon je možda jedina opcija.
-Satelitski telefon uglavnom nije zamjena za mobilni telefon jer morate telefonirati na otvorenom i satelit vam mora biti u vidokrugu da biste obavili poziv.
-Usluga se često upotrebljava u špediciji, na rekreacijskim plovilima, ali i na ekspedicijama koje imaju potrebu za daljinskim podatkovnim i glasovnim prijenosom.
-Davatelj telefonskih usluga trebao bi vam moći pružiti više informacija o povezivanju s ovom uslugom.
+Satelitný telefón môže byť vašou jedinou možnosťou vo vzdialených miestach, kde nie je pokrytie mobilným telefónom.
+Satelitný telefón všeobecne nie je náhradou mobilného telefónu. Aby ste s ním mohli volať, musíte byť v exteriéri na mieste s jasnou viditeľnosťou na satelit.
+Túta služba sa často využíva v lodnej doprave vrátane výletných lodí, ako aj na výpravách, ktoré potrebujú dátové a hlasové spojenie na diaľku.
+Váš miestny poskytovateľ telefónnych služieb by mal byť schopný poskytnúť viac informácií o pripojení k tejto službe.

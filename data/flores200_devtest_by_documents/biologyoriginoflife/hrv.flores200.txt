@@ -1,6 +1,6 @@
-Keď sa malá skupina živočíchov (malá populácia) odpojí od hlavnej populácie, z ktorej pochádza (ako napríklad, keď sa presunú cez pohorie, alebo rieku, alebo keď sa presunú na nový ostrov, takže sa naspäť nedostanú ľahko), často sa ocitnú v prostredí, ktoré sa líši od toho pôvodného.
-Toto nové prostredie má rôzne zdroje a rôznych konkurentov, takže nová populácia bude potrebovať odlišné vlastnosti alebo adaptácie, aby bola silným konkurentom, oproti tomu, čo predtým potrebovali.
-Pôvodná populácia sa vôbec nezmenila, stále potrebujú rovnaké adaptácie ako predtým.
-Postupom času, keď sa nová populácia začína prispôsobovať svojmu novému prostrediu, začnú sa čoraz menej podobať na členov iných populácií.
-Nakoniec, po tisícoch alebo dokonca miliónoch rokov, budú tieto dve populácie vyzerať tak odlišne, že ich nemožno nazvať rovnakým druhom.
-Názov tohto procesu je speciácia, čo znamená len vývoj nových druhov. Speciácia je bezpodmienečným výsledkom a veľmi dôležitou súčasťou evolúcie.
+Kada se mala skupina živih bića (mala populacija) odvoji od glavne populacije iz koje su došli (na primjer tijekom prelaska preko planine ili rijeke ili ako se presele na novi otok s kojeg se ne mogu lako vratiti), često će se naći u drukčijem okruženju.
+Novo okruženje znači različite resurse i različitu konkurenciju, pa su novoj populaciji potrebne značajke ili prilagodbe koje se razlikuju od dotadašnjih kako bi se mogla natjecati za resurse.
+Izvorno se stanovništvo nije nimalo promijenilo, još uvijek moraju napraviti iste prilagodbe kao i prije.
+Tijekom vremena, kako se nova populacija počinje prilagođavati novom okruženju, sve manje nalikuje drugoj populaciji.
+S vremenom, nakon tisuća pa čak i milijuna godina, dvije populacije toliko će se razlikovati u izgledu da se neće moći nazivati istom vrstom.
+Ovaj postupak nazivamo specijacija, što znači oblikovanje novih vrsta. Specijacija je neizbježna posljedica i vrlo važan dio evolucije.

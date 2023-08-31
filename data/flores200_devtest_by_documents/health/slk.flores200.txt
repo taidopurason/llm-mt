@@ -1,8 +1,8 @@
-Iako se pokazalo da jedno eksperimentalno cjepivo može smanjiti smrtnost od ebole, dosad nijedan lijek nije dokazano prikladan za liječenje postojeće infekcije.
-Koktel antitijela, ZMapp, u početku je bio obećavajući u tom polju. Međutim, službene studije ukazale su na to da je imao manje od željenih prednosti u sprječavanju smrti.
-U kliničkom ispitivanju PALM, ZMapp je služio kao kontrola, što znači da su ga znanstvenici koristili kao početnu vrijednost i uspoređivali preostala tri lijeka s njim. 　　
-Fluke je napisala da određeni pokušaji ušutkivanja žena koje progovaraju o ženskom zdravlju nisu bili uspješni.
-Do tog je zaključka došla nakon brojnih pozitivnih komentara i poruka ohrabrenja koje je primila od muškaraca i žena koji traže da se kontracepcijski lijekovi smatraju medicinski nužnima.
-Potvrđeno je da je mrtva divlja guska pronađena u ponedjeljak u močvari blizu Lyona na istoku Francuske zaražena sojem ptičje gripe koji je smrtonosan za ljude, H5N1.　
-Francuska je sedma zemlja u Europskoj uniji do koje je virus došao, nakon Austrije, Njemačke, Slovenije, Bugarske, Grčke i Italije.
-Sumnjivi slučajevi H5N1 u Hrvatskoj i Danskoj i dalje su nepotvrđeni.
+Aj keď sa zdá, že jedna experimentálna vakcína dokáže znížiť úmrtnosť na ebolu, doteraz sa jednoznačne nepreukázalo, že by nejaké lieky boli vhodné na liečbu už existujúcej infekcie.
+Protilátkový koktail ZMapp spočiatku vyzeral v tejto oblasti sľubne, ale oficiálne štúdie uvádzajú, že pri prevencii smrti mal menší úžitok, ako sa dúfalo.
+V triale PALM, ZMapp slúžila ako kontrola, čo znamená, že ju vedci použili ako základ, s ktorým porovnali ostatné tri liečby.
+Fluke napísal, že snahy niektorých prehlušiť ženy, keď hovorili o ženskom zdraví, boli neúspešné.
+K tomuto záveru dospela vďaka množstvu pozitívnych komentárov a povzbudení, ktoré jej poslali tak ženy, ako aj muži, ktorí trvali na tom, aby sa antikoncepcia považovala za lekársku nevyhnutnosť.
+Potvrdilo sa, že mŕtva divá kačica bola infikovaná kmeňom vtáčej chrípky smrteľnej pre ľudí – H5N1. Kačicu našli v pondelok v močiari neďaleko mesta Lyon na východe Francúzska.
+Francúzsko je siedmou krajinou v Európskej únii, ktorá bola týmto vírusom zasiahnutá, po Rakúsku, Nemecku, Slovinsku, Bulharsku, Grécku a Taliansku.
+Podozrenia na prípady ochorenia H5N1 v Chorvátsku a Dánsku sa zatiaľ nepotvrdili.

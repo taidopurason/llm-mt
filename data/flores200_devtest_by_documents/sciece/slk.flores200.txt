@@ -1,12 +1,12 @@
-Time se potvrđuje da su barem neki dinosauri imali perje, što je već raširena teorija, ali omogućeni su detalji koje fosili obično ne daju, npr. boja i trodimenzionalni raspored.　　
-. Znanstvenici tvrde da je gornja strana perja ove životinje bila kestenjasto smeđa, a donja strana blijeda ili karotenoidna.
-Ovo otkriće također pruža uvid u evoluciju perja kod ptica.
-Budući da perje dinosaura nema dobro razvijen stručak pera koji se naziva rachis, ali ima druge značajke perja — isperci I. i II. reda — istraživači su zaključili da je stručak vjerojatno nastao kasnije u evoluciji u odnosu ne te druge značajke.
-Prema strukturi perja može se zaključiti da nije korišteno za letenje, nego radije za regulaciju temperature ili pokazivanje. Istraživači tvrde da, iako je ovo rep mladog dinosaura, uzorak pokazuje perje boje odraslih primjeraka, a ne paperje mladunaca.
-Istraživanje je pokazalo da unatoč tome što se radi o repu mladog dinosaura, uzorak je dio perja boje odrasle ptice, a ne paperja pilića.
-Otkrili su da Suncem upravljaju ista osnovna načela koja upravljaju i ostalim zvijezdama: otkriveno je da aktivnost svih zvijezda u sustavu određuje isključivo njihova luminoznost i rotacija.
-Rossbyjev broj zvijezde, koji je povezan s protokom plazme, određuje se pomoću luminoznosti i rotacije.
-Što je manji Rossbyjev broj, manja je aktivnost zvijezde po pitanju magnetskog preokreta.
-Standard 802,11 n radi na frekvencijama od 2,4 Ghz i 5,0 Ghz.
-To će omogućiti retroaktivnu usklađenost s normama 802.11a, 802.11b i 802.11g, pod uvjetom da bazna stanica ima dvostruki radio.
-Brzine standarda 802.11n znatno su veće od brzina njegovih prethodnika s maksimalnim teoretskim protokom od 600 Mbit/s.
+Nielenže to potvrdzuje už veľmi rozšírenú teóriu, že aspoň niektoré dinosaury boli operené, ale poskytuje aj podrobnosti o tom, ktoré fosílie všeobecne nemohli byť, medzi nimi farba a trojrozmerné usporiadanie.
+. Vedci tvrdia, že operenie tohto zvieraťa bolo zvrchu gaštanovohnedé, naspodu bledej alebo karotenoidovej farby.
+Nález takisto poskytuje detailný pohľad na vývoj peria vtákov.
+Keďže perie dinosaura nemá dobre vyvinutú kostrnku nazývanú rachis, ale má iné znaky peria – ostne a lúče – vedci usúdili, že rachis sa pravdepodobne vyvinula evolučne neskôr než tieto ďalšie znaky.
+Štruktúra peria naznačuje, že neboli používané za letu, ale skôr na reguláciu teploty alebo na dvorenie. Podľa tvrdenia vedcov, aj keď tu ide o chvost mladého dinosaura, na vzorke je zobrazené perie dospelého jedinca a nie páperie mláďaťa.
+Aj keď ide o chvost mladého dinosaura, na vzorke je podľa vedcov perie dospelého jedinca a nie páperie mláďaťa.
+Zistili, že Slnko funguje na rovnakých základných princípoch ako iné hviezdy: Aktivita všetkých hviezd v systéme sa riadi ich svietivosťou, rotáciou a ničím iným.
+Svietivosť a rotácia spoločne pomáhajú stanoviť Rossbyho číslo hviezdy, ktoré súvisí s plazmatickým tokom.
+Čím je hodnota Rossbyho čísla menšia, tým je hviezda menej aktívna vo vzťahu k magnetickej rotácii.
+Prevádzkové frekvencie štandardu 802.11n sú 2,4 GHz a 5,0 GHz.
+Za predpokladu, že základňová stanica má duálne rádiá, umožní jej to spätnú kompatibilitu s normami 802.11a, 802.11b a 802.11g.
+Rýchlosti štandardu 802.11n sú podstatne vyššie ako u predošlých s maximálnou teoretickou priepustnosťou 600 Mbit/s.

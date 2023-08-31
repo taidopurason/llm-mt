@@ -1,4 +1,4 @@
-Iako bi učenje na projektu trebalo olakšati učenje i učiniti ga zanimljivijim, postavljanje skela ide korak dalje.　
-Postavljanje skela, tj. podupiranje (eng. scaffolding) nije obrazovna metoda, već podrška za pojedince pred kojima je novo iskustvo učenja, npr. upotreba novog računalnog programa ili započinjanje novog projekta.
-Skele mogu biti virtualne i stvarne; drugim riječima, učitelj je oblik skele, kao i animirana spajalica koja se pojavljuje u programima Microsoft Officea.
-Virtualno postavljanje skela internalizira se u softveru i namijenjeno je ispitivanju, upućivanju i objašnjenju postupaka koji učeniku možda predstavljaju prevelik izazov da ih sam riješi.
+Zatiaľ čo projektové učenie by malo uľahčiť učenie a urobiť ho zaujímavejším, stratégia pod názvom „scaffolding“ ide ešte o krok ďalej.
+Scaffolding („stavanie lešenia“) nie je metódou učenia sa, ale skôr pomôckou, ktorá pomáha ľudom, ktorí sa pri učení stretnú s novými skúsenosťami, napríklad používaním nového počítačového programu alebo začatí nového projektu.
+„Lešenia“ môžu byť virtuálne aj skutočné, inými slovami, učiteľ je tiež forma „lešenia“, no je ním aj malá kancelárska sponka v programe Microsoft Office.
+Virtuálne lešenia sú v softvéri internalizované. Sú určené predovšetkým na spochybnenie a vysvetlenie príliš náročných postupov študentovi, ktoré by sám nezvládol.

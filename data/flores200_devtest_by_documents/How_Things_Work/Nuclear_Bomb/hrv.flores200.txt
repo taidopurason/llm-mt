@@ -1,3 +1,3 @@
-Štiepna bomba využíva princíp, podľa ktorého je treba energiu na zostavenie jadra s množstvom protónov a neutrónov.
-Niečo podobné ako valenie ťažkého vozíka do kopca. Pri opätovom rozdelení jadra sa potom uvoľní časť tejto energie.
-Niektoré atómy majú nestabilné jadrá. To znamená, že sú náchylné k rozpadu už pri malom alebo aj žiadnom postrčení.
+Fizijska bomba djeluje na principu uzimanja energije za sastavljanje jezgre s brojnim protonima i neutronima.
+To je otprilike poput guranja teških kolica uzbrdo. Dijeljenjem jezgre ponovo se oslobađa dio te energije.
+Neki atomi imaju nestabilne jezgre što znači da naginju raspadanju prilikom blagog guranja ili bez guranja.

@@ -1,2 +1,2 @@
-FAA tvrdi da bi sustav NextGen omogućio skraćivanje letnih ruta zrakoplova te tako uštedio milijune galona goriva godišnje i smanjio emisije ugljika.
-Za razliku od starije tehnologije koja se temelji na radarima, ovaj sustav upotrebljava satelitsku tehnologiju kako bi kontrolori zračnog prometa mogli preciznije locirati zrakoplove i dati pilotima točnije informacije.
+NextGen je systém, ktorý podľa FAA umožňuje lietadlám lietať kratšie trasy a každoročne tak ušetriť milióny litrov paliva a zredukovať uhlíkové emisie.
+Využíva satelitnú technológiu na rozdiel od staršej technológie založenej na pozemných radaroch, ktorá umožňuje riadiacim pracovníkom letovej prevádzky presnejšie určiť lietadlo a poskytnúť pilotom presnejšie informácie.

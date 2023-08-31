@@ -1,4 +1,4 @@
-To se zove kemijski pH. Pokazatelj vam može biti sok crvenog kupusa.　
-Rasol mijenja boju ovisno o tome koliko je kemikalija kiselinska ili bazična (lužnata).
-Vrijednost pH označava se količinom iona vodika (H u kratici pH) u testiranoj kemikaliji.　
-Vodikovi ioni su protoni bez elektrona (budući da se atomi vodika sastoje od jednog protona i jednog elektrona).
+Nazýva sa pH chemikálie. Indikátor sa dá vyrobiť použitím šťavy z červenej kapusty.
+Šťava z kapusty mení farbu podľa toho, aká kyslá alebo zásaditá (alkalická) je chemikália.
+Hladina pH sa určuje podľa počtu iónov vodíka (H v pH) v testovanej chemikálii.
+Vodíkové ióny sú protóny, ktorým boli odobraté elektróny (pretože atómy vodíka pozostávajú z jedného protónu a jedného elektrónu).
