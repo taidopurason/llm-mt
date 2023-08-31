@@ -1,0 +1,4 @@
+While project based learning should make learning easier and more interesting, scaffolding goes a step beyond.
+Scaffolding is not a method of learning but rather an aid that provides support to individuals whom are undergoing a new learning experience such as using a new computer program or beginning a new project.
+Scaffolds can be both virtual and real, in other words, a teacher is a form of scaffold but so is the little paperclip man in Microsoft Office.
+Virtual Scaffolds are internalized in the software and are meant to question, prompt, and explain procedures that may have been to challenging for the student to handle alone.

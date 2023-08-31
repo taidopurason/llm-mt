@@ -1,0 +1,3 @@
+Zistili, že Slnko funguje na rovnakých základných princípoch ako iné hviezdy: Aktivita všetkých hviezd v systéme sa riadi ich svietivosťou, rotáciou a ničím iným.
+Svietivosť a rotácia spoločne pomáhajú stanoviť Rossbyho číslo hviezdy, ktoré súvisí s plazmatickým tokom.
+Čím je hodnota Rossbyho čísla menšia, tým je hviezda menej aktívna vo vzťahu k magnetickej rotácii.

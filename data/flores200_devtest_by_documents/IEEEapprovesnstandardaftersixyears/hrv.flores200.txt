@@ -1,0 +1,3 @@
+Standard 802,11 n radi na frekvencijama od 2,4 Ghz i 5,0 Ghz.
+To će omogućiti retroaktivnu usklađenost s normama 802.11a, 802.11b i 802.11g, pod uvjetom da bazna stanica ima dvostruki radio.
+Brzine standarda 802.11n znatno su veće od brzina njegovih prethodnika s maksimalnim teoretskim protokom od 600 Mbit/s.

@@ -1,0 +1,3 @@
+At Thursday's keynote presentation of the Tokyo Game Show, Nintendo president Satoru Iwata unveiled the controller design for the company's new Nintendo Revolution console.
+Resembling a television remote, the controller uses two sensors placed near the user's television to triangulate its position in three-dimensional space.
+This will allow players to control actions and movements in video games by moving the device through the air.

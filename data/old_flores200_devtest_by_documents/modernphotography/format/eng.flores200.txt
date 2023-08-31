@@ -1,0 +1,5 @@
+For example, the most common still image photography format in the world is 35mm, which was the dominant film size at the close of the analog film era.
+It is still produced today, but more importantly its aspect ratio has been inherited by digital camera image sensor formats.
+The 35mm format is actually, somewhat confusingly, 36mm in width by 24mm in height.
+The aspect ratio of this format (dividing by twelve to obtain the simplest whole-number ratio) is therefore said to be 3:2.
+Many common formats (APS family of formats, for example) are equal to or closely approximate this aspect ratio.

@@ -1,0 +1,3 @@
+Mitmed füsioloogia ja käitumise jälgitavad rütmid olenevad tihtipeale endogeensetest tsüklitest ning nende loomisest bioloogiliste kellade kaudu.
+Perioodiliste rütmide esinemist, mille puhul ei ole tegemist lihtsalt reaktsiooniga välistele perioodilistele teguritele, on dokumenteeritud enamikul elusolenditel, sealhulgas bakteritel, seentel, taimedel ja loomadel.
+Bioloogiline kell on ise ennast töös hoidev võnkesüsteem, mis jätkab vabalt kulgeva tsüklilisusega isegi väliste mõjurite  puudumisel.

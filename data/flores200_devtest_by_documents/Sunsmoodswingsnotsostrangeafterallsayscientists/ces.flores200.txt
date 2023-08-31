@@ -1,0 +1,3 @@
+Zjistili, že Slunce funguje na stejném základním principu jako jiné hvězdy: aktivita všech hvězd v systému je zjevně určována jejich světelností, rotací a ničím jiným.
+Na základě svítivosti a rotace se určuje Rossbyho číslo hvězdy, které souvisí s tokem plazmatu.
+Čím je Rossbyho číslo menší, tím méně aktivní je hvězda z hlediska magnetického obratu.

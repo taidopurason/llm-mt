@@ -1,0 +1,5 @@
+Čeprav ima umetna inteligenca močan prizvok znanstvene fantastike, sestavlja zelo pomembno vejo računalništva, ki se ukvarja z obnašanjem, učenjem in inteligentnim prilagajanjem stroja.
+Raziskave na področju AI zajemajo izdelovanje strojev za avtomatizacijo opravil, pri katerih je potrebno inteligentno obnašanje.
+Primeri zajemajo nadzor, načrtovanje in izdelavo urnikov, sposobnost odgovarjanja na diagnoze in vprašanja strank ter prepoznavanje pisave, glasu in obraza.
+Navedene stvari so postale ločene panoge, ki se osredotočajo na zagotavljanje rešitev za težave v resničnem življenju.
+Sistem umetne inteligence se pogosto uporablja na področju ekonomije, medicine, inženirstva in vojske, saj je vgrajen v številno programsko opremo za osebne računalnike in videoigre.

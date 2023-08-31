@@ -1,0 +1,5 @@
+Ačkoliv má umělá inteligence silnou konotaci se science fiction, tvoří velmi důležitou oblast počítačové vědy zabývající se chováním, učením a inteligenční adaptací strojů.
+Výzkum umělé inteligence zahrnuje vytváření strojů, které automatizují úkoly vyžadující inteligentní jednání.
+Příklady zahrnují kontrolu, plánování a rozvrhování, schopnost odpovídat na diagnózy a dotazy zákazníků, rozpoznávání rukopisu, hlasu a obličeje.
+Takové věci se staly samostatnými disciplínami, které se zaměřují na poskytování řešení skutečných životních problémů.
+Systém umělé inteligence je nyní často používán v oblastech ekonomiky, medicíny, strojírenství a vojenství a je vestavěn v řadě aplikací domácích počítačů a softwaru videoher.

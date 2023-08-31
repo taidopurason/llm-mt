@@ -1,0 +1,2 @@
+NextGen je sistem, za katerega FAA trdi, da bi letalom omogočil letenje na krajših progah in s tem prihranil na milijone galon goriva letno ter znižal emisije ogljika.
+Uporablja tehnologijo na podlagi satelitov in ne stare tehnologije na podlagi stacionarnih radarjev, s čimer kontrolorjem letenja omogoča, da natančneje določijo lokacijo zračnega plovila in pilotom podajo natančnejše informacije.

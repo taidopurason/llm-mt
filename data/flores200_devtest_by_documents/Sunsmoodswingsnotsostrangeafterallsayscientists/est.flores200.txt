@@ -1,0 +1,3 @@
+Nad avastasid, et Päike töötab samadel põhimõtetel nagu teised tähed: avastati, et kõikide süsteemis olevate tähtede tegevus juhindub nende heledusest, pöörlemisest ja ei millestki muust.
+Heledust ja pöörlemist kasutatakse koos, et teha kindlaks tähe Rossby arv, mis on seotud plasma voolamisega.
+Mida väiksem on Rossby arv, seda vähem on täht magnetilise ümberpöördumisega seoses aktiivne.

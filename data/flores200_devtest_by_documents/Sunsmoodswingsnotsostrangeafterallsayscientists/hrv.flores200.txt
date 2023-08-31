@@ -1,0 +1,3 @@
+Otkrili su da Suncem upravljaju ista osnovna načela koja upravljaju i ostalim zvijezdama: otkriveno je da aktivnost svih zvijezda u sustavu određuje isključivo njihova luminoznost i rotacija.
+Rossbyjev broj zvijezde, koji je povezan s protokom plazme, određuje se pomoću luminoznosti i rotacije.
+Što je manji Rossbyjev broj, manja je aktivnost zvijezde po pitanju magnetskog preokreta.

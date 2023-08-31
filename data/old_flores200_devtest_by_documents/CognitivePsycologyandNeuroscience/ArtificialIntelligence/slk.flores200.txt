@@ -1,0 +1,5 @@
+AI má silnú konotáciu science fiction a tvorí významné odvetvie počítačovej vedy, ktoré sa zaoberá správaním, učením a inteligentnou adaptáciou robotov.
+Výskum v oblasti UI zahŕňa výrobu strojov na automatizáciu úloh, ktoré si vyžadujú inteligentné správanie.
+Prípady zahŕňajú kontrolu, plánovanie a rozvrhovanie, schopnosť odpovedať na diagnózy a otázky zákazníkov, ako aj rozpoznávanie rukopisu, hlasu a tváre.
+Tieto sa stali samostatnými disciplínami, ktoré sa sústreďujú na poskytovanie riešení problémov zo života.
+Umelá inteligencia sa dnes často používa v oblasti ekonómie, medicíny, strojárstva a armády, keďže bol zabudovaný do niekoľkých aplikácií v domácich počítačoch, či aplikácií v softvéroch videohier.

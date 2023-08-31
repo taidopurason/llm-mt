@@ -1,0 +1,3 @@
+Ugotovili so, da Sonce deluje enako kot druge zvezde: vse zvezde v sistemu poganja njihov izsev in vrtenje in nič drugega.
+Izsev in kroženje se skupaj uporabljata za določanje Rossbyjevega števila zvezde, ki je povezano s tokom plazme.
+Nižje, kot je Rossbyjevo število, manj aktivna je zvezda, kar se tiče zamenjave magnetnih polov.

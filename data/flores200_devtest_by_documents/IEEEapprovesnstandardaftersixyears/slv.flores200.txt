@@ -1,0 +1,3 @@
+Standard 802.11n deluje tako na frekvenci 2,4 GHz kot 5,0 GHz.
+Zaradi tega bo povratno združljiv s standardi 802.11a, 802.11b in 802.11g, v kolikor bo imela osnovna postaja dvojni radio.
+Hitrosti standarda 802.11n so občutno večje od hitrosti njegovih predhodnikov z največjo teoretično prepustnostjo 600 Mbit/s.

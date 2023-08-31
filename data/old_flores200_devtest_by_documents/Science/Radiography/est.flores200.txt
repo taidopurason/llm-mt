@@ -1,0 +1,2 @@
+Praktiliselt kõik tänapäeval kasutatavad arvutid põhinevad teabe manipuleerimisel, mis on kodeeritud kahendarvude vormingus.
+Kahendarvul võib olla ainult üks kahest väärtusest, st 0 või 1, ja neid arve nimetatakse kahendnumbriteks või – kui kasutada arvutislängi – bittideks.

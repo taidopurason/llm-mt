@@ -1,0 +1,3 @@
+Na četrtkovi glavni predstavitvi na konvenciji Tokyo Game Show je predsednik Nintenda Satoru Iwata predstavil zasnovo upravljalnika za njihovo novo konzolo Nintendo Revolution.
+Kontrolnik, ki spominja na daljinski upravljalnik, uporablja dva senzorja, postavljena blizu uporabnikovega televizorja, za triangulacijo položaja v tridimenzionalnem prostoru.
+Igralci bodo tako lahko dejanja in gibe v videoigri izvajali s premikanjem naprave po zraku.

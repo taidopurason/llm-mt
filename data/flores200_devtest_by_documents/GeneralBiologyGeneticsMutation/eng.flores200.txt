@@ -1,0 +1,2 @@
+Mutations can have a variety of different effects depending on the type of mutation, the significance of the piece of genetic material affected and whether the cells affected are germ-line cells.
+Only mutations in germ-line cells can be passed on to children, while mutations elsewhere can cause cell-death or cancer.

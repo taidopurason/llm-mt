@@ -1,0 +1,3 @@
+The 802.11n standard operates on both the 2.4Ghz and 5.0Ghz frequencies.
+This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.
+The speeds of 802.11n are substantially faster than that of its predecessors with a maximum theoretical throughput of 600Mbit/s.

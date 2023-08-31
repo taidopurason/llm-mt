@@ -1,0 +1,3 @@
+Standard 802.11n toimib sagedustel 2,4 Ghz ja 5,0 Ghz.
+See võimaldab tagasiulatuvat ühilduvust standarditega 802.11a, 802.11b ja 802.11g, eeldusel, et tugijaamal on kaks raadiot.
+802.11n-i kiirus on selle eelkäijate omast oluliselt kiirem: selle maksimaalne teoreetiline jõudlus on 600 Mbit/s.

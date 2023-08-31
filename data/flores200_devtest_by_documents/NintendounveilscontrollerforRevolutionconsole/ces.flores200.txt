@@ -1,0 +1,3 @@
+Při klíčové čtvrteční prezentaci na Tokyo Game Show odhalil prezident Nintendo Satoru Iwata design ovladače pro novou konzoli společnosti, Nintendo Revolution.
+Ovladač podobný televiznímu ovládání používá dva senzory umístěné poblíž uživatelovy televize, které triangulují jeho polohu v trojrozměrném prostoru.
+To umožní hráčům ovládat své akce a pohyby ve videohrách tím, že pohnou svým zařízením v prostoru.

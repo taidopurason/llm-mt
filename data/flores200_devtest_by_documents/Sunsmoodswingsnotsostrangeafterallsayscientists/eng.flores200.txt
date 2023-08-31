@@ -1,0 +1,3 @@
+They found the Sun operated on the same basic principles as other stars: The activity of all stars in the system was found to be driven by their luminosity, their rotation, and nothing else.
+The luminosity and rotation are used together to determine a star's Rossby number, which is related to plasma flow.
+The smaller the Rossby number, the less active the star with respect to magnetic reversals.
