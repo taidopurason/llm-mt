@@ -1,9 +1,0 @@
-Tesla: Pärast serveri seisakuid lukustatud sadu lukustatud autodest
-Umbes 500 Tesla elektriauto kasutajat ei suutnud oma sõidukitega ühendust luua, Elon Musk ütles, et ettevõtte mobiilirakendus "peaks nüüd veebis tagasi tulema".
-Ligikaudu 500 Tesla autoomanikku ei suutnud rakenduse serveri katkestuse tõttu oma sõidukitega ühendust luua.
-Tesla tegevjuht Elon Musk ütles reedel, et ettevõtte mobiilirakendus tuleb pärast seisakut veebis tagasi.
-Ta säutsus vastusena Tesla omanikule, kes ütles, et tal on Lõuna -Koreas Soulis asuva iOS -i rakenduse kaudu oma mudeli 3 ühendamisel "500 serveri viga".
-"Peaks nüüd veebis tagasi tulema," ütles hr Musk.
-"Paistab, et oleme võib -olla suurendanud võrguliikluse sõnasõnalist kogemust."
-Ligikaudu 500 Tesla kasutaja teatas, et seisakute jälgimise veebisaidi Dowtedector andmetel teatas GMT umbes vea.
-GMT -st oli üle 60 aruannet.
