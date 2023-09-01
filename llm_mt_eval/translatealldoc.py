@@ -1,13 +1,7 @@
 import os
-from translate_gt import translate_file
+from translate_azure import translate_file
 import shutil
 from tqdm import tqdm
-
-def is_leaf_folder(folder_path):
-    for _, _, filenames in os.walk(folder_path):
-        if filenames:
-            return True
-    return False
 
 root_folder = '../data/flores200_devtest_by_documents'
 
@@ -41,7 +35,7 @@ for root, dirs, files in os.walk(root_folder):
             #if(lp[1] == "en"):
             #    lp[1] = "en-gb"
             src_file_path = os.path.join(root, f"{dir}/{lang_map[lp[0]]}.flores200.txt")
-            tgt_file_path = f"../data/translated/{lp[0]}_{lp[1]}_GT_flores200_devtest_by_documents/flores200_devtest_by_documents/{dir}/{lang_map[lp[0]]}.flores200.txt"
+            tgt_file_path = f"../data/translated/{lp[0]}_{lp[1]}_MS_flores200_devtest_by_documents/flores200_devtest_by_documents/{dir}/{lang_map[lp[0]]}.flores200.txt"
 
             if os.path.exists(tgt_file_path):
                 continue
@@ -59,6 +53,6 @@ for root, dirs, files in os.walk(root_folder):
             
 
 for lp in languagepairs:
-    folder_to_zip = f"../data/translated/{lp[0]}_{lp[1]}_GT_flores200_devtest_by_documents/"
+    folder_to_zip = f"../data/translated/{lp[0]}_{lp[1]}_MS_flores200_devtest_by_documents/"
     shutil.make_archive(folder_to_zip, 'zip', folder_to_zip)
     shutil.rmtree(folder_to_zip)
