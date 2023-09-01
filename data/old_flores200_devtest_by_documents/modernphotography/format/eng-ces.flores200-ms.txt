@@ -1,5 +1,0 @@
-Například nejběžnějším formátem fotografie statických snímků na světě je 35 mm, což byla dominantní velikost filmu na konci analogové filmové éry.
-Vyrábí se dodnes, ale co je důležitější, jeho poměr stran byl zděděn formáty obrazových snímačů digitálních fotoaparátů.
-Formát 35 mm je ve skutečnosti poněkud matoucí 36 mm na šířku a 24 mm na výšku.
-Poměr stran tohoto formátu (dělení dvanácti, abychom získali nejjednodušší poměr celých čísel) je tedy 3:2.
-Mnoho běžných formátů (například rodina formátů APS) se tomuto poměru stran rovná nebo se mu velmi přibližuje.

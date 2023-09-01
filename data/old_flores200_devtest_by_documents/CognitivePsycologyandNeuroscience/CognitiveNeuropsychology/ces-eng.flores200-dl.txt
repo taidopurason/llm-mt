@@ -1,5 +1,0 @@
-Neurobiological data provide physical evidence for a theoretical approach to the study of cognition. They thus narrow and refine this research area.
-Scientists are encouraged in their research by the correlation between brain disease and behaviour.
-It has long been known that various types of brain damage, trauma, lesions and tumours affect behaviour and cause changes in certain mental functions.
-The rise of new technologies allows us to observe and study brain structures and processes that have never been observed before.
-This provides us with a lot of information and material for creating simulation models that help us understand the processes in our minds.

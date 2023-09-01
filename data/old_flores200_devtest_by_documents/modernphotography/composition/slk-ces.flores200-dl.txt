@@ -1,2 +1,0 @@
-Velmi často používané, ale také vysmívané je jednoduché pravidlo třetin, které vytváří dynamiku a zároveň zachovává určitý řád obrazu.
-Uvádí, že nejefektivnější místo pro hlavní objekt je v průsečíku linií, které dělí obraz na třetiny vertikálně a horizontálně (viz příklad).

@@ -1,5 +1,0 @@
-Jejich práce byla převážně teoretická, ale program byl napsán tak, aby simuloval pozorování galaxie Sagittarius.
-Jev, který tým očekával, by měl být způsoben slapovými silami mezi temnou hmotou galaxie a temnou hmotou Mléčné dráhy.
-Stejně jako Měsíc působí přitažlivou silou na Zemi a způsobuje příliv a odliv, působí i Mléčná dráha přitažlivou silou na galaxii Sagittarius.
-Vědci dospěli k závěru, že působení jedné temné hmoty na druhou temnou hmotu je stejné jako působení běžné hmoty.
-Tato teorie říká, že většina temné hmoty v okolí galaxie se nachází v jakémsi halo kolem galaxie a je tvořena mnoha malými částicemi.

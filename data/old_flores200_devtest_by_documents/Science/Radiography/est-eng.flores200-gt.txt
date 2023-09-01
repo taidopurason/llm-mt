@@ -1,2 +1,0 @@
-Practically all computers used today are based on manipulation of information coded in binary format.
-The binary can only be one of two values, ie 0 or 1, and these invoices are called binary numbers or - when used as computer rescues.

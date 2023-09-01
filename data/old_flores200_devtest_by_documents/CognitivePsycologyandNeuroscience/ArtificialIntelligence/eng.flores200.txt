@@ -1,5 +1,0 @@
-Although AI has a strong connotation of science fiction, AI forms a very important branch of computer science, dealing with behavior, learning and intelligent adaptation in a machine.
-Research in AI involves making machines to automate tasks that require intelligent behavior.
-Examples include control, planning and scheduling, the ability to answer customer diagnoses and questions, as well as handwriting recognition, voice and face.
-Such things have become separate disciplines, which focus on providing solutions to real life problems.
-The AI ​​system is now often used in the fields of economics, medicine, engineering and the military, as has been built in several home computer and video game software applications.

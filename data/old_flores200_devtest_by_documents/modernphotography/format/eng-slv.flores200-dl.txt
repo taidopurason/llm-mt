@@ -1,5 +1,0 @@
-Na primer, najpogostejši format fotografskih posnetkov na svetu je 35 mm, ki je bil ob koncu obdobja analognega filma prevladujoča velikost filma.
-Proizvaja se še danes, vendar je še pomembneje, da so njegovo razmerje stranic podedovali formati slikovnih tipal digitalnih fotoaparatov.
-35-milimetrski format je pravzaprav, kar je nekoliko zmedeno, 36 mm v širino in 24 mm v višino.
-Razmerje stranic tega formata (deljenje z dvanajst, da dobimo najpreprostejše celoštevilsko razmerje) je torej 3:2.
-Številni običajni formati (na primer družina formatov APS) so enaki temu razmerju stranic ali se mu zelo približujejo.

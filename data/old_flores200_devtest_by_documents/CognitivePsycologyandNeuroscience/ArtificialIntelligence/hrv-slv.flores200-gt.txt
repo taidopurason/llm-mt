@@ -1,5 +1,0 @@
-Čeprav ima umetna inteligenca močno znanstveno fikcijsko konotacijo, je zelo pomembna veja informacijskih znanosti, ki se ukvarja z vedenjem, učenjem in inteligentnim prilagajanjem stroja.
-Raziskave umetne inteligence vključujejo izdelavo strojev za avtomatizacijo nalog, ki zahtevajo inteligentno vedenje.
-Primeri vključujejo nadzor, načrtovanje in razporeditev urnika, sposobnost odgovora na diagnozo in vprašanja strank ter prepoznati rokopise, glas in obraz.
-Takšne stvari so postale ločene discipline, ki se osredotočajo na zagotavljanje rešitev resničnih življenjskih težav.
-Sistem umetne inteligence se zdaj pogosto uporablja v ekonomiji, medicini, gradnji in vojski, ker je vgrajen v nekatere programske aplikacije za računalniško uporabo in video igre.

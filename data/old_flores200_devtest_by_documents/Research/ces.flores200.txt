@@ -1,5 +1,0 @@
-Práce byla většinou teoretická, ale byl napsán program s cílem simulovat pozorování galaxie Sagittarius.
-Tým pátral po jevu, který by byl způsoben přílivovými silami mezi temnou hmotou této galaxie a temnou hmotou Mléčné dráhy.
-Stejně jako Měsíc působí silou na Zemi a způsobuje příliv a odliv mořské hladiny, působí Mléčná dráha silou na Galaxii Střelce.
-Vědci dospěli k závěru, že temná hmota ovlivňuje jinou temnou hmotu stejným způsobem jako běžná hmota.
-Tato teorie říká, že většina temné hmoty v galaxii se nachází kolem galaxie v jakési „svatozáři“ a skládá se ze spousty malých částic.

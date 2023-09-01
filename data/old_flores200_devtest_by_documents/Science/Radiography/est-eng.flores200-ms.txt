@@ -1,2 +1,0 @@
-Practically all computers used today are based on the manipulation of information, encoded in the format of binary numbers.
-A binary number can have only one of two values, i.e. 0 or 1, and these numbers are called binary numbers or, to use computer slang, bits.

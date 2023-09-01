@@ -1,5 +1,0 @@
-Přestože AI má silnou konotaci sci -fi, AI tvoří velmi důležitou odvětví informatiky, která se zabývá chováním, učením a inteligentní adaptací ve stroji.
-Výzkum v AI zahrnuje výroba strojů pro automatizaci úkolů, které vyžadují inteligentní chování.
-Příklady zahrnují kontrolu, plánování a plánování, schopnost odpovídat na diagnostiky a otázky zákazníka, jakož i rozpoznávání rukopisu, hlas a obličej.
-Takové věci se staly samostatnými disciplínami, které se zaměřují na poskytování řešení problémů v reálném životě.
-Systém AI se nyní často používá v oblasti ekonomiky, medicíny, inženýrství a armády, jak bylo postaveno v několika aplikacích pro domácí počítač a videoher.

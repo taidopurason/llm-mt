@@ -1,5 +1,0 @@
-Although AI has a strong science fiction flavour, it is a very important branch of computer science that deals with machine behaviour, learning and intelligent adaptation.
-AI research involves building machines to automate tasks that require intelligent behaviour.
-Examples include monitoring, planning and scheduling, the ability to answer customer diagnoses and questions, and handwriting, voice and facial recognition.
-These things have become separate industries that focus on providing solutions to real-life problems.
-AI is widely used in the fields of economics, medicine, engineering and the military, as it is embedded in many PC and video game software.

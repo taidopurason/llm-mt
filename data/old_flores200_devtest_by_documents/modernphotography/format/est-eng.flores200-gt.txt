@@ -1,5 +1,0 @@
-For example, the most common photo film format in the world is 35mm, dominant film size at the end of the analogue film era.
-It is still produced today, but more importantly, its proportions were inherited to the dimensions of digital camera image sensors.
-The 35mm format is actually somewhat confusing 36 mm wide and 24 mm long.
-The image ratio of this format (by twelve to get the simplest integer ratio) is therefore believed to be 3: 2.
-Many common formats (such as the APS format group) are equal to or close to it.

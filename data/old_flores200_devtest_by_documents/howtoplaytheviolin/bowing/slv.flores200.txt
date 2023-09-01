@@ -1,4 +1,0 @@
-Oznaka za "lok gor" izgleda kot črka V, za "lok dol" pa kot sponka ali kvadrat brez spodnje stranice.
-Gor pomeni, da bi morali začeti na vrhu loka in ga potisniti, dol pomeni, da bi morali začeti pri žabici (torej, kjer z roko držite lok) in lok povleči.
-Poteg loka od zgoraj običajno ustvari mehkejši zvok, medtem ko je poteg loka od spodaj močnejši in bolj odločen.
-Če želite, lahko s svinčnikom začrtate svoje lokovne oznake, a ne pozabite, da so tiskane lokovne oznake navedene zaradi glasbe, zato jih je treba sicer upoštevati.

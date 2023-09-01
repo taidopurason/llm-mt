@@ -1,5 +1,0 @@
-Although artificial intelligence has a strong science fiction tone, it consists of a very important branch of computer science that deals with the behavior, learning and intelligent adaptation of the machine.
-Research in the AI is covering the manufacture of automation machines that require intelligent behavior.
-Examples include supervision, planning and scheduling, the ability to respond to diagnoses and customer questions, and identify font, voice and face.
-These things have become separate industries that focus on providing solutions to real life problems.
-The artificial intelligence system is often used in the fields of economics, medicine, engineering and army, as it is installed in numerous software for PCs and video games.

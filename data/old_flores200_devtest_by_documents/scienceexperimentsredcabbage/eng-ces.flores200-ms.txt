@@ -1,4 +1,0 @@
-Toto se nazývá pH chemické látky. Indikátor můžete vytvořit pomocí šťávy z červeného zelí.
-Zelná šťáva mění barvu v závislosti na tom, jak kyselá nebo zásaditá (alkalická) je chemikálie.
-Hodnota pH je indikována množstvím vodíkových iontů (H v pH) v testované chemické látce.
-Vodíkové ionty jsou protony, kterým byly odebrány elektrony (protože atomy vodíku se skládají z jednoho protonu a jednoho elektronu).

@@ -1,5 +1,0 @@
-Čeprav ima umetna inteligenca močan pomen znanstvene fantastike, je umetna inteligenca zelo pomembna veja računalništva, ki se ukvarja z vedenjem, učenjem in inteligentnim prilagajanjem v stroju.
-Raziskave na področju umetne inteligence vključujejo izdelavo strojev za avtomatizacijo nalog, ki zahtevajo inteligentno vedenje.
-Primeri vključujejo nadzor, načrtovanje in načrtovanje, sposobnost odgovarjanja na diagnoze in vprašanja strank ter prepoznavanje rokopisa, glas in obraz.
-Takšne stvari so postale ločene discipline, ki se osredotočajo na zagotavljanje rešitev za resnične življenjske probleme.
-Sistem AI se zdaj pogosto uporablja na področju ekonomije, medicine, inženiringa in vojske, kot je bil zgrajen v več programskih aplikacijah za domače računalnike in video igre.

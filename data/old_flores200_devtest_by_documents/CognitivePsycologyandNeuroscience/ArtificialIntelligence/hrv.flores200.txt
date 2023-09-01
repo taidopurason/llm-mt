@@ -1,5 +1,0 @@
-Iako umjetna inteligencija ima snažnu znanstveno-fantastičnu konotaciju, čini vrlo važnu granu informacijskih znanosti koja se bavi ponašanjem, učenjem i inteligentnom prilagodbom stroja.
-Istraživanje umjetne inteligencije uključuje izradu strojeva u svrhu automatizacije zadataka koji zahtijevaju inteligentno ponašanje.
-Primjeri uključuju kontrolu, planiranje i izradu rasporeda, sposobnost odgovaranja na dijagnoze i pitanja kupaca te prepoznavanje rukopisa, glasa i lica.
-Takve su stvari postale zasebne discipline koje se usredotočuju na pružanje rješenja za probleme iz stvarnog života.　　
-Sustav umjetne inteligencije sada se često upotrebljava u ekonomiji, medicini, građevini i vojsci jer je ugrađen u neke softverske aplikacije za  računala za kućnu upotrebu i videoigre.

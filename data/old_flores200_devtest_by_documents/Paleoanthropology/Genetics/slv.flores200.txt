@@ -1,3 +1,0 @@
-Raziskave iz dvajsetega stoletja kažejo, da obstajata dva nabora genetskih variacij: skrite in izražene.
-Mutacija doda novo genetsko variacijo, selekcija pa jo odstrani iz nabora izraženih variacij.
-Ločevanje in rekombinacija z vsako generacijo prerazporejata variacije sem ter tja med dvema naboroma.

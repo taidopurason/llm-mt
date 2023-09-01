@@ -1,3 +1,0 @@
-Výzkumy ve dvacátém století ukázaly, že existují dvě skupiny genetické variability: skrytá a vyjádřená.
-Mutace přidává novou genetickou variabilitu a selekce ji odstraňuje z fondu exprimované variability.
-Segregace a rekombinace v každé generaci přesouvají variace mezi oběma skupinami.

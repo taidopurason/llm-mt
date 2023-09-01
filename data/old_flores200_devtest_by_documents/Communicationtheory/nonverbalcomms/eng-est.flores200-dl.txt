@@ -1,4 +1,0 @@
-Videosalvestuse kasutamine on toonud kaasa olulisi avastusi mikroilmete, mõne millisekundi pikkuste näoliigutuste tõlgendamisel.
-Eelkõige väidetakse, et mikroilmete õige tõlgendamise abil saab tuvastada, kas inimene valetab.
-Oliver Sacks näitas oma artiklis "Presidendi kõne", kuidas inimesed, kes ei saa ajukahjustuse tõttu kõnest aru, suudavad siiski siirust täpselt hinnata.
-Ta viitab isegi sellele, et selliseid võimeid inimese käitumise tõlgendamisel võivad omada ka loomad, näiteks kodukoerad.

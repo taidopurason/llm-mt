@@ -1,5 +1,0 @@
-Dopravní tok je studium pohybu jednotlivých řidičů a vozidel mezi dvěma body a interakcemi, které navzájem dělají.
-Bohužel, studium toku provozu je obtížné, protože chování řidiče nelze předvídat s stoprocentní jistotou.
-Naštěstí se řidiči chovají v přiměřeně konzistentním rozsahu;Třeminy dopravy mají tedy tendenci mít přiměřenou konzistenci a mohou být matematicky zastoupeny zhruba.
-Abychom lépe představovali tok provozu, byly navázány vztahy mezi třemi hlavními charakteristikami: (1) tok, (2) hustota a (3) rychlost.
-Tyto vztahy pomáhají při plánování, navrhování a provozu silničních zařízení.

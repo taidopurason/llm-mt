@@ -1,4 +1,0 @@
-Zatímco projektové učení by mělo učení usnadnit a zajmout, strategie nazvaná "lešení" jde ještě o krok dále.
-Lešení není metoda učení, ale spíše nástroj, který pomáhá lidem, kteří se setkají s novými vzdělávacími zkušenostmi, jako je použití nového počítačového programu nebo zahájení nového projektu.
-"Lešení" může být virtuální i skutečné, jinými slovy, učitel je také forma "lešení", ale je to také malá kancelářská sponka v aplikaci Microsoft Office.
-Virtuální lešení jsou internalizována v softwaru. Jsou určeny především k dotazování a vysvětlování příliš náročných postupů studentovi, které by sám nezvládl.

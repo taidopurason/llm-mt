@@ -1,5 +1,0 @@
-Virtuální týmy mají stejné standardy dokonalosti jako konvenční týmy, ale existují jemné rozdíly.
-Členové virtuálního týmu často fungují jako kontaktní osoba pro jejich bezprostřední fyzickou skupinu.
-Často mají větší autonomii než konvenční členové týmu, protože jejich týmy se mohou setkávat podle různých časových pásem, kterým nemusí místní vedení rozumět.
-Přítomnost skutečného "neviditelného týmu" (Larson a LaFasto, 1989, str. 109) je také jedinečnou součástí virtuálního týmu.
-"Neviditelný tým" je manažerský tým, kterému je podřízen každý z členů. Neviditelný tým nastavuje standardy pro každého člena.

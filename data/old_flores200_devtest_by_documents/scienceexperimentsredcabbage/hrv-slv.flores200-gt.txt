@@ -1,4 +1,0 @@
-Temu pravimo kemični pH.Indikator je lahko rdečega zelja.
-Rasol spreminja barvo, odvisno od tega, koliko kemikalij je kislina ali osnovna (alkalna).
-Vrednost pH je označena s količino vodikovega iona (H v pH kratice) v testirani kemikaliji.
-Vodikovi ioni so protoni brez elektronov (saj atomi vodikov so sestavljeni iz enega protona in enega elektrona).

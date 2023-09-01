@@ -1,6 +1,0 @@
-Ko se majhna skupina živih bitij (majhna populacija) loči od glavne populacije, iz katere so prišli (na primer, če se preselijo čez gorovje ali reko ali če se preselijo na nov otok, da se ne morejo zlahka premakniti nazaj), se pogosto znajdejo v drugačnem okolju, kot so bili prej.
-To novo okolje ima različne vire in različne konkurente, zato bo nova populacija potrebovala različne značilnosti ali prilagoditve, da bo močan konkurent, kot je bilo prej potrebno.
-Prvotna populacija se sploh ni spremenila, še vedno potrebujejo enake prilagoditve kot prej.
-Sčasoma, ko se novo prebivalstvo začne prilagajati svojemu novemu okolju, začnejo izgledati vse manj kot druga populacija.
-Sčasoma bosta po tisočih ali celo milijonih let obe populaciji videti tako različni, da ju ne moremo imenovati ista vrsta.
-To imenujemo specifikacija procesa, kar pomeni le nastanek novih vrst. Specifikacija je neizogibna posledica in zelo pomemben del evolucije.

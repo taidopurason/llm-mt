@@ -1,5 +1,0 @@
-Technologický determinismus je pojem, který v praxi zahrnuje širokou škálu myšlenek, od technologického tlaku nebo technologického imperativu až po striktní pocit, že lidský osud je řízen základní logikou spojenou s vědeckými zákony a jejich projevem v technologii.
-Většina výkladů technologického determinismu sdílí dvě obecné myšlenky: že vývoj technologie sám o sobě se ubírá cestou, která je do značné míry mimo kulturní nebo politický vliv, a že technologie má zase "účinky" na společnosti, které jsou jim vlastní, a nikoliv společensky podmíněné.
-Například lze říci, že automobil nutně vede k rozvoji silnic.
-Celostátní silniční síť však není ekonomicky únosná pro pouhou hrstku automobilů, a proto se vyvíjejí nové výrobní metody, které snižují náklady na vlastnictví automobilu.
-Masové vlastnictví automobilů vede také k vyššímu výskytu nehod na silnicích, což vede k vynálezu nových technik ve zdravotnictví pro opravu poškozených těl.

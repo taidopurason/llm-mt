@@ -1,5 +1,0 @@
-Tehnoloogiline determinism on mõiste, mis hõlmab praktikas väga erinevaid ideid, alates tehnoloogia survest või tehnoloogilisest imperatiivist kuni rangelt mõistmiseni, et inimsaatus on juhitud teaduslikest seadustest ja nende avaldumisest tehnoloogias tulenevast loogikast.
-Enamik tehnoloogilise determinismi tõlgendusi jagab kahte üldist ideed: et tehnoloogia areng ise järgib teed, mis on suuresti väljaspool kultuurilist või poliitilist mõju, ja et tehnoloogial on omakorda ühiskonnale "mõju", mis on pigem omane kui sotsiaalselt tingitud.
-Näiteks võib öelda, et mootorsõiduk toob tingimata kaasa maanteede arengu.
-Kuid üleriigiline teedevõrk ei ole majanduslikult elujõuline vaid käputäie autode jaoks, seega töötatakse välja uued tootmismeetodid, et vähendada auto omamise kulusid.
-Autode massiline omamine toob kaasa ka suurema õnnetuste arvu teedel, mis viib uute tehnikate leiutamiseni tervishoius, et parandada kahjustatud kere.

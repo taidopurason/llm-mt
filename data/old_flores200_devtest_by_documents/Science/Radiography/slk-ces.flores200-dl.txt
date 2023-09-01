@@ -1,2 +1,0 @@
-Prakticky všechny dnes používané počítače jsou založeny na manipulaci s informacemi, které jsou zakódovány ve formě binárních čísel.
-Binární číslo může nabývat pouze jedné ze dvou hodnot, tj. 0 nebo 1. Tato čísla se v počítačovém žargonu označují jako binární číslice nebo bity.

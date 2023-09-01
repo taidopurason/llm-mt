@@ -1,4 +1,0 @@
-Kuigi projektipõhine õpe peaks omandamist lihtsustama ja huvitavamaks muutma, on hariduslike tellingute lähenemine sellest samm edasi.
-Scaffoldingu ('toestus') meetod ei ole mitte õppemeetod, vaid pigem viis toetada inimesi, kes on omandamas uut õppekogemust, nagu näiteks uue arvutprogrammi kasutamine või uue projekti alustamine.
-Tugi võib olla nii virtuaalne kui reaalne ehk teisisõnu, toeks võib olla nii õpetaja kui ka  Microsoft Office'i väike kirjaklambri-mehike.
-Tarkvarasse integreeritakse virtuaalsed astmed, mille eesmärk on kahtluse alla seada, viidata ja selgitada protseduure, mis võivad olla õpilase jaoks üksi toimetulemiseks liiga keerulised.

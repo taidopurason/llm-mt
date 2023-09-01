@@ -1,5 +1,0 @@
-Tehnološki determinizem je izraz, ki zajema široko paleto idej v praksi, od tehnoloških spodbud ali tehnoloških imperativ do strogega razumevanja, da človeška usoda izvaja osnovna logika, povezana z znanstvenimi zakoni in njihovo manifestacijo v tehnologiji.
-Večina razlage tehnološkega determinizma deli dve splošni ideji: da razvoj tehnologije sam sledi poti, ki je večinoma nad kulturnim ali političnim vplivom in da tehnologija ima "učinke" na družbe, ki so lastne in ne socialno pogojene.
-Na primer, lahko rečemo, da izum avtomobila nujno vodi do razvoja cest.
-Vendar pa cestno omrežje po vsej državi ni vredno le nekaj avtomobilov, zato so bile razvite nove proizvodne metode za zmanjšanje stroškov posesti avtomobilov.
-Množično lastništvo avtomobilov vodi številne prometne nesreče, kar vodi do odkritja novih tehnik v zdravstvu za zdravljenje poškodb.

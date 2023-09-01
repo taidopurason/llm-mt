@@ -1,2 +1,0 @@
-Často zneužívané a zesměšňované „pravidlo třetin“ je prostým vodítkem, které v obraze vytváří dynamiku při zachování určitého pořádku.
-Podle této specifikace je nejefektivnější místo pro hlavní předmět v průsečíku čar, které snímek vertikálně a horizontálně rozdělují na třetiny (viz příklad).

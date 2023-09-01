@@ -1,5 +1,0 @@
-Opravljeno delo je bilo večinoma teoretično, vendar je bil program napisan za simulacijo opazovanja ozvezdja Strelca.
-Učinek, ki ga je želela doseči ekipa, bi povzročile plimske sile med temno snovjo v galaksiji in temno snovjo v Rimski cesti.
-Tako kot Mesec privlači Zemljo in povzroči plimovanje, tudi Mlečna cesta s silo vpliva na ozvezdje Strelca.
-Znanstveniki so lahko zaključili, da je temna snov na drugo temno snov deluje podobno kot običajna snov.
-Po tej teoriji naj bi se večina temne snovi okrog galaksije zadrževala okoli nje v obliki obroča, sestavljenega iz številnih malih delcev.

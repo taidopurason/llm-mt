@@ -1,4 +1,0 @@
-Zatímco výuka založená na projektech by měla učení usnadnit a udělat jej zajímavějším, metoda scaffolding jde ještě o krok dál.
-Kostra není učební metodou, ale spíše pomůckou, která poskytuje podporu těm jedincům, kteří podstupují nabytí nové praxe, například používání nového počítačového programu nebo spouštění nového projektu.
-Lešení může být virtuální i reálné, jinými slovy, učitel je určitá forma lešení, ale stejně tak malá sponka v Microsoft Office.
-V softwaru jsou začleněny Virtuální konstrukce určené k analyzování, motivování a vysvětlování procedur, které by mohly být pro samotného studenta příliš náročné.

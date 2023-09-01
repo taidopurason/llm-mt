@@ -1,5 +1,0 @@
-Traffic Flow je proučevanje gibanja posameznih voznikov in vozil med dvema točkama ter medsebojnih interakcij.
-Na žalost je preučevanje prometnega toka težko, ker vedenja voznikov ni mogoče predvideti s stoodstotno gotovostjo.
-Na srečo se vozniki obnašajo v razumno doslednem dosegu; Tako imajo prometni tokovi običajno nekaj razumne doslednosti in jih je mogoče matematično grobo predstaviti.
-Za boljšo predstavitev prometnega toka so bile vzpostavljene povezave med tremi glavnimi značilnostmi: (1) pretokom, (2) gostoto in (3) hitrostjo.
-Ti odnosi pomagajo pri načrtovanju, načrtovanju in obratovanju cestnih objektov.

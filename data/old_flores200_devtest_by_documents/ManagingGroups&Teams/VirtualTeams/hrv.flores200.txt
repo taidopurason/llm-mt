@@ -1,5 +1,0 @@
-Virtualni timovi trebaju se pridržavati istih standarda izvrsnosti kao i konvencionalni timovi, ali postoje male razlike.
-Članovi virtualnih timova često predstavljaju dodirnu točku najbližoj fizičkoj grupi.
-Često su autonomniji od klasičnih članova tima jer se njihovi timovi mogu sastajati u različitim vremenskim zonama, što lokalna uprava možda neće razumjeti.
-"Prisutnost pravog ""nevidljivog tima"" (Larson i LaFasto, 1989., 109. str.) isto je jedinstvena komponenta virtualnog tima. 　　"
-„Nevidljivi tim“  predstavlja tim rukovodstva kojem odgovara svaki od članova. Nevidljivi tim postavlja standarde za svakog člana.

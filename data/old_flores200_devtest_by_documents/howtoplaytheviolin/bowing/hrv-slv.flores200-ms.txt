@@ -1,4 +1,0 @@
-"Oznaka "gibanje loka navzgor" izgleda kot V, "gibanje z lokom navzdol", kot sponka za papir ali kvadrat brez spodnje strani."
-Znak navzgor pomeni, da je treba začeti z vrha in potisniti lok, znak navzdol pa pomeni, da je treba začeti z žabo (kjer držimo lok z roko) in potegniti lok.
-Dvignjen lok običajno naredi mehkejši zvok, medtem ko je spuščen lok močnejši in vsiljivejši.
-Prosto dodajte svoje oznake, vendar ne pozabite, da so oznake gibanja loka natisnjene iz glasbenih razlogov, zato jih je običajno treba upoštevati.

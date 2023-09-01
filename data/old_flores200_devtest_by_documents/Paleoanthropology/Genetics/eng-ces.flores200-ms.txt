@@ -1,3 +1,0 @@
-Výzkum dvacátého století ukázal, že existují dva zdroje genetické variability: skryté a vyjádřené.
-Mutace přidává novou genetickou variabilitu a selekce ji odstraňuje ze skupiny vyjádřených variací.
-Segregace a rekombinace zaměňují variace mezi oběma skupinami s každou generací.

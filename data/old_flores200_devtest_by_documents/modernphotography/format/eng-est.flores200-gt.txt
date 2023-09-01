@@ -1,5 +1,0 @@
-Näiteks on kõige tavalisem endiselt pildifotograafia formaat maailmas 35 mm, mis oli domineeriv filmi suurus analoogfilmi ajastu lõpus.
-Seda toodetakse tänapäevalgi, kuid mis veelgi olulisem - selle kuvasuhe on päritud digitaalkaamera kujutise anduri vormingutel.
-35 mm formaat on tegelikult mõnevõrra segadusse, 36 mm laiune ja 24 mm kõrgune.
-Seetõttu väidetakse, et selle vormingu kuvasuhe (jagades kaheteistkümne võrra) on 3: 2.
-Paljud tavalised vormingud (näiteks APS -i vormingute perekond) on selle aspekti suhtega võrdsed või lähenevad sellele lähedale.

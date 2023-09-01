@@ -1,5 +1,0 @@
-Experiment Hershey a Chase byl jedním z předních návrhů, že DNA byla genetickým materiálem.
-Hershey a Chase použili fágy nebo viry k implantaci své vlastní DNA do bakterie.
-Provedli dva experimenty označující buď DNA ve fágu s radioaktivním fosforem nebo proteinem fágu s radioaktivní sírou.
-Mutace mohou mít řadu různých účinků v závislosti na typu mutace, významu postiženého kusu genetického materiálu a zda postižené buňky jsou zárodečné buňky.
-Pouze mutace v buňkách zárodečných linií mohou být přenášeny na děti, zatímco mutace jinde mohou způsobit buněčnou smrt nebo rakovinu.

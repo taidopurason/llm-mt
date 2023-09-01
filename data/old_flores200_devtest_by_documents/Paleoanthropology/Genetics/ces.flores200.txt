@@ -1,3 +1,0 @@
-Výzkum z dvacátého století ukázal, že existují dvě oblasti genetické variace: skrytá a projevená.
-Mutace přidávají novou genetickou variaci, a výběr je odstraňuje ze souboru vyjádřených variací.
-Segregace a rekombinace zamíchají v obou směrech odlišnosti mezi oběma soubory v rámci každé generace.

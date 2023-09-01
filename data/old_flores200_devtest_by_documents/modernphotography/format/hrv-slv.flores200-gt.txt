@@ -1,5 +1,0 @@
-Na primer, najpogostejša oblika fotografij na svetu je 35 mm, kar je bila glavna velikost filma na koncu dobe analognega filma.
-Še danes se proizvaja, še pomembneje pa je, da ima isto razmerje oblike slik v digitalnih kamerah.
-Dejstvo, da je 36 mm širok in 24 mm visok, je dejansko zmedeno.
-Razmerje širine in višine tega formata (deljeno z dvanajst, da dobite razmerje, izraženo s preprostimi številkami), torej 3: 2.
-Številni običajni formati (na primer formati iz skupine APS) so enaki ali najprimernejši za to razmerje širine in višine slike.

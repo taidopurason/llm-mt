@@ -1,5 +1,0 @@
-Na primer, najpogostejši format fotografije na svetu je 35 mm, kar je bila glavna velikost filma proti koncu obdobja analognega filma.
-Še danes se proizvaja, še pomembneje pa je, da ima enako razmerje formate slikovnih senzorjev v digitalnih fotoaparatih.
-Nekoliko zmedeno je dejstvo, da je format 35 mm dejansko širok 36 mm in visok 24 mm.
-Razmerje stranic tega formata (deljeno z dvanajst, da dobimo razmerje, izraženo s praštevili) je torej 3 : 2.
-Številne pogoste oblike zapisa (na primer oblike APS) so enake ali najbližje temu razmerju.

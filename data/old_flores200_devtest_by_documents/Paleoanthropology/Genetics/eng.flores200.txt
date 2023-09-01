@@ -1,3 +1,0 @@
-Twentieth century research has shown that there are two pools of genetic variation: hidden and expressed.
-Mutation adds new genetic variation, and selection removes it from the pool of expressed variation.
-Segregation and recombination shuffle variation back and forth between the two pools with each generation.

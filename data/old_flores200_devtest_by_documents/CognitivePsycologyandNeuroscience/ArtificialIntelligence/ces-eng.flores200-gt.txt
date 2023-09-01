@@ -1,5 +1,0 @@
-Although artificial intelligence has a strong connotation with science fiction, it forms a very important area of computer science dealing with behavior, learning and intelligence adaptation of machines.
-Research on artificial intelligence involves creating machines that automate tasks requiring intelligent behavior.
-Examples include checking, planning and schedule, the ability to respond to the diagnosis and questions of customers, handwriting, voice and face.
-Such things have become separate disciplines that focus on providing solving real life problems.
-The artificial intelligence system is now often used in areas of economy, medicine, engineering and military and is built in a number of home computers and video game software.

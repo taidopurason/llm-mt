@@ -1,3 +1,0 @@
-Raziskave dvajsetega stoletja so pokazale, da obstajata dva bazena genetske variabilnosti: skrita in izražena.
-Z mutacijami se dodajajo nove genetske variacije, selekcija pa jih odstranjuje iz bazena izraženih variacij.
-Segregacija in rekombinacija z vsako generacijo spreminjata variacije med obema bazenoma.

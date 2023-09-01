@@ -1,4 +1,0 @@
-Zatiaľ čo projektové učenie by malo uľahčiť učenie a urobiť ho zaujímavejším, stratégia pod názvom „scaffolding“ ide ešte o krok ďalej.
-Scaffolding („stavanie lešenia“) nie je metódou učenia sa, ale skôr pomôckou, ktorá pomáha ľudom, ktorí sa pri učení stretnú s novými skúsenosťami, napríklad používaním nového počítačového programu alebo začatí nového projektu.
-„Lešenia“ môžu byť virtuálne aj skutočné, inými slovami, učiteľ je tiež forma „lešenia“, no je ním aj malá kancelárska sponka v programe Microsoft Office.
-Virtuálne lešenia sú v softvéri internalizované. Sú určené predovšetkým na spochybnenie a vysvetlenie príliš náročných postupov študentovi, ktoré by sám nezvládol.

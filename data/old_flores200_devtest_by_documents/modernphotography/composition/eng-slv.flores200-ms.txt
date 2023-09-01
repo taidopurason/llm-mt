@@ -1,2 +1,0 @@
-Zlorabljeno in pogosto zasmehovano pravilo tretjin je preprosto vodilo, ki ustvarja dinamiko, hkrati pa ohranja mero reda na sliki.
-Navaja, da je najučinkovitejše mesto za glavni subjekt na presečišču črt, ki delijo sliko na tretjine navpično in vodoravno (glej primer).

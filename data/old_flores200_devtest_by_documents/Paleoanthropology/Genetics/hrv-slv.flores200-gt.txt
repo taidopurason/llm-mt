@@ -1,3 +1,0 @@
-Raziskave v dvajsetem stoletju so pokazale, da obstajata dve skupini genetskih različic: skriti in izražen.
-Mutacija doda novo genetsko variacijo in selekcija se odstrani iz nabora izrazitih variacij.
-Segregacija in rekombinacija v vsaki generaciji premikata spremenljivost med tema dvema viroma.

@@ -1,5 +1,0 @@
-Tehtud töö oli enamasti teoreetiline, kuid programm oli kirjutatud Amburi galaktika vaatluste simuleerimiseks.
-Mõju, mida meeskond otsis, oleks põhjustatud loodete jõududest galaktika tumeaine ja Linnutee tumeaine vahel.
-Nii nagu kuu avaldab maale tõmmet, põhjustades loodeid, nii avaldab ka Linnutee jõudu Amburi galaktikale.
-Teadlased suutsid järeldada, et tumeaine mõjutab teist tumeainet samamoodi nagu tavaline aine.
-See teooria ütleb, et enamik galaktikat ümbritsevast tumeainest asub galaktika ümber omamoodi halos ja on valmistatud paljudest väikestest osakestest.

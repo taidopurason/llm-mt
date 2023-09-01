@@ -1,4 +1,0 @@
-Kuigi projektipõhine õppimine peaks õppimise lihtsamaks ja huvitavamaks muutma, läheb tellingute tegemine sammu kaugemale.
-Tellingud ei ole õppimismeetod, vaid pigem abi, mis toetab inimestele, kellel on uus õpikogemus, näiteks uue arvutiprogrammi kasutamine või uue projekti alustamine.
-Tellingud võivad olla nii virtuaalsed kui ka reaalsed, teisisõnu, õpetaja on tellingute vorm, aga ka Microsoft Office'i väike paberklip mees.
-Virtuaalsed tellingud on tarkvarasse sisestatud ja need on mõeldud kahtluse alla seadmiseks, kiireks ja selgitamiseks, mis võisid õpilasele vaidlustada vaidlustada.

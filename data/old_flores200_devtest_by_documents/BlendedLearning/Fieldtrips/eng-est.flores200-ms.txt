@@ -1,4 +1,0 @@
-Väljasõidud on suur osa igast klassiruumist. Üsna sageli tahaks õpetaja viia oma õpilasi kohtadesse, kuhu bussireis pole võimalik.
-Tehnoloogia pakub lahendust virtuaalsete väljasõitudega. Õpilased saavad oma klassiga istudes vaadata muuseumi esemeid, külastada akvaariumi või imetleda kaunist kunsti.
-Väljasõidu jagamine virtuaalselt on ka suurepärane võimalus mõtiskleda reisi üle ja jagada kogemusi tulevaste klassidega.
-Näiteks kujundavad Põhja-Carolina Benneti kooli õpilased igal aastal veebisaidi oma reisi kohta osariigi pealinna, igal aastal kujundatakse veebisait ümber, kuid vanu versioone hoitakse võrgus, et need toimiksid külalisteraamatuna.

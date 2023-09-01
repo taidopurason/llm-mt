@@ -1,3 +1,0 @@
-Pole universaalset definitsiooni, mis määraks, millised toodetud kaubad on antiigid. Mõned maksuametid defineerivad antiikidena kaupu, mis on vanemad kui 100 aastat.
-Määratlus on eri geograafilistes piirkondades erinev, näiteks sellistes paikades nagu Põhja-Ameerika võib vanusepiirang olla lühem kui Euroopas.
-Käsitöötooteid võib nimetada antiikesemeteks, ehkki need ei ole sama vanad kui sarnased masstooted.

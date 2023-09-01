@@ -1,5 +1,0 @@
-Neurobioloogilised andmed esitavad füüsilisi tõendeid teoreetilise lähenemise jaoks kognitsiooni uurimisele. Seega piiritleb see uurimisvaldkonda ja muudab selle täpsemaks.
-Aju patoloogia ja käitumise vaheline seos toetab teadlaste uuringuid.
-Juba kaua on teada, et eri tüüpi ajukahjustused, traumad, vigastused ja kasvajad mõjutavad käitumist ning põhjustavad mõne vaimse funktsiooni muutusi.
-Uute tehnoloogiate esiletõus võimaldab meil näha ja uurida aju struktuure ja protsesse, mida pole kunagi varem nähtud.
-See andis meile palju teavet ja materjali, et luua simulatsioonimudeleid, mis aitavad meil oma ajus toimuvaid protsesse paremini mõista.

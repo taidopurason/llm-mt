@@ -1,5 +1,0 @@
-Čeprav ima AI močno konotacijo znanstvene fantastike, AI tvori zelo pomembno vejo računalništva, ki se ukvarja z vedenjem, učenjem in inteligentno prilagoditvijo v stroju.
-Raziskave v AI vključujejo izdelavo strojev za avtomatizacijo nalog, ki zahtevajo inteligentno vedenje.
-Primeri vključujejo nadzor, načrtovanje in načrtovanje, možnost odgovora na diagnoze in vprašanja strank, pa tudi prepoznavanje rokopisa, glas in obraz.
-Takšne stvari so postale ločene discipline, ki se osredotočajo na zagotavljanje rešitev resničnih življenjskih težav.
-Sistem AI se zdaj pogosto uporablja na področju ekonomije, medicine, inženiringa in vojske, kot je bilo zgrajeno v več aplikacijah za programsko opremo za računalnike in video igre.

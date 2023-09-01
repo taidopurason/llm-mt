@@ -1,5 +1,0 @@
-Umělá inteligence má silný nádech sci-fi a tvoří důležitý obor informatiky, který se zabývá chováním, učením a inteligentní adaptací robotů.
-Výzkum v oblasti umělé inteligence zahrnuje výrobu strojů pro automatizaci úkolů, které vyžadují inteligentní chování.
-Mezi takové případy patří řízení, plánování a rozvrhování, schopnost odpovídat na diagnózy a dotazy zákazníků, stejně jako rozpoznávání rukopisu, hlasu a obličeje.
-Staly se z nich samostatné disciplíny, které se zaměřují na poskytování řešení životních problémů.
-Umělá inteligence se dnes často používá v ekonomice, medicíně, strojírenství a armádě, protože byla zabudována do několika aplikací v domácích počítačích nebo aplikací v softwaru videoher.

@@ -1,4 +1,0 @@
-Seda nimetatakse kemikaali pH-ks. Indikaatori saate teha punase kapsamahla abil.
-Kapsamahl muudab värvi sõltuvalt sellest, kui happeline või aluseline (leeliseline) kemikaal on.
-PH taset näitab vesiniku (H pH) ioonide kogus testitud kemikaalis.
-Vesinikioonid on prootonid, mille elektronid eemaldati (kuna vesinikuaatomid koosnevad ühest prootonist ja ühest elektronist).

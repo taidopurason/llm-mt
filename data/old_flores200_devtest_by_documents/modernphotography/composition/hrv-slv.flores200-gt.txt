@@ -1,2 +1,0 @@
-Tretjina tretjine, ki je pogosto kršena in zasmehovana, je preprosta vodilo za ustvarjanje dinamike z določenim zadrževanjem reda na sliki.
-Navaja, da je to najučinkovitejše mesto za glavni objekt na križiščih, ki sliko delijo na tretjo navpično in vodoravno (glej primer).

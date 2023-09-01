@@ -1,2 +1,0 @@
-Velmi často používané, ale také zesměšňované, je jednoduché pravidlo třetin, které vytváří dynamiku při zachování míry uspořádanosti obrazu.
-Tvrdí, že nejefektivnější místo pro hlavní subjekt je na průsečíku čar, které rozdělují obraz na třetiny vertikálně a horizontálně (viz příklad).

@@ -1,5 +1,0 @@
-Například nejběžnějším formátem fotografie ve světě je 35mm, což byla nejčastější velikost filmu ve vrcholu éry analogových filmů.
-Vyrábějí se dodnes, ale důležitější je, že jejich poměr stran převzaly i formáty snímače digitálních fotoaparátů.
-Ačkoliv je to poněkud matoucí, formát 35mm má ve skutečnosti šířku 36mm a výšku 24mm.
-Poměr stran tohoto formátu (vyděleno dvanácti pro získání nejjednoduššího poměru v celých číslech) je tedy 3:2.
-Mnoho běžných formátů (například rodina formátů APS) se rovnají nebo těsně blíží tomuto poměru stran.

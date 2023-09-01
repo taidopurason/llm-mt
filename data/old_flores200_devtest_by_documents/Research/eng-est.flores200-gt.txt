@@ -1,5 +1,0 @@
-Tehtud töö oli enamasti teoreetiline, kuid programm kirjutati simuleerimiseks Amburi galaktika vaatluste simuleerimiseks.
-Meeskonna otsinud efekti põhjustavad Galaxy tumeda aine ja Linnutee tumeda aine vahel loodejõud.
-Nii nagu Kuu avaldab maa peal tõmbe, põhjustades loodete, ka Linnutee jõudu Ambur Amburi galaktikas.
-Teadlased suutsid järeldada, et tume aine mõjutab teist tumedat ainet samamoodi nagu tavaline asi.
-See teooria ütleb, et enamik galaktika ümbruses asuvat tumedat ainet asub galaktika ümber omamoodi halos ja on valmistatud paljudest väikestest osakestest.

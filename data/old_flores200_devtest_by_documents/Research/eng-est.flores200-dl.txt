@@ -1,5 +1,0 @@
-Tehtud töö oli peamiselt teoreetiline, kuid programm oli kirjutatud, et simuleerida Sagittariuse galaktikast tehtud vaatlusi.
-Efekt, mida töörühm otsis, oleks tingitud galaktika tumeda aine ja Linnutee tumeda aine vahelistest loodetejõududest.
-Nii nagu Kuu avaldab Maale tõmbejõudu, mis põhjustab loodete tekkimist, nii avaldab Linnutee jõudu ka Amburiga galaktikale.
-Teadlased suutsid järeldada, et tumeaine mõjutab teisi tumeaineid samamoodi nagu tavaline aine.
-See teooria ütleb, et enamik tumedast ainest galaktika ümber asub galaktika ümber omamoodi halos ja koosneb paljudest väikestest osakestest.

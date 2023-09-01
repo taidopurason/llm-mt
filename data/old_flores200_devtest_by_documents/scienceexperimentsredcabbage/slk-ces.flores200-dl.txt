@@ -1,4 +1,0 @@
-Nazývá se pH chemikálie. Indikátor lze vyrobit ze šťávy z červeného zelí.
-Zelná šťáva mění barvu podle toho, jak kyselá nebo zásaditá (alkalická) je chemická látka.
-Úroveň pH se určuje podle počtu vodíkových iontů (H v pH) ve zkoumané chemikálii.
-Vodíkové ionty jsou protony, kterým byly odebrány elektrony (protože atomy vodíku se skládají z jednoho protonu a jednoho elektronu).

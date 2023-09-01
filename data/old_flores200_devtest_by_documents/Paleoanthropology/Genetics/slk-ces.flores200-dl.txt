@@ -1,3 +1,0 @@
-Výzkum ve dvacátém století ukázal, že existují dvě skupiny genetických variací: skryté a viditelné.
-Mutace přidává nové genetické variace a selekce je odstraňuje ze skupiny zjevných variací.
-Segregace a rekombinace v každé generaci promíchávají variace mezi těmito dvěma skupinami.

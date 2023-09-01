@@ -1,5 +1,0 @@
-Prometni tok je preučiti gibanje posameznih voznikov in vozil med obema točkama in interakcijami, ki jih dosegata med seboj.
-Na žalost je preučevanje prometnega tečaja težko, saj vedenja voznika ni mogoče napovedati s 100 -odstotno gotovostjo.
-Na srečo se vozniki običajno obnašajo razmeroma dosledno, zato imajo prometni tokovi določeno razumno doslednost in so lahko oprijemljivi.
-Za boljši prikaz poteka prometa so bile določene povezave med tremi glavnimi značilnostmi: (1) tečaj, (2) gostota in (3) hitrost.
-Ti odnosi pomagajo pri načrtovanju, oblikovanju in delu cestne infrastrukture.

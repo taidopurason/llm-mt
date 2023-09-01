@@ -1,2 +1,0 @@
-Pravilo trećina, koje se često iskorištava i često ismijava, jednostavno je smjernica koja stvara dinamičnost i istovremeno pruža mjerilo za uređenje slike.
-Nakon toga, najučinkovitije mjesto za glavni objekt treba biti na sjecištu linija koje dijele sliku na trećine okomito i vodoravno (vidi primjer).

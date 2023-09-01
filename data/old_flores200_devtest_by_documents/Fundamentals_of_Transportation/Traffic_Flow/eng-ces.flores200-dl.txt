@@ -1,5 +1,0 @@
-Dopravní proud je studium pohybu jednotlivých řidičů a vozidel mezi dvěma body a jejich vzájemné interakce.
-Studium dopravního proudu je bohužel obtížné, protože chování řidičů nelze předvídat se stoprocentní jistotou.
-Naštěstí mají řidiči tendenci chovat se v přiměřeně konzistentním rozmezí; dopravní proudy tak mají tendenci vykazovat určitou rozumnou konzistenci a lze je zhruba matematicky znázornit.
-Pro lepší reprezentaci dopravního proudu byly stanoveny vztahy mezi třemi hlavními charakteristikami: (1) průtokem, (2) hustotou a (3) rychlostí.
-Tyto vztahy pomáhají při plánování, navrhování a provozu silničních zařízení.

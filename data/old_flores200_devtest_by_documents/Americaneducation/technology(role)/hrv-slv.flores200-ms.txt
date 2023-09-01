@@ -1,4 +1,0 @@
-Medtem ko bi učenje na projektu moralo olajšati učenje in ga narediti bolj zanimivo, gre namestitev odra še korak dlje.
-Vgradnja zidarskih odrov, t.j. Zidarski odri niso izobraževalna metoda, temveč podpora posameznikom, ki imajo pred seboj novo učno izkušnjo, npr. uporabo novega računalniškega programa ali začetek novega projekta.
-Odri so lahko virtualni in resnični; Z drugimi besedami, učitelj je oblika odra in animirana sponka za papir, ki se pojavi v programih Microsoft Office.
-Virtualna namestitev zidarskega odra je internalizirana v programski opremi in je namenjena pregledu, sklicevanju in razlagi postopkov, ki lahko študentu predstavljajo prevelik izziv, da bi ga rešil sam.

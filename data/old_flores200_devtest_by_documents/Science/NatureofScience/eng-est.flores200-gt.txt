@@ -1,2 +1,0 @@
-Teaduse peamine eesmärk on välja mõelda, kuidas maailm töötab teadusliku meetodi kaudu.See meetod juhib tegelikult enamikku teaduslikke uuringuid.
-See pole siiski üksi, eksperimenteerimine ja eksperiment on test, mida kasutatakse ühe või mitme võimaliku hüpoteesi kõrvaldamiseks, küsimuste esitamiseks ja vaatluste tegemiseks ka teaduslike uuringute juhendamiseks.

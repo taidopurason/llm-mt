@@ -1,4 +1,0 @@
-Tomu se říká hodnota pH chemikálie. Můžete si sami vytvořit indikátor pomocí džusu z červeného zelí.
-Šťáva ze zelí mění barvu podle toho, jak je chemikálie kyselá nebo zásaditá (alkalická).
-Hodnota pH se určuje podle množství iontů vodíku (písmeno H v pH) v testované chemikálii.
-Vodíkové ionty jsou protony, jimž byly odebrány elektrony (protože atomy vodíku se skládají z jednoho protonu a jednoho elektronu).

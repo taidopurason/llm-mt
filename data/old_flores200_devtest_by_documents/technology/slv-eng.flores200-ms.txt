@@ -1,2 +1,0 @@
-NextGen is a system that the FAA claims would allow aircraft to fly shorter routes, saving millions of gallons of fuel annually and reducing carbon emissions.
-It uses satellite-based technology rather than old land-based radar technology, allowing flight controllers to more accurately locate an aircraft's location and give pilots more accurate information.

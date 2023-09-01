@@ -1,3 +1,0 @@
-Výskum v dvadsiatom storočí ukázal, že existujú dve skupiny genetických variácií: skryté a viditeľné.
-Mutácia pridáva nové genetické variácie a selekcia ich zase odstraňuje zo skupiny prejavených variácií.
-Segregácia a rekombinácia premiešajú variácie medzi týmito dvoma skupinami s každou generáciou.

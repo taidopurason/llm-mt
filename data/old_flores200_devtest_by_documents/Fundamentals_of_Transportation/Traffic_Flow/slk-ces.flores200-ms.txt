@@ -1,5 +1,0 @@
-Dopravní tok je výsledkem pozorování pohybu jednotlivých řidičů a vozidel mezi dvěma body a pozorování jejich vzájemného působení.
-Studium dopravního toku je bohužel náročné, protože chování řidičů nelze předvídat se stoprocentní jistotou.
-Naštěstí se řidiči chovají přiměřeně konzistentně, a proto se konzistentně chovají i dopravní toky, které lze zhruba matematicky znázornit.
-Pro lepší reprezentaci dopravního toku byly definovány vztahy mezi těmito třemi hlavními charakteristikami: (1) intenzita, (2) hustota a (3) rychlost.
-Tyto vztahy pomáhají při plánování, projektování a provozu silnic.

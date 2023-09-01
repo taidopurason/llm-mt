@@ -1,5 +1,0 @@
-For example, the most widely used photographic format for immovable images in the world is 35 mm, which was the dominant film size at the end of analog film.
-It is still used today, but it is more important that its image ratio has also been taken over by the formats of the digital cameras image sensors.
-The 35mm format actually-and somewhat unusual-measures 36 mm in width and 24 mm in height.
-The image ratio of this format (we divide by twelve to gain the most basic relationship in the form of a whole number) is therefore 3: 2.
-Many of the usual formats (ASP Family Format) are the same or very close to that ratio between height and width.

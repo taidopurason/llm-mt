@@ -1,2 +1,0 @@
-Praktično vsi danes uporabljeni računalniki temeljijo na ravnanju z informacijami, kodiranimi v obliki binarnih številk.
-Binarna številka ima lahko le eno od dveh vrednosti, tj.

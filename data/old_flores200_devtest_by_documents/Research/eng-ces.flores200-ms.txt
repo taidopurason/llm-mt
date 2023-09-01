@@ -1,5 +1,0 @@
-Provedená práce byla většinou teoretická, ale program byl napsán tak, aby simuloval pozorování galaxie Sagittarius.
-Efekt, který tým hledal, by byl způsoben slapovými silami mezi temnou hmotou galaxie a temnou hmotou Mléčné dráhy.
-Stejně jako Měsíc působí na Zemi a způsobuje příliv a odliv, tak i Mléčná dráha působí silou na galaxii Střelec.
-Vědci byli schopni dospět k závěru, že temná hmota ovlivňuje jinou temnou hmotu stejným způsobem jako běžná hmota.
-Tato teorie říká, že většina temné hmoty kolem galaxie se nachází kolem galaxie v jakémsi halo a je tvořena spoustou malých částic.

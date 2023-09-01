@@ -1,3 +1,0 @@
-Itaalia keeles on hääldamine küllaltki lihtne, kuna enamik sõnu hääldatakse täpselt nii, nagu neid kirjutatakse.
-Põhilised tähed, millele tähelepanu pöörata, on c ja g, kuna nende hääldus muutub olenevalt järgmisest täishäälikust.
-"Samuti hääldage r-i ja rr-i kindlasti erinevalt: caro tähendab ""kallis"", kuid carro tähendab ""kaarik""."

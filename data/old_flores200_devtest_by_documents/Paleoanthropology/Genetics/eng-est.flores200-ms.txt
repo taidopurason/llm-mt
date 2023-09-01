@@ -1,3 +1,0 @@
-Kahekümnenda sajandi uuringud on näidanud, et geneetilise variatsiooni kogumeid on kaks: peidetud ja väljendatud.
-Mutatsioon lisab uue geneetilise variatsiooni ja valik eemaldab selle väljendatud variatsiooni kogumist.
-Segregatsioon ja rekombinatsioon segavad iga põlvkonnaga kahe basseini vahel edasi-tagasi variatsioone.

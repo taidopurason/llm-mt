@@ -1,2 +1,0 @@
-Praktički sva računala koja se danas upotrebljavaju temeljena su na rukovanju informacijama koje su kodirane u obliku binarnih brojeva.
-Binarni broj može imati samo jednu od dvije vrijednosti, tj. 0 ili 1, a ti se brojevi nazivaju binarnim znamenkama ili bitovima u računalnom žargonu.

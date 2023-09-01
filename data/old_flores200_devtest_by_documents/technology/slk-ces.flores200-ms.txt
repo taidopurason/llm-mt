@@ -1,2 +1,0 @@
-NextGen je systém, který podle FAA umožňuje letadlům létat na kratších trasách, což každoročně šetří miliony litrů paliva a snižuje emise uhlíku.
-Na rozdíl od starších technologií založených na pozemních radarech využívá satelitní technologii, která umožňuje řídícím letového provozu přesněji identifikovat letadlo a poskytovat pilotům přesnější informace.

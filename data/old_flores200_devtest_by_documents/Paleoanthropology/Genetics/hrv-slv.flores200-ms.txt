@@ -1,3 +1,0 @@
-Raziskave v dvajsetem stoletju so pokazale, da obstajata dve skupini genetskih variacij: prikrite in izrazite.
-Mutacija dodaja novo genetsko variacijo, selekcija pa jo odstrani iz niza izrazitih variacij.
-Ločevanje in rekombinacija pri vsaki generaciji spreminjata variabilnost med obema viroma.

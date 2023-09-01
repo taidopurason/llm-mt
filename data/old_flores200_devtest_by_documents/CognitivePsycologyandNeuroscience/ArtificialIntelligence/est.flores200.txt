@@ -1,5 +1,0 @@
-Kuigi AI-d seostatakse tugevalt teadusulmega, on AI vormid väga oluline arvutiteaduse haru, mis tegeleb masina käitumise, õppimise ja intelligentse kohanemisega.
-AI uurimine hõlmab masinate automatiseerimist selliselt, et nad lahendaksid ülesandeid, mis nõuavad intelligentset käitumist.
-Näited hõlmavad kontrollimist, planeerimist ja ajakava koostamist, klientide diagnoosidele ja küsimustele vastamise oskust, aga ka käekirja-, hääle- ja näotuvastust.
-Sellised asjad on muutunud eraldi distsipliinideks, mis keskenduvad päriselu probleemide jaoks lahenduste otsimisele.
-Tehisintellekti süsteemi kasutatakse nüüd tihti majanduse, meditsiini, inseneriteaduse ja militaarvaldkondades, ning see on ehitatud ka mitmetesse koduarvutitesse ja videomängude tarkvara rakendustesse.

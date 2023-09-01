@@ -1,5 +1,0 @@
-Prometni tok je študija gibanja posameznih voznikov in vozil med dvema točkama ter njihove medsebojne interakcije.
-Žal je preučevanje prometnega toka težavno, saj vedenja voznikov ni mogoče predvideti s stoodstotno gotovostjo.
-K sreči se vozniki običajno obnašajo v razumno doslednem območju; zato imajo prometni tokovi običajno neko razumno doslednost in jih je mogoče v grobem matematično predstaviti.
-Za boljšo predstavitev prometnega toka so bili vzpostavljeni odnosi med tremi glavnimi značilnostmi: (1) pretokom, (2) gostoto in (3) hitrostjo.
-Ti odnosi pomagajo pri načrtovanju, oblikovanju in upravljanju cestnih objektov.

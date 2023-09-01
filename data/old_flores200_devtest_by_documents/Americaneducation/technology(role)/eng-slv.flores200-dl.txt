@@ -1,4 +1,0 @@
-Projektno učenje bi moralo olajšati in narediti učenje bolj zanimivo, vendar pa so lestenci še korak dlje.
-Scaffolding ni metoda učenja, temveč pomoč, ki zagotavlja podporo posameznikom, ki se učijo nekaj novega, na primer uporabljajo nov računalniški program ali začenjajo nov projekt.
-Oporišča so lahko virtualna in resnična, z drugimi besedami, učitelj je oblika podpornega sistema, prav tako pa tudi mali možakar v pisarni Microsoft Office.
-Virtualne opornice so vključene v programsko opremo in so namenjene spraševanju, spodbujanju in pojasnjevanju postopkov, ki bi lahko bili za učenca preveč zahtevni, da bi jih zmogel sam.

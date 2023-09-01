@@ -1,4 +1,0 @@
-Tomu se nazývá chemická pH.Můžete vytvořit indikátor pomocí červené zelí.
-Zelí šťáva mění barvu v závislosti na tom, jak kyselá nebo základní (alkalická) je chemikálie.
-Hladina pH je indikována množstvím vodíku (H v pH) v testované chemikálii.
-Vodíkové ionty jsou protony, které z nich byly jejich elektrony odstraněny (protože atomy vodíku se skládají z jednoho protonu a jednoho elektronu).

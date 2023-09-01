@@ -1,4 +1,0 @@
-Značka „String Up“ vypadá jako značka V a značka „String Down“ jako spánek nebo čtverec, který nemá dno.
-Nahoře to znamená, že byste měli začít od špičky a zatlačit na řetězec, zatímco dole znamená, že byste měli začít od žáby (místo, kde držíte řetězec) a vytáhnout řetězec.
-Horní část luku obvykle vytváří měkčí zvuk, zatímco spodní část luku je silnější a odolnější.
-Neváhejte a napište své vlastní stopy, ale pamatujte, že tištěné poznámky jsou zde z hudebních důvodů, takže byste je měli obvykle nechat.

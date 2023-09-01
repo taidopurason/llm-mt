@@ -1,4 +1,0 @@
-Imenuje se kemični pH. Indikator za vas je lahko sok rdečega zelja.
-Slanica spreminja barvo glede na to, kako kisla ali bazična (alkalna) je kemikalija.
-Vrednost pH se pokaže s količino vodikovih ionov (H v kratici pH) v preskusni kemikaliji.
-Vodikovi ioni so protoni brez elektronov (ker so atomi vodika sestavljeni iz enega protona in enega elektrona).

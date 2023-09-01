@@ -1,5 +1,0 @@
-The Hershey-Chase experiment was one of the main proofs that DNA is genetic material.
-Hershey and Chase used phages or viruses to implant their own DNA into bacteria.
-They conducted two experiments in which they either labeled the DNA in the phage with radioactive phosphorus or the protein in the phage with radioactive sulfur.
-Mutations can have different effects depending on the type of mutation, the significance of the piece of genetic material affected, and whether germline cells were affected.
-Only mutations in germline cells can be passed on to children, while mutations occurring elsewhere can cause cell death or cancer.

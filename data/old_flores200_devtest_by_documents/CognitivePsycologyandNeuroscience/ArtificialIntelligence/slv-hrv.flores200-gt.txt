@@ -1,5 +1,0 @@
-Iako umjetna inteligencija ima snažan ton znanstvene fantastike, sastoji se od vrlo važne grane informatike koja se bavi ponašanjem, učenjem i inteligentnom prilagodbom stroja.
-Istraživanje u AI pokriva proizvodnju automatizacijskih strojeva koji zahtijevaju inteligentno ponašanje.
-Primjeri uključuju nadzor, planiranje i zakazivanje, mogućnost odgovora na dijagnoza i pitanja o kupcima i identificiranje fonta, glasa i lica.
-Te su stvari postale zasebne industrije koje su usredotočene na pružanje rješenja stvarnim životnim problemima.
-Sustav umjetne inteligencije često se koristi u područjima ekonomije, medicine, inženjerstva i vojske, jer je instaliran u brojnim softverima za računala i videoigre.
