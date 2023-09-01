@@ -1,5 +1,7 @@
 import os
-from translate_azure import translate_file
+from translate_gt import translate_file
+import shutil
+from tqdm import tqdm
 
 def is_leaf_folder(folder_path):
     for _, _, filenames in os.walk(folder_path):
@@ -20,6 +22,12 @@ lang_map = {
 }
 
 languagepairs = [
+    ["en", "et"],
+    ["en", "cs"],
+    ["en", "sl"],
+    ["et", "en"],
+    ["cs", "en"],
+    ["sl", "en"],
     ["sk", "cs"],
     ["hr", "sl"],
     ["sl", "hr"]
@@ -27,20 +35,30 @@ languagepairs = [
 
 #lang_map["en-gb"] = "eng"
 
-for dirpath, dirnames, filenames in os.walk(root_folder):
-    if is_leaf_folder(dirpath):
+for root, dirs, files in os.walk(root_folder):
+    for dir in tqdm(dirs):
         for lp in languagepairs:
             #if(lp[1] == "en"):
             #    lp[1] = "en-gb"
-            src_file_path = os.path.join(dirpath, f"{lang_map[lp[0]]}.flores200.txt")
-            tgt_file_path = os.path.join(dirpath, f"{lang_map[lp[0]] + '-' + lang_map[lp[1]]}.flores200-ms.txt")
+            src_file_path = os.path.join(root, f"{dir}/{lang_map[lp[0]]}.flores200.txt")
+            tgt_file_path = f"../data/translated/{lp[0]}_{lp[1]}_GT_flores200_devtest_by_documents/flores200_devtest_by_documents/{dir}/{lang_map[lp[0]]}.flores200.txt"
 
-            if os.path.exists(src_file_path):
+            if os.path.exists(tgt_file_path):
+                continue
+            else:
+
+                tgt_folder_path = os.path.dirname(tgt_file_path)
+                os.makedirs(tgt_folder_path, exist_ok=True)
+
                 translate_file(
                     src_lang=lp[0],
                     tgt_lang=lp[1],
                     src_file=src_file_path,
                     experiment_name=tgt_file_path
                     )
-            else:
-                print(f"Source file {src_file_path} does not exist. Skipping.")
+            
+
+for lp in languagepairs:
+    folder_to_zip = f"../data/translated/{lp[0]}_{lp[1]}_GT_flores200_devtest_by_documents/"
+    shutil.make_archive(folder_to_zip, 'zip', folder_to_zip)
+    shutil.rmtree(folder_to_zip)

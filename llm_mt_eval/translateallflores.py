@@ -18,7 +18,7 @@ languagepairs = [
     ["en", "et"],
     ["en", "cs"],
     ["en", "sl"],
-    ["ee", "en"],
+    ["et", "en"],
     ["cs", "en"],
     ["sl", "en"],
     ["sk", "cs"],
