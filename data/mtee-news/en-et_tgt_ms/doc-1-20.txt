@@ -1,9 +1,0 @@
-Tesla: sajad lukustati autodest pärast serveri katkestust
-Umbes 500 Tesla elektriautode kasutajat ei saanud oma sõidukitega ühendust luua, kusjuures Elon Musk ütles, et ettevõtte mobiilirakendus "peaks nüüd võrku tagasi tulema".
-Umbes 500 Tesla autoomanikku ei saanud rakenduseserveri katkestuse tõttu oma sõidukitega ühendust luua.
-Tesla tegevjuht Elon Musk ütles reedel, et ettevõtte mobiilirakendus on pärast katkestust taas internetti jõudmas.
-Ta säutsus vastuseks Tesla omanikule, kes ütles, et tal oli Lõuna-Koreas Soulis oma Model 3 ühendamisel iOS-i rakenduse kaudu "500 serveri viga".
-"Peaks nüüd veebi tagasi tulema," ütles Musk.
-"Paistab, et oleme kogemata suurendanud võrguliikluse paljusõnalisust."
-Umbes 500 Tesla kasutajat teatasid, et seisavad silmitsi veaga umbes kell 9.40 GMT paiku, vastavalt katkestuste jälgimise veebisaidile Downdetector.
-2.20 GMT seisuga oli üle 60 teate.
