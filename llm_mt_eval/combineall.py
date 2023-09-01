@@ -27,7 +27,7 @@ languagepairs = [
 ind = 0
 
 mt_models = ["GT","OL","MS","DL"]
-datasets = ["flores200_devtest_by_documents","wmt-en-cs","wtee-news"]
+datasets = ["flores200_devtest_by_documents","wmt-en-cs","mtee-news"]
 methods = ["many","one"]
 
 for model in tqdm(mt_models):
@@ -39,10 +39,19 @@ for model in tqdm(mt_models):
 
                 combined_contents = ""
 
-                if(os.path.exists(zip_file_path)):
+                if os.path.exists(zip_file_path):
                     with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
                         for file_info in zip_ref.infolist():
-                            if file_info.filename.startswith(f'{dataset}/') and file_info.filename.endswith('.txt'):
+                            valid_file = False
+
+                            if dataset == "flores200_devtest_by_documents":
+                                valid_file = file_info.filename.startswith(f'{dataset}/') and file_info.filename.endswith('.txt')
+                            elif dataset == "wmt-en-cs":
+                                valid_file = file_info.filename.startswith(f'wmt-en-cs/') and file_info.filename.endswith('.txt')
+                            elif dataset == "mtee-news":
+                                valid_file = file_info.filename.startswith(f'mtee-news/{lp[0]}_src/') and file_info.filename.endswith('.txt')
+
+                            if valid_file:
                                 with zip_ref.open(file_info.filename) as file:
                                     file_contents = file.read().decode('utf-8').strip()
 
@@ -58,4 +67,3 @@ for model in tqdm(mt_models):
                         f.write(combined_contents)
                 else:
                     continue
-
