@@ -26,7 +26,7 @@ languagepairs = [
 
 ind = 0
 
-mt_models = ["GT","OL","MS","DL"]
+mt_models = ["GT","OL","MS","DL","chatgpt-doc-p2-delim"]
 datasets = ["flores200_devtest_by_documents","wmt-en-cs","mtee-news"]
 methods = ["many","one"]
 
