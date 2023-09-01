@@ -2,7 +2,7 @@ from deepl import Translator
 from utils import read_lines, write_text
 
 def translate_text(text, src_lang, dest_lang):
-    translator = Translator("e0f1b15b-18d6-a8e0-b197-b00cde1fecd5:fx")  # Replace with your DeepL API key
+    translator = Translator("d99bb6ea-1a18-bfd4-707f-2b3b59b6dc72:fx")  # Replace with your DeepL API key
     translated = translator.translate_text(text, target_lang=dest_lang, source_lang=src_lang)
     return translated.text
 
