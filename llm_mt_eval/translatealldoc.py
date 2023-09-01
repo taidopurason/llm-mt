@@ -25,7 +25,8 @@ languagepairs = [
     ["sk", "cs"]
 ]
 
-lang_map["en-gb"] = "eng"
+##Uncomment for Deepl
+#lang_map["en-gb"] = "eng"
 
 for root, dirs, files in os.walk(root_folder):
     for dir in tqdm(dirs):
@@ -40,17 +41,18 @@ for root, dirs, files in os.walk(root_folder):
                 tgt_folder_path = os.path.dirname(tgt_file_path)
                 os.makedirs(tgt_folder_path, exist_ok=True)
 
-
-                if(lp[1] == "en"):
-                    lp[1] = "en-gb"
+                #Uncomment for Deepl
+                #if(lp[1] == "en"):
+                #    lp[1] = "en-gb"
                 translate_file(
                     src_lang=lp[0],
                     tgt_lang=lp[1],
                     src_file=src_file_path,
                     experiment_name=tgt_file_path
                     )
-                if(lp[1] == "en-gb"):
-                    lp[1] = "en"
+                #Uncomment for Deepl
+                #if(lp[1] == "en-gb"):
+                #    lp[1] = "en"
             
 
 for lp in languagepairs:
