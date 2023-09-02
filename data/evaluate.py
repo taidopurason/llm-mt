@@ -2,10 +2,15 @@
 
 import os
 import pandas as pd
+import json
 
 from typing import List, Optional
 from sacrebleu.metrics import BLEU, CHRF, TER
 from comet import download_model, load_from_checkpoint
+
+def write_json(json_object: object, file_path: str):
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(json_object, f, indent=4, default=str)
 
 def calculate_metrics(src_file, tgt_file, ref_file, metric: str):
     metric = metric.lower()
@@ -56,54 +61,55 @@ def calculate_metrics(src_file, tgt_file, ref_file, metric: str):
     return score
 
 HOME_DIR = ''
+DATA_DIR = HOME_DIR + 'translated/combined'
 
-REFERENCE_DIR = HOME_DIR + 'flores200_devtest_by_documents/combined'
-TRANSLATION_DIR = HOME_DIR + 'translated/combined'
+DATASETS = ['flores200_devtest_by_documents']
+SYSTEMS = [ 'DL', 'GT', 'MS', 'OL']
+CATEGORIES = ['one', 'many']
 
-lang_map = {"en":"eng","et":"est","sl":"slv","cs":"ces"}
-languagepairs = []
-for lang1 in lang_map.keys():
-    for lang2 in lang_map.keys():
-        if lang1 == "en" or lang2 == "en":
-            if lang1 != lang2:
-                languagepairs.append([lang1,lang2])
+LANGUAGE_PAIRS = []
+LANGUAGE_PAIRS.append(['en','et'])
+LANGUAGE_PAIRS.append(['en','cs'])
+LANGUAGE_PAIRS.append(['en','sl'])
+LANGUAGE_PAIRS.append(['et','en'])
+LANGUAGE_PAIRS.append(['cs','en'])
+LANGUAGE_PAIRS.append(['sl','en'])
+LANGUAGE_PAIRS.append(['sk','cs'])
+LANGUAGE_PAIRS.append(['sl','hr'])
+LANGUAGE_PAIRS.append(['hr','sl'])
 
-languagepairs.append(['sk','cs'])
-languagepairs.append(['sl','hr'])
-languagepairs.append(['hr','sl'])
+SCORES = {}
 
-#print(languagepairs)
-#print(len(languagepairs))
+for dataset in DATASETS:
+    print(f"{dataset}")
+    SCORES[dataset] = {}
 
-SOURCE = 'cs'   # en, et, cs, sl, sk, hr
-TARGET = 'en'   # en, et, cs, sl, sk, hr
-SYSTEM = 'DL'   # DL, GT, MS, OL
-TYPE = 'one'    # one, many
-DATASET = 'flores200_devtest_by_documents'
+    for lp in LANGUAGE_PAIRS:
+        pair = f"{lp[0] + '-' + lp[1]}" 
+        print(pair)
+        SCORES[dataset][pair] = {}
 
-for lp in languagepairs:
-    print(f"{lp[0] + '-' + lp[1]}")
+        SOURCE = lp[0]   # en, et, cs, sl, sk, hr
+        TARGET = lp[1]   # en, et, cs, sl, sk, hr
 
-ref_file = f"{REFERENCE_DIR}/{TARGET}_{TYPE}.ref"
-src_file = f"{REFERENCE_DIR}/{SOURCE}_{TYPE}.ref"
-transl_file = f"{TRANSLATION_DIR}/{SOURCE}_{TARGET}_{SYSTEM}_{DATASET}_{TYPE}.txt"
+        for system in SYSTEMS:
+            print(f"{system}")
+            SCORES[dataset][pair][system] = {}
 
-#for metric in ["unbabel-wmt22-comet-da", "chrf", "chrf++", "bleu", "ter"]:
-for metric in ["chrf", "chrf++", "bleu"]:
-    score = calculate_metrics(src_file, transl_file, ref_file, metric)
+            if (system == 'DL' and (SOURCE == 'hr' or TARGET == 'hr')) or (system == 'OL' and (SOURCE == 'et' or TARGET == 'et')):
+                continue
+            
+            for category in CATEGORIES:
+                print(f"{category}")
+                SCORES[dataset][pair][system][category] = {}
 
-    #print(f"{dom}: {lp[0] + '-' + lp[1]}")
-    #src_file = f"../data/flores200_dataset_filtered/{dom}/{lang_map[lp[0]]}.flores200.txt"
-    #tgt_file = f"../data/flores200_dataset_filtered/{dom}/{lp[0] + '-' +lp[1]}-gt.flores200.txt"
-    #ref_file = f"{REFERENCE_DIR}//{lang_map[lp[0]]}.flores200.txt"
+                ref_file = f"{DATA_DIR}/{TARGET}_{dataset}_{category}.ref"
+                src_file = f"{DATA_DIR}/{SOURCE}_{dataset}_{category}.ref"
+                transl_file = f"{DATA_DIR}/{SOURCE}_{TARGET}_{system}_{dataset}_{category}.txt"
 
-#for dom in domains:
-#    for lp in languagepairs:
+                for metric in ["unbabel-wmt22-comet-da", "chrf", "chrf++", "bleu"]:
+                    score = calculate_metrics(src_file, transl_file, ref_file, metric)
 
-#        print(f"{dom}: {lp[0] + '-' + lp[1]}")
-#        src_file = f"../data/flores200_dataset_filtered/{dom}/{lang_map[lp[0]]}.flores200.txt"
-#        tgt_file = f"../data/flores200_dataset_filtered/{dom}/{lp[0] + '-' +lp[1]}-gt.flores200.txt"
-#        ref_file = f"../data/flores200_dataset_filtered/{dom}/{lang_map[lp[1]]}.flores200.txt"
+                    SCORES[dataset][pair][system][category][metric] = score
 
-#for metric in ["unbabel-wmt22-comet-da", "chrf", "chrf++", "bleu", "ter"]:
-#  score = calculate_metrics(src_file, tgt_file, ref_file, metric)
+    write_json(SCORES, HOME_DIR + dataset + '-scores.json')
