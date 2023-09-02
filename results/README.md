@@ -21,8 +21,7 @@ FLORES-200 results. P1 is from [https://arxiv.org/pdf/2304.02210.pdf](https://ar
 | DeepL                   | et-en   | mtee-news | 65.9         | **39.6** | 0.8441                               | 68.6     | 114.74   |
 |                         | en-et   | mtee-news | 66.0         | 31.0     | **0.9129**                           | **71.7** | **108.5**|
 
-mtee-news results. FLORES-200 coming soon...
-
+## BLEU for flores200 ##
 | MT | en-et | en-cs | en-sl | et-en | cs-en | sl-en | sk-cs | sl-hr | hr-sl |
 | ---------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | DeepL | 33.47 | 38.58 | 39.96 | 45.91 | 50.17 | 45.09 | 33.41 | / | / |
