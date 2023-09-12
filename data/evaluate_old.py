@@ -65,7 +65,6 @@ DATA_DIR = HOME_DIR + 'translated/combined'
 
 DATASETS = ['flores200_devtest_by_documents']
 SYSTEMS = [ 'DL', 'GT', 'MS', 'OL']
-LMS = [ 'palm2', 'vicuna7', 'chatgpt-doc-p2-delim']
 CATEGORIES = ['one', 'many']
 
 LANGUAGE_PAIRS = []
@@ -108,31 +107,9 @@ for dataset in DATASETS:
                 src_file = f"{DATA_DIR}/{SOURCE}_{dataset}_{category}.ref"
                 transl_file = f"{DATA_DIR}/{SOURCE}_{TARGET}_{system}_{dataset}_{category}.txt"
 
-                #for metric in ["unbabel-wmt22-comet-da", "chrf", "chrf++", "bleu"]:
-                for metric in ["chrf", "chrf++", "bleu"]:
+                for metric in ["unbabel-wmt22-comet-da", "chrf", "chrf++", "bleu"]:
                     score = calculate_metrics(src_file, transl_file, ref_file, metric)
 
                     SCORES[dataset][pair][system][category][metric] = score
-
-        for lm in LMS:
-            print(f"{lm}")
-            SCORES[dataset][pair][lm] = {}
-
-            if (lm == 'chatgpt-doc-p2-delim' and (SOURCE == 'hr' or TARGET == 'hr')) or (lm == 'chatgpt-doc-p2-delim' and (SOURCE == 'sk' or TARGET == 'sk')) or (lm == 'palm2' and (SOURCE == 'hr' or TARGET == 'hr')) or (lm == 'vicuna7' and SOURCE == 'sk'):
-                continue
-            
-            for category in CATEGORIES:
-                print(f"{category}")
-                SCORES[dataset][pair][lm][category] = {}
-
-                ref_file = f"{DATA_DIR}/{TARGET}_{dataset}_{category}.ref"
-                src_file = f"{DATA_DIR}/{SOURCE}_{dataset}_{category}.ref"
-                transl_file = f"{DATA_DIR}/{SOURCE}_{TARGET}_{lm}_{dataset}_{category}.txt"
-
-                #for metric in ["unbabel-wmt22-comet-da", "chrf", "chrf++", "bleu"]:
-                for metric in ["chrf", "chrf++", "bleu"]:
-                    score = calculate_metrics(src_file, transl_file, ref_file, metric)
-
-                    SCORES[dataset][pair][lm][category][metric] = score
 
     write_json(SCORES, HOME_DIR + dataset + '-scores.json')

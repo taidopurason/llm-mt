@@ -37,7 +37,43 @@
                     "bleu": 34.65
                 }
             },
-            "OL": {}
+            "OL": {},
+            "palm2": {
+                "one": {
+                    "chrf": 81.7,
+                    "chrf++": 75.45,
+                    "bleu": 33.47
+                },
+                "many": {
+                    "chrf": 81.7,
+                    "chrf++": 75.45,
+                    "bleu": 33.47
+                }
+            },
+            "vicuna7": {
+                "one": {
+                    "chrf": 60.56,
+                    "chrf++": 51.39,
+                    "bleu": 3.26
+                },
+                "many": {
+                    "chrf": 60.56,
+                    "chrf++": 51.39,
+                    "bleu": 3.26
+                }
+            },
+            "chatgpt-doc-p2-delim": {
+                "one": {
+                    "chrf": 80.37,
+                    "chrf++": 73.77,
+                    "bleu": 30.15
+                },
+                "many": {
+                    "chrf": 80.37,
+                    "chrf++": 73.77,
+                    "bleu": 30.15
+                }
+            }
         },
         "en-cs": {
             "DL": {
@@ -86,6 +122,42 @@
                     "chrf": 77.48,
                     "chrf++": 73.12,
                     "bleu": 37.02
+                }
+            },
+            "palm2": {
+                "one": {
+                    "chrf": 78.06,
+                    "chrf++": 73.86,
+                    "bleu": 38.58
+                },
+                "many": {
+                    "chrf": 78.06,
+                    "chrf++": 73.86,
+                    "bleu": 38.58
+                }
+            },
+            "vicuna7": {
+                "one": {
+                    "chrf": 69.63,
+                    "chrf++": 63.68,
+                    "bleu": 18.86
+                },
+                "many": {
+                    "chrf": 69.63,
+                    "chrf++": 63.68,
+                    "bleu": 18.86
+                }
+            },
+            "chatgpt-doc-p2-delim": {
+                "one": {
+                    "chrf": 76.74,
+                    "chrf++": 72.24,
+                    "bleu": 35.69
+                },
+                "many": {
+                    "chrf": 76.74,
+                    "chrf++": 72.24,
+                    "bleu": 35.69
                 }
             }
         },
@@ -137,6 +209,42 @@
                     "chrf++": 69.09,
                     "bleu": 29.99
                 }
+            },
+            "palm2": {
+                "one": {
+                    "chrf": 80.57,
+                    "chrf++": 76.19,
+                    "bleu": 39.96
+                },
+                "many": {
+                    "chrf": 80.57,
+                    "chrf++": 76.19,
+                    "bleu": 39.96
+                }
+            },
+            "vicuna7": {
+                "one": {
+                    "chrf": 70.52,
+                    "chrf++": 63.82,
+                    "bleu": 15.94
+                },
+                "many": {
+                    "chrf": 70.52,
+                    "chrf++": 63.82,
+                    "bleu": 15.94
+                }
+            },
+            "chatgpt-doc-p2-delim": {
+                "one": {
+                    "chrf": 75.76,
+                    "chrf++": 71.04,
+                    "bleu": 29.62
+                },
+                "many": {
+                    "chrf": 75.76,
+                    "chrf++": 71.04,
+                    "bleu": 29.62
+                }
             }
         },
         "et-en": {
@@ -176,7 +284,43 @@
                     "bleu": 42.55
                 }
             },
-            "OL": {}
+            "OL": {},
+            "palm2": {
+                "one": {
+                    "chrf": 82.61,
+                    "chrf++": 79.65,
+                    "bleu": 45.91
+                },
+                "many": {
+                    "chrf": 82.61,
+                    "chrf++": 79.65,
+                    "bleu": 45.91
+                }
+            },
+            "vicuna7": {
+                "one": {
+                    "chrf": 70.85,
+                    "chrf++": 65.42,
+                    "bleu": 11.91
+                },
+                "many": {
+                    "chrf": 70.85,
+                    "chrf++": 65.42,
+                    "bleu": 11.91
+                }
+            },
+            "chatgpt-doc-p2-delim": {
+                "one": {
+                    "chrf": 82.67,
+                    "chrf++": 79.42,
+                    "bleu": 43.78
+                },
+                "many": {
+                    "chrf": 82.67,
+                    "chrf++": 79.42,
+                    "bleu": 43.78
+                }
+            }
         },
         "cs-en": {
             "DL": {
@@ -225,6 +369,42 @@
                     "chrf": 82.88,
                     "chrf++": 79.8,
                     "bleu": 45.19
+                }
+            },
+            "palm2": {
+                "one": {
+                    "chrf": 84.27,
+                    "chrf++": 81.47,
+                    "bleu": 50.17
+                },
+                "many": {
+                    "chrf": 84.27,
+                    "chrf++": 81.47,
+                    "bleu": 50.17
+                }
+            },
+            "vicuna7": {
+                "one": {
+                    "chrf": 80.5,
+                    "chrf++": 76.93,
+                    "bleu": 38.1
+                },
+                "many": {
+                    "chrf": 80.5,
+                    "chrf++": 76.93,
+                    "bleu": 38.1
+                }
+            },
+            "chatgpt-doc-p2-delim": {
+                "one": {
+                    "chrf": 83.39,
+                    "chrf++": 80.32,
+                    "bleu": 46.28
+                },
+                "many": {
+                    "chrf": 83.39,
+                    "chrf++": 80.32,
+                    "bleu": 46.28
                 }
             }
         },
@@ -276,6 +456,42 @@
                     "chrf++": 76.14,
                     "bleu": 34.94
                 }
+            },
+            "palm2": {
+                "one": {
+                    "chrf": 82.46,
+                    "chrf++": 79.45,
+                    "bleu": 45.09
+                },
+                "many": {
+                    "chrf": 82.46,
+                    "chrf++": 79.45,
+                    "bleu": 45.09
+                }
+            },
+            "vicuna7": {
+                "one": {
+                    "chrf": 79.51,
+                    "chrf++": 75.67,
+                    "bleu": 33.7
+                },
+                "many": {
+                    "chrf": 79.51,
+                    "chrf++": 75.67,
+                    "bleu": 33.7
+                }
+            },
+            "chatgpt-doc-p2-delim": {
+                "one": {
+                    "chrf": 82.04,
+                    "chrf++": 78.71,
+                    "bleu": 41.63
+                },
+                "many": {
+                    "chrf": 82.04,
+                    "chrf++": 78.71,
+                    "bleu": 41.63
+                }
             }
         },
         "sk-cs": {
@@ -326,7 +542,21 @@
                     "chrf++": 71.57,
                     "bleu": 31.61
                 }
-            }
+            },
+            "palm2": {
+                "one": {
+                    "chrf": 76.55,
+                    "chrf++": 71.83,
+                    "bleu": 33.41
+                },
+                "many": {
+                    "chrf": 76.55,
+                    "chrf++": 71.83,
+                    "bleu": 33.41
+                }
+            },
+            "vicuna7": {},
+            "chatgpt-doc-p2-delim": {}
         },
         "sl-hr": {
             "DL": {},
@@ -365,7 +595,21 @@
                     "chrf++": 68.75,
                     "bleu": 25.09
                 }
-            }
+            },
+            "palm2": {},
+            "vicuna7": {
+                "one": {
+                    "chrf": 66.79,
+                    "chrf++": 59.27,
+                    "bleu": 11.41
+                },
+                "many": {
+                    "chrf": 66.79,
+                    "chrf++": 59.27,
+                    "bleu": 11.41
+                }
+            },
+            "chatgpt-doc-p2-delim": {}
         },
         "hr-sl": {
             "DL": {},
@@ -404,7 +648,21 @@
                     "chrf++": 68.87,
                     "bleu": 27.72
                 }
-            }
+            },
+            "palm2": {},
+            "vicuna7": {
+                "one": {
+                    "chrf": 65.4,
+                    "chrf++": 58.0,
+                    "bleu": 12.18
+                },
+                "many": {
+                    "chrf": 65.4,
+                    "chrf++": 58.0,
+                    "bleu": 12.18
+                }
+            },
+            "chatgpt-doc-p2-delim": {}
         }
     }
 }
