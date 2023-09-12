@@ -11,6 +11,9 @@ dataset = DATASETS[0]
 
 data = HOME_DIR + dataset + '-scores.json'
 
+category = 'one'
+metric = 'bleu' # bleu, chrf, chrf++, unbabel-wmt22-comet-da (to add in future)
+
 # Opening JSON file
 with open(data) as json_file:
     SCORES = json.load(json_file)
@@ -21,9 +24,6 @@ with open(data) as json_file:
         values = []
 
         for system in SCORES[dataset][lp]:
-            category = 'one'
-            metric = 'chrf++'
-
             if len(SCORES[dataset][lp][system]) > 0:
                 values.append(SCORES[dataset][lp][system][category][metric])
             else:
@@ -32,4 +32,4 @@ with open(data) as json_file:
         df[lp] = values
 
 
-print(df)
+print(df.to_markdown())
