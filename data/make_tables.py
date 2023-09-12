@@ -34,4 +34,6 @@ with open(data) as json_file:
 
             df[lp] = values
 
+        print(metric)
         print(df.to_markdown())
+        print()
