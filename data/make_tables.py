@@ -12,7 +12,8 @@ dataset = DATASETS[0]
 data = HOME_DIR + dataset + '-scores.json'
 
 category = 'one'
-metric = 'bleu' # bleu, chrf, chrf++, unbabel-wmt22-comet-da (to add in future)
+#METRICS = ['bleu', 'chrf', 'chrf++', 'unbabel-wmt22-comet-da']
+METRICS = ['bleu', 'chrf', 'chrf++']
 
 # Opening JSON file
 with open(data) as json_file:
@@ -20,16 +21,17 @@ with open(data) as json_file:
 
     df = pd.DataFrame(index = SCORES[dataset]['en-et'].keys())
 
-    for lp in SCORES[dataset]:
-        values = []
+    for metric in METRICS:
 
-        for system in SCORES[dataset][lp]:
-            if len(SCORES[dataset][lp][system]) > 0:
-                values.append(SCORES[dataset][lp][system][category][metric])
-            else:
-                values.append(np.nan)
+        for lp in SCORES[dataset]:
+            values = []
 
-        df[lp] = values
+            for system in SCORES[dataset][lp]:
+                if len(SCORES[dataset][lp][system]) > 0:
+                    values.append(SCORES[dataset][lp][system][category][metric])
+                else:
+                    values.append(np.nan)
 
+            df[lp] = values
 
-print(df.to_markdown())
+        print(df.to_markdown())

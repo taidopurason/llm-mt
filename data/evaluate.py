@@ -108,7 +108,7 @@ for dataset in DATASETS:
                 src_file = f"{DATA_DIR}/{SOURCE}_{dataset}_{category}.ref"
                 transl_file = f"{DATA_DIR}/{SOURCE}_{TARGET}_{system}_{dataset}_{category}.txt"
 
-                #for metric in ["unbabel-wmt22-comet-da", "chrf", "chrf++", "bleu"]:
+                #for metric in ["chrf", "chrf++", "bleu", "unbabel-wmt22-comet-da"]:
                 for metric in ["chrf", "chrf++", "bleu"]:
                     score = calculate_metrics(src_file, transl_file, ref_file, metric)
 
