@@ -21,7 +21,7 @@ FLORES-200 results. P1 is from [https://arxiv.org/pdf/2304.02210.pdf](https://ar
 | DeepL                   | et-en   | mtee-news | 65.9         | **39.6** | 0.8441                               | 68.6     | 114.74   |
 |                         | en-et   | mtee-news | 66.0         | 31.0     | **0.9129**                           | **71.7** | **108.5**|
 
-## BLEU for flores200 (one) ##
+## BLEU, chrf, chrf++ scores for flores200 (one) ##
 |                      |   en-et |   en-cs |   en-sl |   et-en |   cs-en |   sl-en |   sk-cs |   sl-hr |   hr-sl |
 |:---------------------|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
 | DL                   |   33.47 |   38.58 |   39.96 |   45.91 |   50.17 |   45.09 |   33.41 |  nan    |  nan    |
@@ -31,8 +31,6 @@ FLORES-200 results. P1 is from [https://arxiv.org/pdf/2304.02210.pdf](https://ar
 | palm2                |   33.47 |   38.58 |   39.96 |   45.91 |   50.17 |   45.09 |   33.41 |  nan    |  nan    |
 | vicuna7              |    3.26 |   18.86 |   15.94 |   11.91 |   38.1  |   33.7  |  nan    |   11.41 |   12.18 |
 | chatgpt-doc-p2-delim |   30.15 |   35.69 |   29.62 |   43.78 |   46.28 |   41.63 |  nan    |  nan    |  nan    |
-
-## chrf for flores200 (one) ##
 |                      |   en-et |   en-cs |   en-sl |   et-en |   cs-en |   sl-en |   sk-cs |   sl-hr |   hr-sl |
 |:---------------------|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
 | DL                   |   81.7  |   78.06 |   80.57 |   82.61 |   84.27 |   82.46 |   76.55 |  nan    |  nan    |
@@ -42,8 +40,6 @@ FLORES-200 results. P1 is from [https://arxiv.org/pdf/2304.02210.pdf](https://ar
 | palm2                |   81.7  |   78.06 |   80.57 |   82.61 |   84.27 |   82.46 |   76.55 |  nan    |  nan    |
 | vicuna7              |   60.56 |   69.63 |   70.52 |   70.85 |   80.5  |   79.51 |  nan    |   66.79 |   65.4  |
 | chatgpt-doc-p2-delim |   80.37 |   76.74 |   75.76 |   82.67 |   83.39 |   82.04 |  nan    |  nan    |  nan    |
-
-## chrf++ for flores200 (one) ##
 |                      |   en-et |   en-cs |   en-sl |   et-en |   cs-en |   sl-en |   sk-cs |   sl-hr |   hr-sl |
 |:---------------------|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
 | DL                   |   75.45 |   73.86 |   76.19 |   79.65 |   81.47 |   79.45 |   71.83 |  nan    |  nan    |
